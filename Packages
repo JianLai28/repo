@@ -74,10 +74,10 @@ Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: debs/com.HBWechatHelper.ailun_1.7-6_iphoneos-arm64.deb
-Size: 11880384
-MD5sum: 507f97cad6da47a513c78aa52f4ac6df
-SHA1: a6acfac85d42cd61e5ac8b30cd2d77c661a7f2bc
-SHA256: 31f595952b738f52a4002eaee2d5fe283defb9e4f3f67e5219d93f5ab8d74d63
+Size: 11878428
+MD5sum: 56efe4eaad1c8972a071134350f26442
+SHA1: c6370c5abc5c39f0ab6e2e3f0bc294a4fcbf1d14
+SHA256: 739766a90f7ddaf6886a5b8b4c9f58a379c10140b5feadb0cfa42df69010ed13
 Section: 微信增强
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>

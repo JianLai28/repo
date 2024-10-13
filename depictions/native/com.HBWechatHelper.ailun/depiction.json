@@ -62,7 +62,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 测试用户专用版本全部更新此版本\t\u2023 等后面改本地语音后就不黄白的需要服务器了(为何说要跑路?)\t\u2023 旧1.7-5 以下版本随时可能用不了语音(因为掉权限就是被攻击)",
+					"markdown": "\t\u2023 测试用户专用版本全部更新此版本\n\t\u2023 等后面改本地语音后就不黄白的需要服务器了(为何说要跑路?)\n\t\u2023 旧1.7-5以下版本随时可能用不了语音(因为掉权限就是被攻击)",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
