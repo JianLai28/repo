@@ -1,5 +1,5 @@
 {
-	"minVersion": "0.6-1Beta1",
+	"minVersion": "0.6-1Beta",
 	"tabs": [
 		{
 			"tabname": "插件介绍",
@@ -17,7 +17,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "0.6-1",
+					"text": "0.6-1-Beta",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -36,8 +36,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "更新记录",
-					"action": "https://jianlai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/yyb.txt",
+					"title": "作者源",
+					"action": "http://apt.curtin.top/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -55,20 +55,60 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "0.1",
+					"title": "0.6-1-Beta4",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 ",
+					"markdown": "\t\u2023 1.优化[文字转语音]功能\t\u2023 2.语音功能，增加缓存管理\t\u2023 3.增加两个方法，用于统计缓存目录大小和删除缓存目录秒数可以自定义优化圆角头像\t\u2023 4.增加刷新音色列表按钮\t\u2023 5.优化搜索，详情内容也支持匹配搜索\t\u2023 6.优化缓存逻辑\t\u2023 7.优化，仅允许选择群聊鉴权接口\t\u2023 8.增加默认转语音开关\t\u2023 9.优先匹配语音指令\t\u2023 10.优化实名弹窗提示",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released </small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/13</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "0.6-1-Beta3",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 1.新增[文字转语音]功能测试",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/11</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "0.6-1-Beta1",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 1.新增一个功能\t\u2023 2.优化[加密对话]增加密图发送-是否压缩开关，可适当减少空间占用\t\u2023 3.优化[壁纸]功能\t\u2023 4.修复[群管理Pro]-[群VIP管理]，邀请进群，自动给邀请者授权问题",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/07</small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
