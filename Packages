@@ -28,16 +28,16 @@ Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
 Filename: debs/MisakaHelper_2.1-0_iphoneos-arm64.deb
-Size: 13176684
-MD5sum: 7f055bfc9069f0d058603e44247ff989
-SHA1: 4cbb24218bc636f52cd8594855355a7501df7f63
-SHA256: 5d51730a8d4cf04e7488ea82112adef209e0036c28ed30b3317f1b1155c6595d
+Size: 13177740
+MD5sum: bd3540bcd79d4aa8285a255478e77bd0
+SHA1: 4574dbd87527fc44d89278cd6cd50a433ff002f6
+SHA256: d5f3046b5fcdb53672b8dd0e5ee6c39dbf9719a03086821655f031dfff8eff61
 Section: 微信增强
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/MisakaHelper/depiction.json
 
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
