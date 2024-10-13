@@ -60,16 +60,16 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: debs/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64.deb
-Size: 10164024
-MD5sum: 8761a0e3b70c32f9b81e019ed137aac4
-SHA1: d1d7a6e7322c03fd0a7773c70c758865ef8d7569
-SHA256: c8c213ee381ca2f34d9cd66d5dfd92695c58c0bc4e5939bb73cafb0870effed5
+Size: 10163880
+MD5sum: fa685643c0de79c0323548089b8831e2
+SHA1: e2e714a6697ba3a09f020348588c44ef874b225e
+SHA256: 9aaeae52fbecadbfbee1358dd12d79b157831d247fc3ebe7b32a10b35b04a1a4
 Section: 微信增强
 Priority: optional
 Description: 微信助手
 Author: Mao
 Name: 微信助手
-Sileodepiction: https://github.com/JianLai28/repo/depictions/native/微信助手/
+Sileodepiction: https://github.com/JianLai28/repo/depictions/native/com.25mao.miyou.rootless/
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7-4
