@@ -1,0 +1,86 @@
+{
+	"minVersion": "0.1",
+	"tabs": [
+		{
+			"tabname": "插件介绍",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "0.5-9-Beta6",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "Dopamine & Xina",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2024/9/13",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "Curtin",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://hong-hpg.github.io/repo",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "0.5-9-Beta6",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 1.优化 壁纸功能，可自定义聊天窗口顶部、输入框、消息框透明度 \t\u2023 2.修复 壁纸bug  ",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/9/13</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				  "spacing": 20,
+				  "class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
