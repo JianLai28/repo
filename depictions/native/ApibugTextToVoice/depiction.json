@@ -37,7 +37,7 @@
 				},
 				{
 					"title": "更新记录",
-					"action": "",
+					"action": "1",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -68,7 +68,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/8/07</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released </small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
