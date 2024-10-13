@@ -36,8 +36,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "作者源",
-					"action": "https://apt.25mao.com/",
+					"title": "更新记录吧",
+					"action": "https://jianlai28.github.io/repo/depictions/native/com.tencent.voices.rootless/yyb.txt",
 					"class": "DepictionTableButtonView"
 				},
 				{
