@@ -7,16 +7,17 @@ Depends: mobilesubstrate
 Conflicts: ApibugTextToVoice
 Replaces: ApibugTextToVoice
 Provides: ApibugTextToVoice
-Filename: debs/微信文字转语音原神版本- 无根.deb
-Size: 170044
-MD5sum: d37788996fba28c8663b8f711cc3c840
-SHA1: e58df94fbe10b97f904e3895f18ca055e87ca39a
-SHA256: f386ecd8893702ddd1f8512869d6857672c63dfb9c22096cce931ce45ee4d749
-Section: custom
+Filename: debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
+Size: 169364
+MD5sum: 63ea8fb7f1c23f2b09eac53b243124c2
+SHA1: 410a2f75e214087a07467d0601fd99b94f276c33
+SHA256: 4a3a036dddcfca09621dcd57add647cb5699153bb19748ee52bde0a060c67e2b
+Section: 微信增强
 Priority: optional
 Description: 微信文字转语音原神版,模型运算版本,等待6秒左右合成成功- 官网:www.apibug.com
 Author: Apibug
 Name: ApibugTextToVoice
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/ApibugTextToVoice/depiction.json
 
 Package: MisakaHelper
 Version: 2.1-0
@@ -44,12 +45,12 @@ Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: debs/左滑返回-Rootless_1.0-6_iphoneos-arm64.deb
-Size: 66266
-MD5sum: 6c55f84cb420a6a918293a0e18c2e899
-SHA1: 71eebef73e83f4618c4194474012ba03dd4e971c
-SHA256: a3982a2b5806c9ebd2080af66724c0b89e0689c5018582b54bf2522098f43f38
-Section: Rootless
+Filename: debs/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64.deb
+Size: 44284
+MD5sum: 8bb189bf1a5237c87727cf416615693c
+SHA1: 030b7edd8e1c1847cfb80d7d5936c8bc2448836f
+SHA256: bd9ad3bf78a5691c0a33dc524a06f96b9e500ed3fc5ac1cfcf4f811af2ce01a8
+Section: 系统增强
 Priority: optional
 Description: 左滑返回上一页面
 Author: Mao
@@ -72,32 +73,17 @@ Author: Mao
 Name: 微信助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.miyou.rootless/depiction.json
 
-Package: com.HBWechatHelper.ailun
-Version: 1.7-4
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: debs/黄白助手1.7.4B测试版_无根.deb
-Size: 9321644
-MD5sum: abbbb8758f74ee1eadb128b6a44a831e
-SHA1: eca277ce4bbf8fc406c0a57cb558f0b5fa6ada58
-SHA256: 36e89fd133884a7abe572d222b9e61820afedf6a5e91b59def3f05b9ef037bed
-Section: Mao
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)-Rootless
-
 Package: com.appku.wechat
 Version: 1.6-3
 Architecture: iphoneos-arm64
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/爱锋助手1.6-3_无根.deb
-Size: 2828772
-MD5sum: 2b13abf95ca0c5fd215d370de0d975c9
-SHA1: 6c939c95b0611e627370449c961de983be7963be
-SHA256: be488b350fe4c9c983e6afdab4a1664bb7be1105a5e11782e2d0ce9796b2a25f
-Section: Tweaks
+Filename: debs/com.appku.wechat_1.6-3_iphoneos-arm64.deb
+Size: 1667840
+MD5sum: bedba47e4a562cf6f73054f86faceca1
+SHA1: 62959cde98fda4259579a4e906c319434c823444
+SHA256: 5808b81c2a0a3f486c9874602eee754890a0c1669ceddfc44f0724fb63beb0a5
+Section: 微信增强
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Author: appku
 Name: 爱锋助手
@@ -108,27 +94,28 @@ Architecture: iphoneos-arm64
 Maintainer: WeChat
 Installed-Size: 24000
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/锤子助手_2.0.1无根.deb
-Size: 9329474
-MD5sum: 4c9e39f53db5740abc1851ea14fe4130
-SHA1: 21ec3fb45a63f57300bdd42e9498d0585e6a2c2f
-SHA256: 6f7b671d1a535ba5b18beb42ec6ac187840c18d9a702a8eedaf255a07c7d755f
-Section: Tweaks
+Filename: debs/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+Size: 9332024
+MD5sum: f0e6f8779ca9d55eeae1151cf6a79afd
+SHA1: b65c11f9b25a05c37b3549cad32c7e0dd5ca3819
+SHA256: 0f11443563672fbb1b3d7dbb36dbfa3211d1c70b5acdc91d8179ccee6325d864
+Section: 微信增强
 Description: 锤子助手插件
 Author: DumpApp
 Name: 锤子助手-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dumpapp.wechat/depiction.json
 
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/com.huami.WCAtPure_1.0.0_iphoneos-arm64_rootless.deb
-Size: 94232
-MD5sum: e2f2ac8609607efb8f6c024ab50c16e5
-SHA1: 2d1341bfe61951309209c486e64c4992c0e4050f
-SHA256: 87ecd22e52c2cd67d097acd5809641124f808a1696e1c2a5d946c0e35adbc43e
-Section: Tweaks
+Filename: debs/com.huami.WCAtPure_1.0.0_iphoneos-arm64.deb
+Size: 73756
+MD5sum: ef1ffc844c7dacca95893adc3b6a1e81
+SHA1: 16e2607bd98590e58c1c9cdf3c835d4b297a821b
+SHA256: 2eccdac8ced0a15a5a0a4da5a7a049e3a6b9c90a478d021bda2bc125e3ab0653
+Section: 微信增强
 Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
 Author: huami
 Dev: huami
@@ -140,12 +127,12 @@ Architecture: iphoneos-arm64
 Maintainer: INITNIL
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/com_initnil_wcenableshowcontactaddcreatetime_1_1_1_iphoneos_arm64.deb
-Size: 3802
-MD5sum: 19f77e2cb117db09d3c5738b13000db4
-SHA1: e1e30162f0391720bdf3b618ffb7422dc065fe62
-SHA256: 07bc1cd438e54819c8c31bce63e713b0917e548baf259227f1d21e3751b23a1b
-Section: Tweaks
+Filename: debs/com.initnil.wcenableshowcontactaddcreatetime_1.1-1_iphoneos-arm64.deb
+Size: 3924
+MD5sum: 300c54681c395cc110bdf15aa55b76b4
+SHA1: d9141b9180b4b4a4d12446c94d53d6a0a525ea5a
+SHA256: ceaa8422a8a1eefc02e50998b372d5c336274487c2a86373c4136e06037ea445
+Section: 微信增强
 Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
 Author: INITNIL
 Name: WCEnableShowContactAddCreateTime
@@ -156,12 +143,12 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: debs/WeChatNotiAvatar_1.2-5_iphoneos-arm64.deb
-Size: 824140
-MD5sum: aca33ff46cb34b5444f07acfa1cca710
-SHA1: e70c68f309eab8f21178050e397fd48c8b16b0d6
-SHA256: 7c01901bf589637445f76037d113b0770ea76f00c6d4389a6bcfeeeccd2a8741
-Section: Netskao-Tweaks
+Filename: debs/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 523432
+MD5sum: c0a44454b2f261bdfb04d8aa5ad648d6
+SHA1: 540e74ef5c5da718fac9e3bc765e6b2b0f8bca2f
+SHA256: ae9a5522dff080227e320f312705aa8e1f6a24cd29fd7573fc2a9ff72826bde8
+Section: 微信增强
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
@@ -171,12 +158,12 @@ Version: 2.2-1
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/虚拟视频_2.2-1_0906无根.deb
-Size: 2827958
-MD5sum: 4e4b0b32705fffd6ed28bada019aa333
-SHA1: 0d048b260c03a93dfcf38980e2aaa31a7689e4ff
-SHA256: cbf3e7f5792833cc1f59d25eedb222f2bbf946c85694096dbf84faa65d8116e4
-Section: Tweaks
+Filename: debs/com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+Size: 1650836
+MD5sum: 43521ecd1efd95e3d67ba3b915a1780c
+SHA1: 9ac1ececeeb8c655fe77ed3e084549bfdde26b9c
+SHA256: 98f08fd3f1fa6d746d6a1ab873c4a57015e114e900c87cdfcc7af379e2eb022d
+Section: 微信增强
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
 Author: 平凡
 Name: 虚拟视频
@@ -187,11 +174,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: debs/com.tencent.voices.rootless_1.0-5_iphoneos-arm64.deb
-Size: 7354004
-MD5sum: d01d5cb25ed418ec833de70ccb7a0d6c
-SHA1: efc044b3bc9c0abeffbfc0a0f12b8940ad912d8c
-SHA256: e199ea6aeeec3b78cdf17965b0337db51cb1591ecf0efb2968d2d52eed16cadb
-Section: Tweaks
+Size: 7358236
+MD5sum: ee9fc33ae23a1c53236dc1ea2796f46d
+SHA1: c7865476b77397fe8d7f8315506d71813a03d53c
+SHA256: 7f104703edea901db7657424e494d9723ce0fcb167b7ec0d67f01445974f7cd2
+Section: 微信增强
 Priority: optional
 Description: 微信本地收藏语音包
 Author: Mao
@@ -205,14 +192,16 @@ Architecture: iphoneos-arm64
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debs/匿名艾特Carck_0.0.1无根.deb
-Size: 6176
-MD5sum: 351621f95378fb359bcea611da05dfd0
-SHA1: 7a74c343a0e9846df94ba3aad32b8788f6cba945
-SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
+Filename: debs/com.tencent.xin_0.1-1+debug_iphoneos-arm64.deb
+Size: 5540
+MD5sum: f0e8e765c38b3e6551cf944a2ac34747
+SHA1: f59add11ada89afb6842f1062f4379d5896cc415
+SHA256: 51c61db596f7d9fcab0bbfd80d2c017c19cc48ec5232f7012a6fec608e70333f
+Section: 微信增强
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.xin/depiction.json
 
 Package: com.yi.wcenablemomentslivephoto
 Version: 1.1-2
@@ -221,11 +210,11 @@ Maintainer: 怡点日常
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: debs/com.yi.wcenablemomentslivephoto_1.1-2_iphoneos-arm64.deb
-Size: 12746
-MD5sum: 2468739de2f1eea1d229a6450b41009e
-SHA1: d42654bc8bab9ab56be3c723535861ff3bc650f0
-SHA256: cb73335a2bffb3661274c0ba3575537c7d1241e95be7057f4ba1050830412ef0
-Section: Tweaks
+Size: 12860
+MD5sum: 14121035a6efb4382672252eab0c4e1a
+SHA1: 827db090c7609a794cf5f293fe331223653c4b05
+SHA256: 0ab807c5a0225b2e4a6af1e53f414c8353b4be1fbe5cae501aeee38cc7624522
+Section: 微信增强
 Description: WeChat Enable Testing Moments Live Photo v8.0.51+
 Author: 怡点日常
 Name: WCEnableMomentsLivePhoto
@@ -240,11 +229,11 @@ Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
 Filename: debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
-Size: 7084492
-MD5sum: 2419d66b639cf5380bce669e9dc80c0d
-SHA1: 3a6c7410c3ae31bcc4e7ee5e6022c605c973d370
-SHA256: 9df8a617821624f60c67f2b959b594d149a64573e3bddb6d80fa870668ae4b80
-Section: Netskao-Tweaks
+Size: 7085832
+MD5sum: c555f3f4ee21852be2036f3d6304e506
+SHA1: 5072522cffa848c768500ee1d9c17eb2bd23d2c4
+SHA256: 6bfa33174db9a13ee2139c27e26cb3302a907cf57bc32c3d70923fba89e9108e
+Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化-Rootless
@@ -255,12 +244,12 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_4.2-6-END-无根.deb
-Size: 6278058
-MD5sum: e386a95420df2b52d4638bc60a7cd07e
-SHA1: ddff36cdf9de33b59a66b380b5eaa3c3244d6efa
-SHA256: 61ab3d42b2d7a41c2dbc1670987874b3971c4ad33ca7c956544584785e2b71c6
-Section: Netskao-Tweaks
+Filename: debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Size: 6280396
+MD5sum: 69a4fff934957793d23fce3801ee839c
+SHA1: c9b953d68744e6f48028d24cac8844af850fbaad
+SHA256: a5f530b0c4c75197e5146aa4b8fa81b5a87c557e892ff9c611444414b1ae13ef
+Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化END
