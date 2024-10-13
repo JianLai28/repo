@@ -51,6 +51,29 @@
 			],
 			"class": "DepictionStackView"
 		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "0.1",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 ",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/8/07</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 				  "spacing": 20,
 				  "class": "DepictionSpacerView"
