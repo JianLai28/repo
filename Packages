@@ -1,20 +1,15 @@
 Package: ApibugTextToVoice
 Version: 1.0.5
 Architecture: iphoneos-arm64
-Essential: no
 Maintainer: Apibug <apibug6@gmail.com>
 Depends: mobilesubstrate
-Conflicts: ApibugTextToVoice
-Replaces: ApibugTextToVoice
-Provides: ApibugTextToVoice
 Filename: debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
-Size: 169364
-MD5sum: 63ea8fb7f1c23f2b09eac53b243124c2
-SHA1: 410a2f75e214087a07467d0601fd99b94f276c33
-SHA256: 4a3a036dddcfca09621dcd57add647cb5699153bb19748ee52bde0a060c67e2b
+Size: 169528
+MD5sum: 0e44e035871477214e0cc5dfdc3533d0
+SHA1: 910f977918c369c0f3a65c9683a963ae47d986fe
+SHA256: 7a4a70f505f3367ba3ea36a2cb18c5aa312996b2a10dcfeea68845db3ad38e6e
 Section: 微信增强
 Priority: optional
-Description: 微信文字转语音原神版,模型运算版本,等待6秒左右合成成功- 官网:www.apibug.com
 Author: Apibug
 Name: ApibugTextToVoice
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/ApibugTextToVoice/depiction.json
