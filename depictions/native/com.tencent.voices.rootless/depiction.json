@@ -1,0 +1,86 @@
+{
+	"minVersion": "0.1",
+	"tabs": [
+		{
+			"tabname": "插件介绍",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "群员专享语音包插件 上架备份"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "0.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "iOS13 & iOS18",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2024/8/07",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "Mao",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "作者源",
+					"action": "https://apt.25mao.com/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "0.1",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 ",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/8/07</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				  "spacing": 20,
+				  "class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

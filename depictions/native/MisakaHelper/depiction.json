@@ -75,13 +75,6 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/3/13</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
 				  "spacing": 20,
 				  "class": "DepictionSpacerView"
 				}
