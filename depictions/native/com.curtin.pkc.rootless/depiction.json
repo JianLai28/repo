@@ -55,6 +55,26 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "0.6-1-Beta5",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 1.优化[文字转语音]功能，增加可自定义语速、音量大小、优化默认接口（需重新填Token） ",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/14</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "0.6-1-Beta4",
 					"useBoldText": true,
 					"useSpacing": false,
