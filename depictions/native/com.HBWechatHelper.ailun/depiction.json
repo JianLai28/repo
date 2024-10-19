@@ -1,5 +1,5 @@
 {
-	"minVersion": "1.7-6",
+	"minVersion": "1.7-7",
 	"tabs": [
 		{
 			"tabname": "插件介绍",
@@ -17,7 +17,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "1.7-6",
+					"text": "1.7-7",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -27,7 +27,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2024/10/13",
+					"text": "2024/10/17",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -55,20 +55,20 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "1.7-6",
+					"title": "1.7-7",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 测试用户专用版本全部更新此版本\n\t\u2023 等后面改本地语音后就不黄白的需要服务器了(为何说要跑路?)\n\t\u2023 旧1.7-5以下版本随时可能用不了语音(因为掉权限就是被攻击)",
+					"markdown": "\t\u2023 该版本未更新任何功能仅为打某些🤡的脸一言不合就喊跑路\n\t\u2023内测用户强烈建议更新\n\t\u2023该版本无需群验证且7天检测一次授权避免授权失效问题\n\t\u2023昨晚还在维护 谈何跑路\n\t\u2023待一切处理完整后开源",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/13</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/17</small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
