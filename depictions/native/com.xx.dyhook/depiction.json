@@ -63,7 +63,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 如遇下载缓慢请挂V下载\t\u\n2023 更新记录看插件介绍页面",
+					"markdown": "\t\u2023 ",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
