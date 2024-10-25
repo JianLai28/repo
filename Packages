@@ -233,6 +233,23 @@ Author: 王富贵
 Name: 匿名艾特Carck
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.xin/depiction.json
 
+Package: com.xx.dyhook
+Version: 2.0.7+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 12384
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.xx.dyhook_2.0.7+1_iphoneos-arm64.deb
+Size: 4267740
+MD5sum: 65c2b233611e58e36dd72bec27a341ec
+SHA1: 99bc63fccba652c6617a96e979b7f4aa1254cf1e
+SHA256: 1f5733cb6e709434010652080bf9b2342891bb2d2bf6b8fd259dacf31387b32e
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
 Package: com.yi.wcenablemomentslivephoto
 Version: 1.1-2
 Architecture: iphoneos-arm64

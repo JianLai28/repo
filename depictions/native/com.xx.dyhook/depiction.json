@@ -1,0 +1,87 @@
+{
+	"minVersion": "0.1",
+   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
+	"tabs": [
+		{
+			"tabname": "插件介绍",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "抖音增强，首页双指双击弹出设置界面"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "2.0.7+1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "iOS13-iOS18",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2024/10/25",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "嘉嘉",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新记录",
+					"action": "https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/gxjl.txt",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "0.1",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 ）",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/25</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				  "spacing": 20,
+				  "class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
