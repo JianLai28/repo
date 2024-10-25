@@ -1,76 +1,79 @@
 <!DOCTYPE html>
-<html lang="">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>SkyPain Repo</title>
-    <meta name="description" content="SkyPain">
-    <meta name="keywords" content="SkyPain">
-    <link href="CydiaIcon.png" rel="shortcut icon" />
-    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.12.1/css/all.min.css">
-    <link rel="stylesheet" href="./static/style.css?v=1.1">
-    <link rel="stylesheet" href="./static/APlayer-1.10.1/dist/APlayer.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
+    <title>添加越狱源</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <style>
-        .photo-bg {
-            background-image: url("https://bu.dusays.com/2022/06/04/629b0a2750921.jpg");
+        body {
+            background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+            color: #333;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            padding: 40px;
+            background-color: #ffffff;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            border-radius: 20px;
+            width: 300px;
+        }
+
+        h1 {
+            font-size: 32px;
+            font-weight: bold;
+            margin: 0 0 30px;
+            color: #2c3e50;
+        }
+
+        .legend {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 0 0 20px;
+            color: #34495e;
+        }
+
+        .button {
+            display: block;
+            margin: 15px auto;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            outline: none;
+            color: #fff;
+            background-color: #3498db;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #2980b9;
+        }
+
+        .maintenance-notice {
+            font-size: 14px;
+            color: #999;
+            margin-top: 20px;
         }
     </style>
 </head>
-
 <body>
-    <div id="main" class="container">
-        <div class="row my-card justify-content-center">
-            <div class="col-lg-4 photo-bg"></div>
-            <div class="col-lg-8 card">
-                <h1>SkyPian Repo</h1>
-                <p>
-                    源地址: https://jianlai28.github.io/repo/
-                </p>
-                <div class="container-fluid">
-                    <div class="row">
-                        <!-- 导航按钮组 -->
-                        <button
-                            onclick="window.location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://jianlai28.github.io/repo/'"
-                            data-area-w="80%" data-area-h="90%" data-shade="false"
-                            class="kz-nav-btn btn btn-primary col-lg-4">Cydia</button>
-                        <button onclick="window.location.href='sileo://source/https://jianlai28.github.io/repo/'"
-                            data-area-w="80%" data-area-h="90%" data-shade="false"
-                            class="kz-nav-btn btn btn-secondary col-lg-4">Sileo</button>
-
-                        <button onclick="window.location.href='zbra://sources/add/https://jianlai28.github.io/repo/'"
-                            data-area-w="80%" data-area-h="90%" data-shade="false"
-                            class="kz-nav-btn btn btn-success col-lg-4">Zebra</button>
-
-                        <button onclick="window.location.href='installer://add/https://jianlai28.github.io/repo/'"
-                            data-area-w="80%" data-area-h="90%" data-shade="false"
-                            class="kz-nav-btn btn btn-info col-lg-4">Installer</button>
-                        <!-- end 导航按钮组 -->
-                    </div>
-                </div>
-                <!-- aplayer inner -->
-                <div id="aplayer-inner" class="aplayer"></div>
-                <!-- end aplayer inner -->
-
-                <footer>
-                    <p>Copyright 2022 - Now</p>
-                </footer>
-            </div>
-        </div>
-
+    <div class="container">
+        <h1>剑来</h1>
+        <p class="legend">添加越狱源<span class="fa fa-hand-o-down"></span></p>
+        <a href="sileo://source/https://jianlai28.github.io/repo/" class="button">Sileo</a>
+        <a href="zbra://sources/add/https://jianlai28.github.io/repo/" class="button">Zebra</a>
+        <a href="apt-repo://https://jianlai28.github.io/repo/" class="button">Saily</a>
+        <p class="maintenance-notice">人生得意须尽欢 莫使金樽空对月</p>
     </div>
-
-    <!-- aplayer -->
-    <div id="aplayer-fixed" class="aplayer"></div>
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <!-- <script src="./static/APlayer-1.10.1/dist/APlayer.min.js"></script> -->
-    <!-- <script src="./static/Meting.min.js"></script> -->
-    <!-- end_aplayer -->
-    <!-- <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script> -->
-    <script defer src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <script src="./static/layer-v3.5.1/layer/layer.js"></script>
-
-    <script src="./static/main.js"></script>
-
+</body>
 </html>
