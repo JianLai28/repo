@@ -1,18 +1,17 @@
 Package: ApibugTextToVoice
 Version: 1.0.5
 Architecture: iphoneos-arm64
-Maintainer: Apibug <apibug6@gmail.com>
 Depends: mobilesubstrate
 Filename: debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
-Size: 169528
-MD5sum: 0e44e035871477214e0cc5dfdc3533d0
-SHA1: 910f977918c369c0f3a65c9683a963ae47d986fe
-SHA256: 7a4a70f505f3367ba3ea36a2cb18c5aa312996b2a10dcfeea68845db3ad38e6e
+Size: 169628
+MD5sum: 57b869e321bc7b0227bbceb758cc20bb
+SHA1: 52407869ef1f17ad194b5ab47179a6498ab29e7c
+SHA256: 9b9311699e849bace01a9af3d1e9322da889aa77da21b1e47a0d74bdbf2b0042
 Section: 微信增强
-Priority: optional
+Description: 免费微信文字转语音-原神版
 Author: Apibug
 Name: ApibugTextToVoice
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/ApibugTextToVoice/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
 
 Package: MisakaHelper
 Version: 2.1-0
