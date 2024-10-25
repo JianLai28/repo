@@ -153,6 +153,22 @@ Author: DumpApp
 Name: 锤子助手-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dumpapp.wechat/depiction.json
 
+Package: com.huami.DYYY
+Version: 1.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.DYYY_1.6_iphoneos-arm64.deb
+Size: 20848
+MD5sum: 1995cfbdca1e5fd610361563d4e3ef06
+SHA1: ab163e0b62d389d0fe9c063b63b17f931c068c4a
+SHA256: 8b92106b511360e6227fd24daf0d0a8681fe55114704858618c02e7eb7964ef6
+Section: 抖音增强
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
+
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
