@@ -62,7 +62,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\n- 新增[文字转语音]功能\n- 优化[加密对话]增加密图发送-是否压缩开关，可适当减少空间占用\n- 优化[壁纸]功能\n- 修复[群管理Pro]-[群VIP管理]，邀请进群，自动给邀请者授权问题",
+					"markdown": "\t\u2023 新增[文字转语音]功能\n\t\u2023 优化[加密对话]增加密图发送-是否压缩开关，可适当减少空间占用\n\t\u2023 优化[壁纸]功能\n\t\u2023 修复[群管理Pro]-[群VIP管理]，邀请进群，自动给邀请者授权问题",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
