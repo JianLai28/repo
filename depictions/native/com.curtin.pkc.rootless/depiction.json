@@ -1,86 +1,86 @@
 {
-	"minVersion": "0.6-1",
-	"tabs": [
-		{
-			"tabname": "插件介绍",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特、文字转语音等"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "最近更新",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "版本",
-					"text": "0.6-1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容性",
-					"text": "iOS13 & iOS18",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "更新时间",
-					"text": "2024/10/16",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "开发者",
-					"text": "Curtin",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "作者源",
-					"action": "http://apt.curtin.top/",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新日志",
-			"views": [
-				{
-					"title": "0.6-1",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 1.新增[文字转语音]功能\n\t\u2023 2.优化[加密对话]增加密图发送-是否压缩开关，可适当减少空间占用\n\t\u2023 3.优化[壁纸]功能\n\t\u2023 4.修复[群管理Pro]-[群VIP管理]，邀请进群，自动给邀请者授权问题",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/16</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-				  "spacing": 20,
-				  "class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+    "minVersion": "0.6-1",
+    "tabs": [
+        {
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "本插件具备诸多实用功能，包括：群管理Pro可实现全方位群管理增强；标签Pro能优化群成员标签管理；显示群友真名字以便准确识别；群管标识清晰展示管理员身份；艾特提醒让你不会错过艾特消息；动态群昵称可按需动态变化；自定义API(图、文本、视频)能按需求自定义相关内容；消息统计可精准统计各类消息数据；加密对话保障对话安全；Bark消息推送及时通知相关消息；定时问候可定时向好友或群发送问候；JD自动签到自动完成京东平台签到；好友分析深入剖析好友数据；会话分析详细解读聊天会话；每天60s新闻快报提供每日精简新闻；防撤回可防止他人撤消息；退群监控实时掌握群成员退群情况；步数定时修改可定时调整步数数据；朋友圈特别关注重点留意特定好友动态；自动更新微信状态自动更新微信状态信息；长头像支持设置长头像样式；消息二次确认发送消息前可再次确认；拍一拍二次确认拍一拍操作也有二次确认机制；艾特列表置顶群管理在艾特列表中置顶群管理员；按群员查找列表置顶群管理通过群员查找时置顶群管理；群性别统计可统计群成员性别分布；关键词自动回复依设定关键词自动回复消息；转账自动收款自动接收转账款项；收款自动回复收款后自动回复消息；批量退群可一次性退出多个群；批量修改群昵称能同时修改多个群昵称；自动通过好友请求自动处理并通过好友添加请求；自动互删好友实现自动与好友互相删除；id加好友通过ID添加好友；匿名艾特可匿名艾特群成员；文字转语音可将输入文字转换为语音播放。"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "最近更新",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "版本",
+                    "text": "0.6-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "iOS13 & iOS18",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2024/10/16",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "Curtin",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "作者源",
+                    "action": "http://apt.curtin.top/",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "title": "0.6-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "本次更新内容如下：\n- 新增[文字转语音]功能，可将输入文字转换为语音播放。\n- 优化[加密对话]功能，增加密图发送-是否压缩开关，能适当减少空间占用。\n- 优化[壁纸]功能。\n- 修复[群管理Pro]-[群VIP管理]中，邀请进群时自动给邀请者授权的问题。",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/16</small>",
+                    "useRawFormat": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
 }
