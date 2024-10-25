@@ -267,6 +267,21 @@ Author: 怡点日常
 Name: WCEnableMomentsLivePhoto
 
 Package: net.griddy
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: debs/net.griddy_1.0_iphoneos-arm64.deb
+Size: 16272
+MD5sum: cbb01b526a68e2e96f165afd6e82a0b8
+SHA1: dd875057642888e6aa5d09de7ac00596a9aa3372
+SHA256: 348f378dba9e2f6ebfe157c474103b9efccfa54b0adf4d361a584a43671192dd
+Section: 系统增强
+Description: 桌面图标随意摆放
+Author: mikifp
+Name: Griddy图标随意摆-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+
+Package: net.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate

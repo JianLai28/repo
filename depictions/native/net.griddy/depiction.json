@@ -69,7 +69,27 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/7/31</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/25</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0初始版",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 将图标拖放至任意位置\n\t\u2023 在重启和重启之间保存图标布局\n\t\u2023 纵向和横向独立布局\n\t\u2023 支持任何图标或小工具",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/24</small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
