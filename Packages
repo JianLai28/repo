@@ -270,15 +270,15 @@ Package: net.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/图标自定义.deb
-Size: 17692
-MD5sum: 446e55148913b73c3fb1138cf951a4c1
-SHA1: f31f01b7eb60de098e8df0c7b2a2a6b4d1214ee2
-SHA256: 934a455b05173953b8352f17e6a59b13ea44ec60f36d2a1ad6b245d9b2409a00
+Filename: debs/net.griddy_1.0.3_iphoneos-arm64.deb
+Size: 17720
+MD5sum: 090492f53166e3c3a369fe16624d299f
+SHA1: fc390bcbbc652cbc374a58b6c23feb89e5d6485a
+SHA256: 9dc71aa8b6c102022f7f166f4b3dd1472b8650a79052f2983e0b0b693ad13ea7
 Section: 系统增强
 Description: 桌面图标随意摆放
 Author: mikifp
-Name: Griddy图标随意摆-Rootless
+Name: Griddy图标自定义
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
 
 Package: netskao.wcpureextension-rootless
