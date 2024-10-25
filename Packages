@@ -3,15 +3,15 @@ Version: 1.0.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Filename: debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
-Size: 169628
-MD5sum: 57b869e321bc7b0227bbceb758cc20bb
-SHA1: 52407869ef1f17ad194b5ab47179a6498ab29e7c
-SHA256: 9b9311699e849bace01a9af3d1e9322da889aa77da21b1e47a0d74bdbf2b0042
+Size: 169508
+MD5sum: 681a52807a9b758d991ce8ebcf697c06
+SHA1: 2fc931cafa222a150e6eaf4f43a4994d99d715d0
+SHA256: 6d493ba25fe5424f5fc4aa4a8cad09d8c74ff6538084f343860a1f3e2b32bc05
 Section: 微信增强
 Description: 免费微信文字转语音-原神版
 Author: Apibug
 Name: ApibugTextToVoice
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/ApibugTextToVoice/depiction.json
 
 Package: MisakaHelper
 Version: 2.1-0
@@ -97,6 +97,25 @@ Section: 微信增强
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Author: appku
 Name: 爱锋助手
+
+Package: com.curtin.pkc
+Version: 0.6-2-Beta1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta1.deb
+Size: 630200
+MD5sum: d4c2c193b672c3e17d808a46106b6c24
+SHA1: df6b754de43ac1f393caa3b36a1473e003f1cf0a
+SHA256: f098039e438d1459db6a9dc4c9ca3b2e9e8022689d980221eb613473c02cf6f5
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc/depiction.json
 
 Package: com.curtin.pkc.rootless
 Version: 0.6-1
