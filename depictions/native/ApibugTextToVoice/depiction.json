@@ -1,5 +1,5 @@
 {
-	"minVersion": "1.0.5",
+	"minVersion": "0.1",
    "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
 	"tabs": [
 		{
@@ -28,7 +28,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2024/8/07",
+					"text": "2024/8/7",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -37,8 +37,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "更新记录",
-					"action": "1",
+					"title": "Github",
+					"action": "https://jianlai28.github.io/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -56,7 +56,7 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "0.1",
+					"title": "1.0.5",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
@@ -69,7 +69,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released </small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/8/7</small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
