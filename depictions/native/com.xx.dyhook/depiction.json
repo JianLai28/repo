@@ -37,8 +37,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "更新记录",
-					"action": "https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/gxjl.html",
+					"title": "点击加入微信群聊",
+					"action": "123",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -55,6 +55,26 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "2.0.7+2-END",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 新增视屏批量下载合集\n\t\u2023 新增倍速按钮自定义调节(重新打开开关)\n\t\u2023 新增可自由选择是否添加图文保存视频按钮\n\t\u2023 新增纯净模式按钮图标自行更改(最底部选取)\n\t\u2023 长按关闭输入我爱嘉嘉可以更改头像旁名字\n\t\u2023 修复右上角搜索透明度失败\n\t\u2023 修复首页全屏偶尔失效\n\t\u2023 修复一些已知问题\n\t\u2023 优化一些插件代码",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/26</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0.7+1",
 					"useBoldText": true,
