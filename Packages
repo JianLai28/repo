@@ -201,6 +201,23 @@ Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
 Author: INITNIL
 Name: WCEnableShowContactAddCreateTime
 
+Package: com.ketty.meowtimemachine
+Version: 0.0.1-106+debug
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Installed-Size: 6912
+Depends: firmware (>= 14.0)
+Filename: debs/插件备份.deb
+Size: 2322760
+MD5sum: 669e40121a2274f15869cd27abc5a727
+SHA1: 2651d01876dad36d14b5bb5032ca4884b37aa49e
+SHA256: d167fe0a92458da8a7f4ea275e7877b9bd0b43b98abff1bb13400867746fbdee
+Section: Utilities
+Description: An awesome SwiftUI application!
+Author: 预言小猫
+Name: MeowTimeMachine
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.ketty.meowtimemachine/depiction.json
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
