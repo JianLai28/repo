@@ -1,0 +1,87 @@
+{
+	"minVersion": "0.1",
+   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
+	"tabs": [
+		{
+			"tabname": "插件介绍",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "功能和微信净化一样，自行选择安装。不能和净化共存会闪退"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "2.0.3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "iOS13 & iOS18",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2024/10/27",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "Dumpapp",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://jianlai28.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "2.0.3",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 修复闪退和卡机问题",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/27</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				  "spacing": 20,
+				  "class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

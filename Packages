@@ -137,21 +137,21 @@ Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.dumpapp.wechat-rootless
-Version: 2.0.1
+Version: 2.0.3
 Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 24000
+Maintainer: DumpApp
+Installed-Size: 23984
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
-Size: 9332024
-MD5sum: f0e6f8779ca9d55eeae1151cf6a79afd
-SHA1: b65c11f9b25a05c37b3549cad32c7e0dd5ca3819
-SHA256: 0f11443563672fbb1b3d7dbb36dbfa3211d1c70b5acdc91d8179ccee6325d864
+Filename: debs/锤子助手2.0.3.deb
+Size: 9331852
+MD5sum: b9ae154f54b4b9885ec0b95fe77a80cb
+SHA1: 5f1919707efa8a24b0fc3c275660d713aea9c2cd
+SHA256: dcd85a3f7e9b10d646180e3614d321c058bd1abf32bb2555b983a68ee7e2d24c
 Section: 微信增强
-Description: 锤子助手插件
 Author: DumpApp
-Name: 锤子助手-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dumpapp.wechat/depiction.json
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/dumpapp/depiction.json
 
 Package: com.huami.DYYY
 Version: 1.6
