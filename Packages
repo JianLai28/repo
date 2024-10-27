@@ -375,15 +375,15 @@ Architecture: iphoneos-arm64
 Maintainer: 剑来
 Installed-Size: 1509
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: debs/byg.iosios.net.jade_1.0.3.deb
-Size: 308680
-MD5sum: 98f0b01552b9ae4a08cc4149863ba4cb
-SHA1: afa7979d943ca9c79c18cc43593b38a798036c82
-SHA256: 01353195ecc8ad9821fb4ddb76a2e7a42bfbf4186475a392849fef03d2bb438a
+Filename: debs/jian.lai.jade_1.0.3_iphoneos-arm64.deb
+Size: 308628
+MD5sum: 853966997701ce1ce4ab1050bfa22d05
+SHA1: 075584b61555ca2cb5a0204556dc02c1b2800868
+SHA256: fe5bbfb45c7d4050a675ed6b81712490190007d396fd2e562feabd688273eee1
 Section: 系统增强
-Description: Your control center, brought anew.控制中心美化插件
+Description: Your control center, brought anew.
 Author: Nightwind and thetimeloop
-Name: Jade控制中心美化-Rootless
+Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
 Sponsor: 剑来
 
