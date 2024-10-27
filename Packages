@@ -369,6 +369,24 @@ Description: WeChat Enable Testing Moments Live Photo v8.0.51+
 Author: 怡点日常
 Name: WCEnableMomentsLivePhoto
 
+Package: jian.lai.jade
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 剑来
+Installed-Size: 1509
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: debs/byg.iosios.net.jade_1.0.3.deb
+Size: 308680
+MD5sum: 98f0b01552b9ae4a08cc4149863ba4cb
+SHA1: afa7979d943ca9c79c18cc43593b38a798036c82
+SHA256: 01353195ecc8ad9821fb4ddb76a2e7a42bfbf4186475a392849fef03d2bb438a
+Section: 系统增强
+Description: Your control center, brought anew.控制中心美化插件
+Author: Nightwind and thetimeloop
+Name: Jade控制中心美化-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
+Sponsor: 剑来
+
 Package: net.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
