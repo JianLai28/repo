@@ -411,13 +411,13 @@ Package: com.xx.dyhook
 Version: 2.0.7+3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 12952
+Installed-Size: 13472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/抖音图层_2.0.7+3.deb
-Size: 4649592
-MD5sum: 1cb31e6160884f0aa10473372cdcd578
-SHA1: 5a65a8d7ec4299e39a35668e3207e9d03aaa78c0
-SHA256: cca5a860b8d55143c8cd8db86c396778d82813ad57755fb6a5d9f8d648cbfafb
+Size: 4662336
+MD5sum: 3f6f2ed2413442fd7e3a899a6cf8f23b
+SHA1: 432b4a74f534ce578dce0eb8b714e97c47c67aeb
+SHA256: ca883540ea3c31d3ebf1536a61511a42ca3e5d9b5e754911631b001eda9ed0da
 Section: 抖音增强
 Description: 自用 越狱食用
 Author: x✨
