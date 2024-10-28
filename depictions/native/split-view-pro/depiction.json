@@ -58,7 +58,22 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "依赖",
+          "title": "版本",
+          "text": "AltList",
+          "class": "DepictionTableTextView"
+        },
+		        {
+          "title": "兼容性",
+          "text": "AltList",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "开发者",
+          "text": "AltList",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "更新时间",
           "text": "AltList",
           "class": "DepictionTableTextView"
         },
@@ -248,6 +263,16 @@
         {
           "spacing": 20,
           "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Readme",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅为兴趣自用\n- 插件并不收费就不必搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
         }
       ],
       "class": "DepictionStackView"
