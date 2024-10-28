@@ -9,16 +9,42 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "text": "点击加入QQ群聊",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-          "class": "DepictionButtonView"
+          "class": "DepictionMarkdownView",
+          "markdown": "插件介绍"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 14,
+          "screenshots": [
+            {"url": "图片",
+              "accessibilityText": "1.jpg"
+            },
+            {"url": "图片",
+              "accessibilityText": "2.jpg"
+            },
+            {"url": "图片",
+              "accessibilityText": "3.jpg"
+            },
+            {"url": "图片",
+              "accessibilityText": "4.jpg"
+            },
+            {"url": "图片",
+              "accessibilityText": "5.jpg"
+            }
+          ],
+          "itemSize": "{370,456}"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "分屏泄露版，据说会抹机？自用两个多月没问题，自行判断是否安装。出现任何问题源主概不负责。"
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -30,7 +56,7 @@
         },
 		        {
           "title": "兼容性",
-          "text": "15-17",
+          "text": "Dopamine-Xina",
           "class": "DepictionTableTextView"
         },
 		{
@@ -82,7 +108,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除。"
+          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除"
         }
       ],
       "class": "DepictionStackView"
