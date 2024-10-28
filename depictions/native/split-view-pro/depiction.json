@@ -6,12 +6,40 @@
 			"tabname": "插件介绍",
 			"views": [
 				{
+            "class": "DepictionSeparatorView"
+		    	},
+		        {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "class": "DepictionButtonView"
+                },
+                {
+          "class": "DepictionSeparatorView"
+                },
+                {
 					"class": "DepictionMarkdownView",
 					"markdown": "分屏泄露版，据说会抹机？自用两个多月没问题，自行判断是否安装。出现任何问题源主概不负责。"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
+				          "itemCornerRadius": 14,
+                    "screenshots": [
+                    {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/1.jpg",
+                    "accessibilityText": "1.jpg"
+                },
+                    {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/2.jpg",
+                    "accessibilityText": "2.jpg"
+                },
+                    {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/3.jpg",
+                    "accessibilityText": "3.jpg"
+                },
+                    {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/4.jpg",
+                    "accessibilityText": "4.jpg"
+				},
+                    {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/5.jpg",
+                    "accessibilityText": "5.jpg"
+	        	},
 				{
 					"title": "最近更新",
 					"class": "DepictionHeaderView"
@@ -37,11 +65,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "加入QQ群聊",
-					"action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},
@@ -49,10 +72,17 @@
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
+		    	{
+			        "class": "DepictionStackView"
+		        },
+			    {
+                    "text": "获取正版授权",
+                    "action": "https://www.wcfaka.com/details/43CBBA8F",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+				},
 			"tabname": "更新日志",
 			"views": [
 				{
@@ -83,5 +113,16 @@
 			"class": "DepictionStackView"
 		}
 	],
-	"class": "DepictionTabView"
-}
+	    {
+      "tabname": "Readme",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅为兴趣自用\n- 插件并不收费就不必搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+  }
