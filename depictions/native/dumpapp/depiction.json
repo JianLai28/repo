@@ -18,7 +18,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "2.0.3",
+					"text": "2.0.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2024/10/27",
+					"text": "2024/10/28",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -55,6 +55,26 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "2.0.4",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 修复巨魔闪退问题",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/28</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0.3",
 					"useBoldText": true,

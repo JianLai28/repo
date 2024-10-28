@@ -172,6 +172,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/dumpapp/depiction.json
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Installed-Size: 23984
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.dumpapp.wechat-rootless_2.0.4_iphoneos-arm64.deb
+Size: 9231308
+MD5sum: ff16ed5e2c6508eda24a8ce44100250c
+SHA1: be455989ec16a41b889d5c7a1a54722b8eb17ce7
+SHA256: 63f5094b902780915f49bf3525b844420e492ee4693264200aacc61098efcde2
+Section: 微信增强
+Author: DumpApp
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/dumpapp/depiction.json
+
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
