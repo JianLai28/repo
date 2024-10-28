@@ -372,6 +372,23 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
+Package: com.xx.dyhook
+Version: 2.0.7+3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 12952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.xx.dyhook_2.0.7+3_iphoneos-arm64.deb
+Size: 4649592
+MD5sum: 1cb31e6160884f0aa10473372cdcd578
+SHA1: 5a65a8d7ec4299e39a35668e3207e9d03aaa78c0
+SHA256: cca5a860b8d55143c8cd8db86c396778d82813ad57755fb6a5d9f8d648cbfafb
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
 Package: com.yi.wcenablemomentslivephoto
 Version: 1.1-2
 Architecture: iphoneos-arm64
