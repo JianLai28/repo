@@ -13,28 +13,6 @@
           "markdown": "插件介绍"
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14,
-          "screenshots": [
-            {"url": "图片",
-              "accessibilityText": "1.jpg"
-            },
-            {"url": "图片",
-              "accessibilityText": "2.jpg"
-            },
-            {"url": "图片",
-              "accessibilityText": "3.jpg"
-            },
-            {"url": "图片",
-              "accessibilityText": "4.jpg"
-            },
-            {"url": "图片",
-              "accessibilityText": "5.jpg"
-            }
-          ],
-          "itemSize": "{370,456}"
-        },
-        {
           "spacing": 15,
           "class": "DepictionSpacerView"
         },
