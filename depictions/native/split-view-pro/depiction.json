@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+  "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
   "tabs": [
     {
       "tabname": "详情",
@@ -9,7 +9,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "text": "加入群聊",
+          "text": "点击加入QQ群聊",
           "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
           "class": "DepictionButtonView"
         },
@@ -19,40 +19,6 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "分屏泄露版，据说会抹机？自用两个多月没问题，自行判断是否安装。出现任何问题源主概不负责。"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14,
-          "screenshots": [
-            {"url": "",
-              "accessibilityText": "1.jpg"
-            },
-            {"url": "",
-              "accessibilityText": "2.jpg"
-            },
-            {"url": "",
-              "accessibilityText": "3.jpg"
-            },
-            {"url": "",
-              "accessibilityText": "4.jpg"
-            },
-            {"url": "",
-              "accessibilityText": "5.jpg"
-            }
-          ],
-          "itemSize": "{370,456}"
-        },
-        {
-          "spacing": 15,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "获取正版授权",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-          "class": "DepictionButtonView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -88,6 +54,11 @@
       ],
       "class": "DepictionStackView"
     },
+        {
+          "text": "点击联系我",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
     {
       "tabname": "更新",
       "views": [
@@ -116,7 +87,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- 源内插件仅为兴趣自用\n- 插件大多数搬运网络\n- 如有侵权，联系删除。"
+          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除。"
         }
       ],
       "class": "DepictionStackView"
