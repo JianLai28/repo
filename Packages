@@ -22,7 +22,7 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/MisakaHelper_2.1-0_iphoneos-arm64.deb
+Filename: debs/MisakaHelper_2.1-0-EMD.deb
 Size: 13177740
 MD5sum: bd3540bcd79d4aa8285a255478e77bd0
 SHA1: 4574dbd87527fc44d89278cd6cd50a433ff002f6
@@ -39,7 +39,7 @@ Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: debs/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64.deb
+Filename: debs/左划返回_1.0-6.deb
 Size: 44284
 MD5sum: 8bb189bf1a5237c87727cf416615693c
 SHA1: 030b7edd8e1c1847cfb80d7d5936c8bc2448836f
@@ -55,7 +55,7 @@ Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64.deb
+Filename: debs/微信助手_3.8-0.deb
 Size: 10164312
 MD5sum: 589410b70fd136b0dc2f909a1a43805a
 SHA1: 98ed21f40024c5c4ffc92cf1f33495068b854da6
@@ -72,7 +72,7 @@ Version: 1.7-7
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debs/com.HBWechatHelper.ailun_1.7-7_iphoneos-arm64.deb
+Filename: debs/黄白助手1.7-7.deb
 Size: 10908348
 MD5sum: bc3ad2b95a3629caf97d2121817c7112
 SHA1: 68f88884164625fda85f0ad64e20e672af7f0094
@@ -88,7 +88,7 @@ Version: 1.6-3
 Architecture: iphoneos-arm64
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.appku.wechat_1.6-3_iphoneos-arm64.deb
+Filename: debs/爱锋助手_1.6-3.deb
 Size: 1667840
 MD5sum: bedba47e4a562cf6f73054f86faceca1
 SHA1: 62959cde98fda4259579a4e906c319434c823444
@@ -103,7 +103,7 @@ Version: 0.6-2-Beta1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/PKC_无根_0.6-2-Beta1.deb
+Filename: debs/PKC_0.6-2-Beta1.deb
 Size: 630020
 MD5sum: cbb0111a42c8aca377451fc282b6230e
 SHA1: 13f4c8a6d69488c0af5a44c5086f11cb368c082c
@@ -122,7 +122,7 @@ Version: 0.6-2-Beta2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/PKC_无根_0.6-2-Beta2.deb
+Filename: debs/PKC_0.6-2-Beta2.deb
 Size: 718820
 MD5sum: 54ad18473be9f074901ff3e8002db85b
 SHA1: 1315a7f4cb9dc67b9a96755079f04d176a0d3ac1
@@ -141,7 +141,7 @@ Version: 0.6-1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-1_iphoneos-arm64.deb
+Filename: debs/PKC_0.6-1.deb
 Size: 628560
 MD5sum: 4005d1649d1c9cf17dfdb5613ec46c08
 SHA1: 22141622cee6b7df90ddecc320351a34f3cd62c7
@@ -178,7 +178,7 @@ Architecture: iphoneos-arm64
 Maintainer: DumpApp
 Installed-Size: 23984
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.dumpapp.wechat-rootless_2.0.4_iphoneos-arm64.deb
+Filename: debs/锤子助手_2.0.4.deb
 Size: 9231308
 MD5sum: ff16ed5e2c6508eda24a8ce44100250c
 SHA1: be455989ec16a41b889d5c7a1a54722b8eb17ce7
@@ -189,11 +189,29 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/dumpapp/depiction.json
 
+Package: com.dvntm.ratebegone
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/屏蔽评论弹窗_0.0.1.deb
+Size: 3404
+MD5sum: 7f6ee511260ece631625950374911cc5
+SHA1: 83cc161ed9f2915d35a99dacfc32fb97a396b2c6
+SHA256: e8585ea828586b620849a4e0445976fb3bed2d6381f79fabd4320ce36fecf8e9
+Section: 应用增强
+Description: Removes annoying rate app pop-ups
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+Name: RateBeGone
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/屏蔽评论弹窗/depiction.json
+
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.DYYY_1.6_iphoneos-arm64.deb
+Filename: debs/DYYY_1.6.deb
 Size: 20848
 MD5sum: 1995cfbdca1e5fd610361563d4e3ef06
 SHA1: ab163e0b62d389d0fe9c063b63b17f931c068c4a
@@ -260,7 +278,7 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: debs/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Filename: debs/键盘圆角_0.0.1.deb
 Size: 3720
 MD5sum: b18f6e405f0645e075d60ce762af7ae8
 SHA1: c72888dd24bc10b4d990e35c587260a4393b4bcf
@@ -292,7 +310,7 @@ Version: 2.2-1
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+Filename: debs/虚拟视频_2.2-1.deb
 Size: 1650836
 MD5sum: 43521ecd1efd95e3d67ba3b915a1780c
 SHA1: 9ac1ececeeb8c655fe77ed3e084549bfdde26b9c
@@ -308,7 +326,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: debs/split-view-pro_1.3.7_iphoneos-arm64.deb
+Filename: debs/split-view-pro_1.3.7.deb
 Size: 1538332
 MD5sum: 500c3e5a4790dc741c56ee6935fb12d9
 SHA1: 6fb6809d1dbbc7412eac204efd6b1870a59bad0c
@@ -325,7 +343,7 @@ Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.tencent.voices.rootless_1.0-5_iphoneos-arm64.deb
+Filename: debs/语音包.deb
 Size: 7358236
 MD5sum: ee9fc33ae23a1c53236dc1ea2796f46d
 SHA1: c7865476b77397fe8d7f8315506d71813a03d53c
@@ -344,7 +362,7 @@ Architecture: iphoneos-arm64
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debs/com.tencent.xin_0.1-1+debug_iphoneos-arm64.deb
+Filename: debs/匿名艾特无限次数_0.1-1.deb
 Size: 5540
 MD5sum: f0e8e765c38b3e6551cf944a2ac34747
 SHA1: f59add11ada89afb6842f1062f4379d5896cc415
@@ -361,7 +379,7 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 12384
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.xx.dyhook_2.0.7+1_iphoneos-arm64.deb
+Filename: debs/抖音图层_2.0.7+1.deb
 Size: 4267740
 MD5sum: 65c2b233611e58e36dd72bec27a341ec
 SHA1: 99bc63fccba652c6617a96e979b7f4aa1254cf1e
@@ -378,7 +396,7 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.xx.dyhook_2.0.7+2_iphoneos-arm64.deb
+Filename: debs/抖音图层_2.0.7+2.deb
 Size: 4477280
 MD5sum: a55d5d436a263196018fa47e4b75a21b
 SHA1: 9e75a4317228aeea1dfc6d1ea2aa949c123c47cf
@@ -395,7 +413,7 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.xx.dyhook_2.0.7+3_iphoneos-arm64.deb
+Filename: debs/抖音图层_2.0.7+3.deb
 Size: 4649592
 MD5sum: 1cb31e6160884f0aa10473372cdcd578
 SHA1: 5a65a8d7ec4299e39a35668e3207e9d03aaa78c0
@@ -444,7 +462,7 @@ Package: net.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/net.griddy_1.0_iphoneos-arm64.deb
+Filename: debs/图标自定义_1.0.deb
 Size: 16272
 MD5sum: cbb01b526a68e2e96f165afd6e82a0b8
 SHA1: dd875057642888e6aa5d09de7ac00596a9aa3372
@@ -459,7 +477,7 @@ Package: net.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/net.griddy_1.0.3_iphoneos-arm64.deb
+Filename: debs/图标自定义_1.0.3.deb
 Size: 17720
 MD5sum: 090492f53166e3c3a369fe16624d299f
 SHA1: fc390bcbbc652cbc374a58b6c23feb89e5d6485a
@@ -474,7 +492,7 @@ Package: net.griddy
 Version: 1.0.3.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/net.griddy_1.0.3.5_iphoneos-arm64.deb
+Filename: debs/图标自定义_1.0.3.5.deb
 Size: 18972
 MD5sum: 84e900839d800b9714446e7556509d64
 SHA1: ecc52d05ec2a58657d3d2708ebfcaddf21b9babe
@@ -494,7 +512,7 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
-Filename: debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
+Filename: debs/微信净化_4.2-6.deb
 Size: 7085832
 MD5sum: c555f3f4ee21852be2036f3d6304e506
 SHA1: 5072522cffa848c768500ee1d9c17eb2bd23d2c4
@@ -510,7 +528,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Filename: debs/微信净化_4.2-6-END.deb
 Size: 6280396
 MD5sum: 69a4fff934957793d23fce3801ee839c
 SHA1: c9b953d68744e6f48028d24cac8844af850fbaad
