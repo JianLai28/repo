@@ -6,29 +6,8 @@
       "tabname": "详情",
       "views": [
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "点击加入QQ群聊",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "class": "DepictionMarkdownView",
           "markdown": "Kayoko剪切板，82flex大佬修复支持iOS16"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14,
-          "screenshots": [
-            {"url": "https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/1.PNG",
-              "accessibilityText": "1.PNG"
-            },
-          ],
-          "itemSize": "{370,456}"
         },
         {
           "spacing": 15,
@@ -36,6 +15,11 @@
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
         },
         {
           "class": "DepictionSeparatorView"
