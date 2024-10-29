@@ -40,15 +40,16 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
 Filename: debs/左划返回_1.0-6.deb
-Size: 44284
-MD5sum: 8bb189bf1a5237c87727cf416615693c
-SHA1: 030b7edd8e1c1847cfb80d7d5936c8bc2448836f
-SHA256: bd9ad3bf78a5691c0a33dc524a06f96b9e500ed3fc5ac1cfcf4f811af2ce01a8
+Size: 44312
+MD5sum: d6e192928702a0b0da1e472143c3ad42
+SHA1: c7335a59b9bfe85856e6ad9a3eb727c3208fcfa0
+SHA256: d1d0ae9ac85df31209791eda327ecd67d3ebed37fc0b15a2e9558fbb4be797cb
 Section: 系统增强
 Priority: optional
 Description: 左滑返回上一页面
 Author: Mao
-Name: 左滑返回-Rootless
+Name: 左滑返回
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.leftpan/depiction.json
 
 Package: com.25mao.miyou.rootless
 Version: 3.8-0
@@ -73,14 +74,14 @@ Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: debs/黄白助手1.7-7.deb
-Size: 10908348
-MD5sum: bc3ad2b95a3629caf97d2121817c7112
-SHA1: 68f88884164625fda85f0ad64e20e672af7f0094
-SHA256: 780da34ea7b648fa335c6b8bbec6d260a501fe05e375a49cf0cc0917ec792e39
+Size: 10909652
+MD5sum: 1b3974b359a87a8dfccdd1ac8b0f2e14
+SHA1: a3b43f2e0553dc5bef1e86ada90b6a65956f461b
+SHA256: f404d29c682a780b384d865b1e9f3e231af953388262bdb8dae05072cc864370
 Section: 微信增强
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)-Rootless
+Name: 黄白助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
 Package: com.appku.wechat
@@ -161,17 +162,17 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_0.6-1.deb
-Size: 628560
-MD5sum: 4005d1649d1c9cf17dfdb5613ec46c08
-SHA1: 22141622cee6b7df90ddecc320351a34f3cd62c7
-SHA256: 906d7245a2acef75cef07863fc5906cc9f4fcf8bbb4a1efdbc4d6f55df1a42aa
+Size: 628676
+MD5sum: d5cbd58f0600e5739a9917fea2888c08
+SHA1: 36b298f73207c828dc750868a9088ce344ed9524
+SHA256: 865dcf0d8b1ec395e8d4212d94ab543d3ee358eafbac68d5f7fd7dd6b0206d95
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
+Name: PKC
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.dumpapp.wechat-rootless
@@ -297,14 +298,14 @@ Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: debs/com.lai.kayoko_2.6.deb
-Size: 126076
-MD5sum: 7d05d40ada073e3e5e3315ab1b348bdd
-SHA1: 3d699efe15cae267b5eb60e92c57c651e823de71
-SHA256: 89f1c1fc1eb8ec010f2e8577fb267b6596fc2ce242bdd55fa08295d28c7e2448
+Size: 126360
+MD5sum: b29a67bef3da5b0ce1dc4ab0c7db1f6c
+SHA1: 65b1e53629c0c4a0afd69c14d67d32708cdc0c4e
+SHA256: e6906dbabd2fd06ecb5fb35598ac8a313b15fea9f7eb19e804635533750edda5
 Section: 系统增强
 Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
+Name: Kayoko
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
 
 Package: com.liuf.jpyj
@@ -379,16 +380,16 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: debs/语音包.deb
-Size: 7358236
-MD5sum: ee9fc33ae23a1c53236dc1ea2796f46d
-SHA1: c7865476b77397fe8d7f8315506d71813a03d53c
-SHA256: 7f104703edea901db7657424e494d9723ce0fcb167b7ec0d67f01445974f7cd2
+Size: 7367336
+MD5sum: d71c8d37117d7fdea1cf8740815ad436
+SHA1: 478477707612c4b8bf181b24ac6d17bd6d765296
+SHA256: 04cd23797c10a6b79411e977ba9511f9365192092b4991ec99a0720c810e5c07
 Section: 微信增强
 Priority: optional
 Description: 微信本地收藏语音包
 Author: Mao
 Depiction: 微信本地收藏语音包
-Name: 语音包-Rootless
+Name: 语音包
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.voices.rootless/depiction.json
 
 Package: com.tencent.xin
@@ -563,14 +564,15 @@ Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
 Filename: debs/微信净化_4.2-6.deb
-Size: 7085832
-MD5sum: c555f3f4ee21852be2036f3d6304e506
-SHA1: 5072522cffa848c768500ee1d9c17eb2bd23d2c4
-SHA256: 6bfa33174db9a13ee2139c27e26cb3302a907cf57bc32c3d70923fba89e9108e
+Size: 7086100
+MD5sum: 8a652dfe372a70652963c21a4ca0c612
+SHA1: 92b1aa773a89914b106734d9aa4bfeae266be584
+SHA256: 65def2329b655d9f8ba19c723537c69b9a9c7ef6f8f5c85509b23e9b4c46eec0
 Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
-Name: 微信净化-Rootless
+Name: 微信净化
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/netskao.wcpureextension/depiction.json
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
