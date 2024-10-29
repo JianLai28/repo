@@ -1,107 +1,106 @@
 {
-	"minVersion": "0.1",
-   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
-	"tabs": [
+  "minVersion": "0.1",
+  "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "功能和微信净化一样，自行选择安装。不能和净化共存会闪退"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本",
+          "text": "2.0.4",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "iOS13+",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "插件介绍",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "功能和微信净化一样，自行选择安装。不能和净化共存会闪退"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "最近更新",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "版本",
-					"text": "2.0.4",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容性",
-					"text": "iOS13 & iOS18",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "更新时间",
-					"text": "2024/10/28",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "开发者",
-					"text": "Dumpapp",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "加入QQ群聊",
-					"action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
+          "title": "开发者",
+          "text": "Dumpapp",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "更新日志",
-			"views": [
-				{
-					"title": "2.0.4",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 修复巨魔闪退问题",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/28</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "2.0.3",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 修复闪退和卡机问题",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/27</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-				  "spacing": 20,
-				  "class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+          "title": "更新时间",
+          "text": "2024/10/28",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新",
+      "views": [
+	    {
+          "title": "2.0.4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复巨魔闪退问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+ 	    {
+          "title": "2.0.3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复闪退和卡机问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "公告",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }

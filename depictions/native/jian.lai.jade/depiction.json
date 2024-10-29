@@ -1,87 +1,93 @@
 {
-	"minVersion": "0.1",
-   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
-	"tabs": [
+  "minVersion": "0.1",
+  "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "控制中心美化插件"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本",
+          "text": "1.0.3",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "iOS15+",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "插件介绍",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "控制中心美化插件"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "最近更新",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "版本",
-					"text": "1.0.3",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容性",
-					"text": "iOS15 & iOS17",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "更新时间",
-					"text": "2024/10/27",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "开发者",
-					"text": "Nightwind and thetimeloop",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "加入QQ群聊",
-					"action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
+          "title": "开发者",
+          "text": "Nightwind and thetimeloop",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "更新日志",
-			"views": [
-				{
-					"title": "1.0.3",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 错误修正\n\t\u2023 如果通过 设置 应用中的 密码/面容ID/触摸ID 部分禁用，则控制中心不会在锁屏屏幕上打开\n\t\u2023 修复了 iOS 16 上一个会导致媒体播放器崩溃的问题\n\t\u2023 修复媒体模块中标题和字幕文本会被切断的问题\n\t\u2023 修复在设备上亮度模块高度的问题\n\t\u2023 修复 RTL 语言中亮度和音量滑块的问题\n\t\u2023 修复回退本地化\n\t\u2023 定义从带手势的设备向不带手势的设备导入预设时的行为--现在将切换到现有的演示手势选项\n\t\u2023 改进设备手机功能检查\n\t\u2023 代码优化\n\t\u2023 精简代码\n\t\u2023 删除过时代码\n\t\u2023 QOL 添加\n\t\u2023 为控制中心添加打开时的弹跳效果\n\t\u2023 可在 演示手势 菜单中修改弹跳系数\n\t\u2023 增加对 iPadOS 上带有光标的按钮的支持\n\t\u2023 在媒体模块中增加轻点专辑封面打开当前正在播放的应用程序的功能\n\t\u2023 重要更改\n\t\u2023 用户可能需要更改背景图片，以适应调整后的背景图片处理方式。",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/27</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-				  "spacing": 20,
-				  "class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+          "title": "更新时间",
+          "text": "2024/10/27",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新",
+      "views": [
+	    {
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 错误修正\n\t\u2023 如果通过 设置 应用中的 密码/面容ID/触摸ID 部分禁用，则控制中心不会在锁屏屏幕上打开\n\t\u2023 修复了 iOS 16 上一个会导致媒体播放器崩溃的问题\n\t\u2023 修复媒体模块中标题和字幕文本会被切断的问题\n\t\u2023 修复在设备上亮度模块高度的问题\n\t\u2023 修复 RTL 语言中亮度和音量滑块的问题\n\t\u2023 修复回退本地化\n\t\u2023 定义从带手势的设备向不带手势的设备导入预设时的行为--现在将切换到现有的演示手势选项\n\t\u2023 改进设备手机功能检查\n\t\u2023 代码优化\n\t\u2023 精简代码\n\t\u2023 删除过时代码\n\t\u2023 QOL 添加\n\t\u2023 为控制中心添加打开时的弹跳效果\n\t\u2023 可在 演示手势 菜单中修改弹跳系数\n\t\u2023 增加对 iPadOS 上带有光标的按钮的支持\n\t\u2023 在媒体模块中增加轻点专辑封面打开当前正在播放的应用程序的功能\n\t\u2023 重要更改\n\t\u2023 用户可能需要更改背景图片，以适应调整后的背景图片处理方式。",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "公告",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }

@@ -1,87 +1,93 @@
 {
-	"minVersion": "0.1",
-   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
-	"tabs": [
+  "minVersion": "0.1",
+  "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本",
+          "text": "1.7.7",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "iOS13+",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "插件介绍",
-			"views": [
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "最近更新",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "版本",
-					"text": "1.7.7",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容性",
-					"text": "iOS13 & iOS18",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "更新时间",
-					"text": "2024/10/17",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "开发者",
-					"text": "HuangBai",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "加入QQ群聊",
-					"action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
+          "title": "开发者",
+          "text": "HuangBai",
+          "class": "DepictionTableTextView"
+        },
 		{
-			"tabname": "更新日志",
-			"views": [
-				{
-					"title": "1.7.7",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 该版本未更新任何功能仅为打某些🤡的脸一言不合就喊跑路\n\t\u2023内测用户强烈建议更新\n\t\u2023该版本无需群验证且7天检测一次授权避免授权失效问题\n\t\u2023昨晚还在维护 谈何跑路\n\t\u2023待一切处理完整后开源",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/10/17</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-				  "spacing": 20,
-				  "class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+          "title": "更新时间",
+          "text": "2024/10/17",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新",
+      "views": [
+ 	    {
+          "title": "1.7.7",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 该版本未更新任何功能仅为打某些🤡的脸一言不合就喊跑路\n\t\u2023内测用户强烈建议更新\n\t\u2023该版本无需群验证且7天检测一次授权避免授权失效问题\n\t\u2023昨晚还在维护 谈何跑路\n\t\u2023待一切处理完整后开源",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "公告",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅供个人学习研究\n- 请在24小时内删除\n- 插件大多数搬运网络\n- 如有侵权，联系删除"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
