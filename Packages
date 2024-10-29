@@ -522,6 +522,21 @@ Author: mikifp
 Name: Griddy图标自定义
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
 
+Package: net.griddy
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: debs/图标自定义_1.0.4.deb
+Size: 19632
+MD5sum: 635de2549bd4bcffb45fa50df1d1effc
+SHA1: f35bca982a48c3e6e976ae721ee856c2a077eebf
+SHA256: a14965e8138815273172e2940e49f3f9741fbd5d5c2ed92fa147533b20bdd170
+Section: 系统增强
+Description: 桌面图标随意摆放
+Author: mikifp
+Name: Griddy图标自定义
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
 Architecture: iphoneos-arm64

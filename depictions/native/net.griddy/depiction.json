@@ -41,7 +41,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/10/28",
+          "text": "2024/10/29",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+ 	    {
+          "title": "1.0.4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复了浮动码头上的位置问题\n\t\u2023 修正了文件夹预览与文件夹重生调整兼容的问题\n\t\u2023 修正了因生成文件夹图标图像而导致崩溃的问题\n\t\u2023 将存储的位置数据移至设备上的独立位置\n\t\u2023 稳定性改进",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
  	    {
           "title": "1.0.3.5",
           "useBoldText": true,
