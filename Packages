@@ -297,11 +297,11 @@ Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: debs/com.lai.kayoko_2.6.deb
-Size: 126252
-MD5sum: a6001fe0d596544481233741db41c154
-SHA1: d8b59af922fb2526566593b61d4ddb923cb9b750
-SHA256: 66a7a9861ce91dce773cb1d3f2244f23262bcd39a49c47e6a724e0748f325b07
-Section: 嗨-工具
+Size: 126076
+MD5sum: 7d05d40ada073e3e5e3315ab1b348bdd
+SHA1: 3d699efe15cae267b5eb60e92c57c651e823de71
+SHA256: 89f1c1fc1eb8ec010f2e8577fb267b6596fc2ce242bdd55fa08295d28c7e2448
+Section: 系统增强
 Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
