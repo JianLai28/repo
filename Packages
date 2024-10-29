@@ -291,6 +291,22 @@ Author: 预言小猫
 Name: MeowTimeMachine
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.ketty.meowtimemachine/depiction.json
 
+Package: com.lai.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.lai.kayoko_2.6.deb
+Size: 126252
+MD5sum: a6001fe0d596544481233741db41c154
+SHA1: d8b59af922fb2526566593b61d4ddb923cb9b750
+SHA256: 66a7a9861ce91dce773cb1d3f2244f23262bcd39a49c47e6a724e0748f325b07
+Section: 嗨-工具
+Description: Kayoko，82flex大佬修复支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
