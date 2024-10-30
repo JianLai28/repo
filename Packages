@@ -176,15 +176,15 @@ Name: PKC
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
-Version: 0.6-2
+Version: 0.6-2.Bate4
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2_iphoneos-arm64.deb
-Size: 726248
-MD5sum: cebda8240d67cdc2336c9df87a499ae3
-SHA1: 63d5cdf44d2978c16d7d309be30029a9ad22dd23
-SHA256: e90046c902bcb57e1bb1c415ff8a9c6e26bb530176abb8bdbd318b48b64b2956
+Filename: debs/com.curtin.pkc.rootless_0.6-2.Bate4_iphoneos-arm64.deb
+Size: 726256
+MD5sum: 9da9961776ceb9ee8c629c6d76e3661c
+SHA1: 2392ff8c12a349a1b03bdef84144ec820aa59b28
+SHA256: 410531a5ee38e5bb445dbcbd1504e8037ddacd8814e7f8e4b24deba3d5829eaf
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -195,15 +195,15 @@ Name: PKC
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
-Version: 0.6-2.Bate4
+Version: 0.6-2.GA
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2.Bate4_iphoneos-arm64.deb
-Size: 726256
-MD5sum: 9da9961776ceb9ee8c629c6d76e3661c
-SHA1: 2392ff8c12a349a1b03bdef84144ec820aa59b28
-SHA256: 410531a5ee38e5bb445dbcbd1504e8037ddacd8814e7f8e4b24deba3d5829eaf
+Filename: debs/com.curtin.pkc.rootless_0.6-2.GA_iphoneos-arm64.deb
+Size: 726252
+MD5sum: 7f840deefd88aaca22913ca687580533
+SHA1: 68936fe221ab2ab71d79773673c9293eccecd7f7
+SHA256: d47e24a6e7399affd25bd8fa9a7f2aba86769d9ed018c4efc61b246fb13dd2ed
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
