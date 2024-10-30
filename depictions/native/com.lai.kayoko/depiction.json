@@ -85,6 +85,13 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "title": "2.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
           "markdown": "\t\u2023 优化隐藏动画和时机",
           "useSpacing": false,
           "useBottomMargin": false,
