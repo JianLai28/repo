@@ -327,6 +327,22 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
 
+Package: com.lai.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.lai.kayoko_2.7_iphoneos-arm64.deb
+Size: 123668
+MD5sum: 1bdf0081d187e10e594444750c5b688f
+SHA1: 752d628343bdc526c2e0463805759189ff6b23a4
+SHA256: d24b1f4924e05c106d82014a05d4e384e61ae73ccd84d37ff0259056a1b18624
+Section: 系统增强
+Description: Kayoko剪切板，82flex大佬修复支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
