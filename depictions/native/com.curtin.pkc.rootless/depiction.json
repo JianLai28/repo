@@ -25,7 +25,7 @@
           "class": "DepictionSeparatorView"
         },
 		{
-          "text": "购买音色Token",
+          "text": "带Beta的是测试版：仅内群群员使用",
           "action": "链接",
           "class": "DepictionButtonView"
         },
