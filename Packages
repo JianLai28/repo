@@ -18,15 +18,16 @@ Version: 0.0.1-28
 Architecture: iphoneos-arm64
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/JianL.wechat.xuanzhuan_0.0.1-28_iphoneos-arm64.deb
-Size: 4852
-MD5sum: 1d6ad700011ce45b89c953f4a56a47a8
-SHA1: 588c0ac7673417656c85c5491935245cc0daaf83
-SHA256: 8d2b8a237e00690cdea3edbb8e0f8d941ea5d97193302ca5e9bb64fbc17c81a0
+Filename: debs/JianL.wechat.xuanzhuan_0.0.1-28_iphoneos-arm64 (1).deb
+Size: 4912
+MD5sum: d22f9b368b06984381208dfbe1b99b44
+SHA1: be2db9c8e16128f1703cb05bb9920c9b9ab49676
+SHA256: 40ec53720e383004fd7d6250c485a93b192a01dba3970988836d6778bafbfb8e
 Section: 微信增强
 Description: 安装后微信好友头像会变成圆形，然后旋转起来
 Author: xybp888
 Name: 微信头像旋转-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/JianL.wechat.xuanzhuan/depiction.json
 
 Package: MisakaHelper
 Version: 2.1-0
