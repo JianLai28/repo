@@ -100,6 +100,24 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.JianL.fun
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: debs/通知组计数(rootless)_1.0.0.deb
+Size: 33408
+MD5sum: c2d74142fab0de93891e11f6458e55bb
+SHA1: 04b858b947dc86eee8cac0d54cdc6aa0bdadc7e9
+SHA256: 22ab254d422c401fa0a39c0eb27a0154a862a07d091a79700ba6ba85be838d41
+Section: 系统增强
+Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
+Author: 0xkuj
+Name: 通知组计数(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.JianL.fun/depiction.json
+
 Package: com.appku.wechat
 Version: 1.6-3
 Architecture: iphoneos-arm64
@@ -121,10 +139,10 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-1.deb
-Size: 719112
-MD5sum: 18b140fd0b840d076f639d92e7faa4cc
-SHA1: 6e20370f576e2d4737822ab6f9335390500753f0
-SHA256: 8d03ef1168bb49b6b532a3390248b81a8728c3e046b675247319d1f58436fb4b
+Size: 718992
+MD5sum: 228eb91ec275f32ef694eb09cd1ef0ed
+SHA1: 07c11366ea5fb3d60da0f8f6463d99fc9a059b4e
+SHA256: 96dacd3e0c3ba9d0c032ed0e911a4bfb58d5c14b07b4a0b8aba810cd6ebb3b54
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -144,6 +162,44 @@ Size: 629744
 MD5sum: cf0c42f6bce4c5bc7141469f7fe62828
 SHA1: 3743b328a32c95bcc92bd685d23a55f720ed48d2
 SHA256: 6d8fb9aa86aff68370124b56975cd7b06980a0e2d2be20f7f61ebcf6cf7c9238
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta2.deb
+Size: 719372
+MD5sum: 5853071e9e5090703093b16cbcb0245f
+SHA1: 7f17e238e73230809c41850bcb948a8ec1350563
+SHA256: 70ac56fc09e6b18b08928f3121c0968b760298339d0a0bf0bba33be145d18a74
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta3
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta3.deb
+Size: 728196
+MD5sum: c73e27cbaca66f8d277c700a533ca4d6
+SHA1: cfe5209341041bde16ef0053d6e3a8165d7328a7
+SHA256: 2dcc9afe86c805e63844d5c62bf954d6c72e6d25f1abcaa46589fbf85966d3d4
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -440,6 +496,26 @@ Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.xin/depiction.json
+
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: debs/PopOutButtons_1.0.1.deb
+Size: 57744
+MD5sum: 878a15921046aac93e43c94ab73484b0
+SHA1: 69c8317b8429d3f7a3a60098c259b7701b7e8467
+SHA256: 3e0b50a2a1ff12e2d8fa82ab1b2d82b3e4af91e16649cbb25f9d9661fea87cc5
+Section: 系统增强
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
 
 Package: com.xx.dyhook
 Version: 2.0.7+1
