@@ -108,12 +108,12 @@ Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.notificationsgroupcount
 Filename: ./debs/通知组计数(rootless)_1.0.0.deb
-Size: 33408
-MD5sum: c2d74142fab0de93891e11f6458e55bb
-SHA1: 04b858b947dc86eee8cac0d54cdc6aa0bdadc7e9
-SHA256: 22ab254d422c401fa0a39c0eb27a0154a862a07d091a79700ba6ba85be838d41
+Size: 33392
+MD5sum: fa75bfe4a1fc9a69a9996bf6f3cb94e2
+SHA1: 79773730b459dbb1657c13186b73714c1edef0a5
+SHA256: 49260d80cc4207370128ec4448c498bf3e3cbe7a01a918e993c70a09638bc1af
 Section: 系统增强
-Description: NotificationsGroupCount：仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
+Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
 Author: 0xkuj
 Name: 通知组计数(rootless)
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.JianL.fun/depiction.json
