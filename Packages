@@ -2,11 +2,11 @@ Package: ApibugTextToVoice
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
-Size: 169508
-MD5sum: 681a52807a9b758d991ce8ebcf697c06
-SHA1: 2fc931cafa222a150e6eaf4f43a4994d99d715d0
-SHA256: 6d493ba25fe5424f5fc4aa4a8cad09d8c74ff6538084f343860a1f3e2b32bc05
+Filename: debs/ApibugTextToVoice_1.0.5.deb
+Size: 169064
+MD5sum: a6e4df2013a3d342f282e910a3302d04
+SHA1: 0c3910c816dfd0db6aebfcabd76985ef091a5e1c
+SHA256: dea30b5010f23b838cce007db4099539fea376fe8b5f618a12e0c68b218e5677
 Section: 微信增强
 Description: 免费微信文字转语音-原神版
 Author: Apibug
@@ -18,11 +18,11 @@ Version: 0.0.1-28
 Architecture: iphoneos-arm64
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/JianL.wechat.xuanzhuan_0.0.1-28_iphoneos-arm64 (1).deb
-Size: 4912
-MD5sum: d22f9b368b06984381208dfbe1b99b44
-SHA1: be2db9c8e16128f1703cb05bb9920c9b9ab49676
-SHA256: 40ec53720e383004fd7d6250c485a93b192a01dba3970988836d6778bafbfb8e
+Filename: debs/微信头像旋转-Rootless_0.0.1-28.deb
+Size: 4908
+MD5sum: bc7e17493775efeb41e29cf3efec9957
+SHA1: adfb5e08a3fbb076d66e0f585925f9fc45e17824
+SHA256: 156b74bfe3378d1609f763d22576757d1401d2f814c95f9b0c1a5ed5cbeb37b3
 Section: 微信增强
 Description: 安装后微信好友头像会变成圆形，然后旋转起来
 Author: xybp888
@@ -38,11 +38,11 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: debs/MisakaHelper_2.1-0-EMD.deb
-Size: 13177740
-MD5sum: bd3540bcd79d4aa8285a255478e77bd0
-SHA1: 4574dbd87527fc44d89278cd6cd50a433ff002f6
-SHA256: d5f3046b5fcdb53672b8dd0e5ee6c39dbf9719a03086821655f031dfff8eff61
+Filename: debs/MisakaHelper_2.1-0.deb
+Size: 13177956
+MD5sum: b25ce0203a7b4789f58c4e8e51f87f2b
+SHA1: 2722f63fd2bd972e6f873cec7e3ab395abb81143
+SHA256: 290f6bb7f8a48fcc454e5dbcc650f2659484a1ae0aee14b11795055eb61bef95
 Section: 微信增强
 Priority: optional
 Description: MisakaHelper
@@ -55,11 +55,11 @@ Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: debs/左划返回_1.0-6.deb
-Size: 44312
-MD5sum: d6e192928702a0b0da1e472143c3ad42
-SHA1: c7335a59b9bfe85856e6ad9a3eb727c3208fcfa0
-SHA256: d1d0ae9ac85df31209791eda327ecd67d3ebed37fc0b15a2e9558fbb4be797cb
+Filename: debs/左滑返回_1.0-6.deb
+Size: 44320
+MD5sum: 2faf28750fbc0a1fb0a46eb5bd278ab8
+SHA1: 0b061092dced7b19524b230271c03cc94c7f5209
+SHA256: c84c576e2a0ce40f38e7ac5c784090ab2dc4d245270cd607f6e03aaa413655ad
 Section: 系统增强
 Priority: optional
 Description: 左滑返回上一页面
@@ -73,10 +73,10 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: debs/微信助手_3.8-0.deb
-Size: 10164312
-MD5sum: 589410b70fd136b0dc2f909a1a43805a
-SHA1: 98ed21f40024c5c4ffc92cf1f33495068b854da6
-SHA256: 6a4c1cb3e810516b35db21ca5f8013f405d0e9c232bfafd42ddd6828692f7f94
+Size: 10164020
+MD5sum: d8b4b2619f4b79193a71d1f7a8cbfb9b
+SHA1: 0b1d2f54c6a8f4f4e2f085d9f65f6bf1335a339e
+SHA256: a7d17677054d9832f8580c0a9cb945cdab312c45e33040254383bbd73bb75a45
 Section: 微信增强
 Priority: optional
 Description: 微信助手
@@ -89,11 +89,11 @@ Version: 1.7-7
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debs/黄白助手1.7-7.deb
-Size: 10909652
-MD5sum: 1b3974b359a87a8dfccdd1ac8b0f2e14
-SHA1: a3b43f2e0553dc5bef1e86ada90b6a65956f461b
-SHA256: f404d29c682a780b384d865b1e9f3e231af953388262bdb8dae05072cc864370
+Filename: debs/黄白助手_1.7-7.deb
+Size: 10908264
+MD5sum: 2048c820101a077cadc859dcdac76575
+SHA1: 098ccd7686d879c59a3e88fb8747dfd29b7332d2
+SHA256: 5889ba1837e3f5cb016bd33f1c88706c653d55f4e69182586be677afda0d0aec
 Section: 微信增强
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -106,10 +106,10 @@ Architecture: iphoneos-arm64
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/爱锋助手_1.6-3.deb
-Size: 1667840
-MD5sum: bedba47e4a562cf6f73054f86faceca1
-SHA1: 62959cde98fda4259579a4e906c319434c823444
-SHA256: 5808b81c2a0a3f486c9874602eee754890a0c1669ceddfc44f0724fb63beb0a5
+Size: 1670096
+MD5sum: 817f44880ca69853c829b131cd5b2f84
+SHA1: ffe55ebd3311ea18dd34e7832e75cd640cbcdb79
+SHA256: 34fc336a5c0d6bdf5ec68b7340a6fed5700406ddef45928e7f34a284188bc043
 Section: 微信增强
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Author: appku
@@ -120,18 +120,18 @@ Version: 0.6-1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/PKC_0.6-1.deb
-Size: 628676
-MD5sum: d5cbd58f0600e5739a9917fea2888c08
-SHA1: 36b298f73207c828dc750868a9088ce344ed9524
-SHA256: 865dcf0d8b1ec395e8d4212d94ab543d3ee358eafbac68d5f7fd7dd6b0206d95
+Filename: debs/PKC_无根_0.6-1.deb
+Size: 719112
+MD5sum: 18b140fd0b840d076f639d92e7faa4cc
+SHA1: 6e20370f576e2d4737822ab6f9335390500753f0
+SHA256: 8d03ef1168bb49b6b532a3390248b81a8728c3e046b675247319d1f58436fb4b
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
+Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
@@ -139,56 +139,18 @@ Version: 0.6-2-Beta1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2-Beta1_iphoneos-arm64.deb
-Size: 630020
-MD5sum: 8e8de518d0286aa0af0cb2e35deaba9e
-SHA1: a68b703c6ce2bcfb8ccd441183af4bcc21ac6af4
-SHA256: a6439186bb9a5c8b5982c7ce58377d4e329ec8440cb4f898395d5bec5af03a97
+Filename: debs/PKC_无根_0.6-2-Beta1.deb
+Size: 629744
+MD5sum: cf0c42f6bce4c5bc7141469f7fe62828
+SHA1: 3743b328a32c95bcc92bd685d23a55f720ed48d2
+SHA256: 6d8fb9aa86aff68370124b56975cd7b06980a0e2d2be20f7f61ebcf6cf7c9238
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
-
-Package: com.curtin.pkc.rootless
-Version: 0.6-2-Beta2
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2-Beta2_iphoneos-arm64.deb
-Size: 719032
-MD5sum: 678eca35807a960823dcd6c4cb80f32c
-SHA1: 0c58f3011ec4fde99de71a0367e53c70ce2bca60
-SHA256: 2f2f8b45e0b23950fc6899ab73bfbff05610ebbbaed43061a1768ccc991a43fc
-Section: 微信增强
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
-
-Package: com.curtin.pkc.rootless
-Version: 0.6-2-Beta3
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2-Beta3_iphoneos-arm64.deb
-Size: 728508
-MD5sum: 4aa4cea77bba92b59313e1acc8d20b58
-SHA1: e6aaf7165754b98202da346447cad6f1c9ae0994
-SHA256: e9019b954cbcab0bc67ae4cd8269ea62cf97a2c12a10697c07a50037f05c3d75
-Section: 微信增强
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
+Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
@@ -196,18 +158,18 @@ Version: 0.6-2-Beta4
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.6-2-Beta4_iphoneos-arm64.deb
-Size: 726032
-MD5sum: 8fa26a86d5dade715182e0fca7ea7139
-SHA1: 19a0acd2260b4454778b82da45b753781791943c
-SHA256: df13faccf45ca8ac27aa027245f8fee036f9e94a66fe9af02fded1f51edd5c42
+Filename: debs/PKC_无根_0.6-2-Beta4.deb
+Size: 726004
+MD5sum: 4c96843adb15c7be265113230dcf2945
+SHA1: c01d0f6f44f0f4ae3f6dfabab96283e10443680b
+SHA256: 4065287602304d2638a6759af1b575c7049cb72f08093c9bc0014df1c63c656e
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC
+Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
@@ -235,11 +197,11 @@ Architecture: iphoneos-arm64
 Maintainer: DumpApp
 Installed-Size: 23984
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/锤子助手2.0.3.deb
-Size: 9331852
-MD5sum: b9ae154f54b4b9885ec0b95fe77a80cb
-SHA1: 5f1919707efa8a24b0fc3c275660d713aea9c2cd
-SHA256: dcd85a3f7e9b10d646180e3614d321c058bd1abf32bb2555b983a68ee7e2d24c
+Filename: debs/锤子助手_2.0.3.deb
+Size: 9331484
+MD5sum: 2f89506103941ed739d9c5449cc4076a
+SHA1: b1bfcebca1f54b1987a004910e6efdc849d9c664
+SHA256: 87280c6d4abff51d20d913a46abb8031519d8ae896cbdd8ba1e2ea04a81e6506
 Section: 微信增强
 Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
@@ -253,10 +215,10 @@ Maintainer: DumpApp
 Installed-Size: 23984
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/锤子助手_2.0.4.deb
-Size: 9231308
-MD5sum: ff16ed5e2c6508eda24a8ce44100250c
-SHA1: be455989ec16a41b889d5c7a1a54722b8eb17ce7
-SHA256: 63f5094b902780915f49bf3525b844420e492ee4693264200aacc61098efcde2
+Size: 9226584
+MD5sum: 73b2de38b883ff68021782c4199576ed
+SHA1: 8da47c435abae486861f9eef8be3cc0afbf4a661
+SHA256: a1bf38c94ba2fe47d957704ddae3fb3ca74f754a1e9646a779682cabe7697d92
 Section: 微信增强
 Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
@@ -269,11 +231,11 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/屏蔽评论弹窗_0.0.1.deb
+Filename: debs/RateBeGone_0.0.1.deb
 Size: 3388
-MD5sum: 69bcd2255128fefee28021c7932cf6a1
-SHA1: 47d19cc51cda50506bc2985b6586219b045106f2
-SHA256: 056186ee4863a0750af32d0b8fb6884a0e6c2b89731552e9a6b0f4c7b59cc68e
+MD5sum: c1ce1db236371f5105c29fefa0480899
+SHA1: aba6dfe64793d63c3b62815ef6c8f39556a7315f
+SHA256: ff325a3ed81adfb2a8e1bf33414b54cbfb0f0f49bae3e7f4b9fd5b463af7457a
 Section: 应用增强
 Description: Removes annoying rate app pop-ups
 Author: dvntm
@@ -286,10 +248,10 @@ Version: 1.6
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/DYYY_1.6.deb
-Size: 20848
-MD5sum: 1995cfbdca1e5fd610361563d4e3ef06
-SHA1: ab163e0b62d389d0fe9c063b63b17f931c068c4a
-SHA256: 8b92106b511360e6227fd24daf0d0a8681fe55114704858618c02e7eb7964ef6
+Size: 20852
+MD5sum: eb012de7ac0feecbf1b4814309e1ddc8
+SHA1: e0dbbd3c04129ef0f37c8bd974955a3171e5e14b
+SHA256: 197d9ea2adfa0c0a8f13e605610679dba828ac3114c07073578b543a1cf7edfd
 Section: 抖音增强
 Priority: optional
 Description: 仅供学习交流，请在24内小时内自觉删除
@@ -302,11 +264,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/艾特显示_1.0.0.deb
-Size: 73756
-MD5sum: ef1ffc844c7dacca95893adc3b6a1e81
-SHA1: 16e2607bd98590e58c1c9cdf3c835d4b297a821b
-SHA256: 2eccdac8ced0a15a5a0a4da5a7a049e3a6b9c90a478d021bda2bc125e3ab0653
+Filename: debs/WCAtPure_1.0.0.deb
+Size: 73768
+MD5sum: 247478ba7b1661f936edacc85172b6c1
+SHA1: a965e999c3ed663ecc4003a20996bb8626890377
+SHA256: f44445a7b38f655ecab7890ee2d6ce5ba10d00c84f9634f4caa258833842a4f5
 Section: 微信增强
 Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
 Author: huami
@@ -319,11 +281,11 @@ Architecture: iphoneos-arm64
 Maintainer: INITNIL
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/显示微信联系人添加时间_1.1-1.deb
-Size: 3924
-MD5sum: 300c54681c395cc110bdf15aa55b76b4
-SHA1: d9141b9180b4b4a4d12446c94d53d6a0a525ea5a
-SHA256: ceaa8422a8a1eefc02e50998b372d5c336274487c2a86373c4136e06037ea445
+Filename: debs/WCEnableShowContactAddCreateTime_1.1-1.deb
+Size: 3936
+MD5sum: 1c48a8c2fcb2947dce484f687b66cf52
+SHA1: 53f4a8ebc8c0680fa7fd855bc4e577acbaf55892
+SHA256: 65b4948f79cdb793782edd45dfb6fe241fa046a0859efc50ea59a731f17f16b8
 Section: 微信增强
 Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
 Author: INITNIL
@@ -335,11 +297,11 @@ Architecture: iphoneos-arm64
 Maintainer: 预言小猫
 Installed-Size: 6912
 Depends: firmware (>= 14.0)
-Filename: debs/插件备份.deb
-Size: 2322760
-MD5sum: 669e40121a2274f15869cd27abc5a727
-SHA1: 2651d01876dad36d14b5bb5032ca4884b37aa49e
-SHA256: d167fe0a92458da8a7f4ea275e7877b9bd0b43b98abff1bb13400867746fbdee
+Filename: debs/MeowTimeMachine_0.0.1-106+debug.deb
+Size: 2322756
+MD5sum: c4fcf8907e264d98e8f8d8f14d6e0607
+SHA1: 5fa933bf46bd66ccf4b67673a75efc426fa4288e
+SHA256: d8c88040879eefc3f662a30a2adfaa9b00a170b5c0122114a40101f28ad418f5
 Section: Utilities
 Description: An awesome SwiftUI application!
 Author: 预言小猫
@@ -351,11 +313,11 @@ Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/com.lai.kayoko_2.6.deb
-Size: 126360
-MD5sum: b29a67bef3da5b0ce1dc4ab0c7db1f6c
-SHA1: 65b1e53629c0c4a0afd69c14d67d32708cdc0c4e
-SHA256: e6906dbabd2fd06ecb5fb35598ac8a313b15fea9f7eb19e804635533750edda5
+Filename: debs/Kayoko_2.6.deb
+Size: 126220
+MD5sum: 189d78a73a079539bc70282a48d5688c
+SHA1: a5028f6dde7d5300ebf6f3ca3b2409b59e4c620e
+SHA256: abd9fa8aa59e792fa04bef7d8bed8cd646fb8975011238ab010d9838069b58f4
 Section: 系统增强
 Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
@@ -367,13 +329,13 @@ Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/com.lai.kayoko_2.7_iphoneos-arm64.deb
-Size: 123668
-MD5sum: 1bdf0081d187e10e594444750c5b688f
-SHA1: 752d628343bdc526c2e0463805759189ff6b23a4
-SHA256: d24b1f4924e05c106d82014a05d4e384e61ae73ccd84d37ff0259056a1b18624
+Filename: debs/Kayoko_2.7.deb
+Size: 123756
+MD5sum: 4f1611c76bee16a5af6f6cfce9449a39
+SHA1: d1101e36f0deb886f0c9b2d6a09d0c4ad2584c7a
+SHA256: 5cd43065f7d16f6dfd59635bf270920cf8bcb6d268a9fda2a43ce0bd8b32785d
 Section: 系统增强
-Description: Kayoko剪切板，82flex大佬修复支持iOS16。
+Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
@@ -384,11 +346,11 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: debs/键盘圆角_0.0.1.deb
-Size: 3720
-MD5sum: b18f6e405f0645e075d60ce762af7ae8
-SHA1: c72888dd24bc10b4d990e35c587260a4393b4bcf
-SHA256: 76f0e96582d1b3e4a08ef83730e127e97de720b017d0219d636f1745c9dc8433
+Filename: debs/系统键盘圆角_0.0.1.deb
+Size: 3724
+MD5sum: 3e214f9675b137039789a2810c59d814
+SHA1: 0a9a336c416e2da80960da7f047c4b1d52a6907f
+SHA256: a0a2557e52c8f255e87228a0de1dd076551557cfd34c7d5dc442622303ae3156
 Section: 系统增强
 Description: 系统键盘圆角
 Author: liuf <(null)>
@@ -401,11 +363,11 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: debs/微信头像_1.2-5.deb
-Size: 523432
-MD5sum: c0a44454b2f261bdfb04d8aa5ad648d6
-SHA1: 540e74ef5c5da718fac9e3bc765e6b2b0f8bca2f
-SHA256: ae9a5522dff080227e320f312705aa8e1f6a24cd29fd7573fc2a9ff72826bde8
+Filename: debs/WeChatNotiAvatar_1.2-5.deb
+Size: 522940
+MD5sum: 7b3c94b0ab44c1077c1f173a11f6c5cc
+SHA1: 7d31d130955ea64df701bca5aca0398920e1a394
+SHA256: 7071ca45b357c25b307dbf58f1b294a670eba0d0f086dfe629e9051e829ae126
 Section: 微信增强
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
@@ -417,10 +379,10 @@ Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/虚拟视频_2.2-1.deb
-Size: 1650836
-MD5sum: 43521ecd1efd95e3d67ba3b915a1780c
-SHA1: 9ac1ececeeb8c655fe77ed3e084549bfdde26b9c
-SHA256: 98f08fd3f1fa6d746d6a1ab873c4a57015e114e900c87cdfcc7af379e2eb022d
+Size: 1668628
+MD5sum: 353d8852a1e80d4d71c8a72bf3681084
+SHA1: 9366641a8db93cbdb2c0826e13c7978c5b3ec52a
+SHA256: 4b165f8241d7e3400dff90394faa41111ee3e12ef7d2943257c0735d682c183f
 Section: 微信增强
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
 Author: 平凡
@@ -433,10 +395,10 @@ Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: debs/split-view-pro_1.3.7.deb
-Size: 1538332
-MD5sum: 500c3e5a4790dc741c56ee6935fb12d9
-SHA1: 6fb6809d1dbbc7412eac204efd6b1870a59bad0c
-SHA256: de196ec82190587d84c2e5c16b263c859e207646885dcd17f7caddd80fbee570
+Size: 1539304
+MD5sum: 2a764847ab3f472499a4204753825550
+SHA1: 53dd1dc3be09058ffe2c94c6ae5240f5f11d4704
+SHA256: 6f9111fa2dae66a6f8aa90bdef6ae1dcca861060b69cfe88233fae67486e2d7a
 Section: 系统增强
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
@@ -449,11 +411,11 @@ Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debs/语音包.deb
-Size: 7367336
-MD5sum: d71c8d37117d7fdea1cf8740815ad436
-SHA1: 478477707612c4b8bf181b24ac6d17bd6d765296
-SHA256: 04cd23797c10a6b79411e977ba9511f9365192092b4991ec99a0720c810e5c07
+Filename: debs/语音包_1.0-5.deb
+Size: 7360408
+MD5sum: 26b567da5383cdea123d8eb4265fcb90
+SHA1: e24a857eb3bd192e94904ee61f9f5b9a525eac1a
+SHA256: ba8c5a84d4aa81f6fdbc9b20cb7b3f30055b737d254cf82fbceb69cd4812f27d
 Section: 微信增强
 Priority: optional
 Description: 微信本地收藏语音包
@@ -468,11 +430,11 @@ Architecture: iphoneos-arm64
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: debs/匿名艾特无限次数_0.1-1.deb
-Size: 5540
-MD5sum: f0e8e765c38b3e6551cf944a2ac34747
-SHA1: f59add11ada89afb6842f1062f4379d5896cc415
-SHA256: 51c61db596f7d9fcab0bbfd80d2c017c19cc48ec5232f7012a6fec608e70333f
+Filename: debs/匿名艾特Carck_0.1-1+debug.deb
+Size: 5544
+MD5sum: ebf2706338246edf3699f2b15abc42d6
+SHA1: 17abf517f074a2b90f09cca1b2e871970ec79967
+SHA256: 701f65685634edb5c7ea2b53f8037b1bf01dec4ed0d0265ad4f2b8137e2c3d7a
 Section: 微信增强
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
@@ -483,13 +445,13 @@ Package: com.xx.dyhook
 Version: 2.0.7+1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 12384
+Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/抖音图层_2.0.7+1.deb
-Size: 4267740
-MD5sum: 65c2b233611e58e36dd72bec27a341ec
-SHA1: 99bc63fccba652c6617a96e979b7f4aa1254cf1e
-SHA256: 1f5733cb6e709434010652080bf9b2342891bb2d2bf6b8fd259dacf31387b32e
+Size: 4266628
+MD5sum: 794a541a51cd6db9a68fe4e1bebe8ef7
+SHA1: dfce343f357debc925fd707f993fecc28c844b0c
+SHA256: 121b97c3729f3bab6ff8f45fa110de953c058ea699413c5be20e290dc6e1ef09
 Section: 抖音增强
 Description: 自用 越狱食用
 Author: x✨
@@ -503,10 +465,10 @@ Maintainer: x✨
 Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/抖音图层_2.0.7+2.deb
-Size: 4477280
-MD5sum: a55d5d436a263196018fa47e4b75a21b
-SHA1: 9e75a4317228aeea1dfc6d1ea2aa949c123c47cf
-SHA256: 6c669eaf2f7ba5976104eab4e6b29ee19ca688306f099d3ca923a8b76595bb3f
+Size: 4477624
+MD5sum: b416730dfd7f61d042c95f589c0ce9d6
+SHA1: 861001ec1abab6acb168f1f95857aa2f5e413ff9
+SHA256: 7baf056e4b1dc35d89b767d9ebe26d6f77fa5a565077cbc07f8981d461f4b78d
 Section: 抖音增强
 Description: 自用 越狱食用
 Author: x✨
@@ -517,13 +479,13 @@ Package: com.xx.dyhook
 Version: 2.0.7+3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 13472
+Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/抖音图层_2.0.7+3.deb
-Size: 4662336
-MD5sum: 3f6f2ed2413442fd7e3a899a6cf8f23b
-SHA1: 432b4a74f534ce578dce0eb8b714e97c47c67aeb
-SHA256: ca883540ea3c31d3ebf1536a61511a42ca3e5d9b5e754911631b001eda9ed0da
+Size: 4660456
+MD5sum: 5c00f6c711c9c75e937547f1b6e4c708
+SHA1: a6a3f9c2a8dd301fdc6ce871db099f03158244db
+SHA256: 9ee528801addc41306c892e601b5ca463fc9eff8563e48b2c183774abe475e1f
 Section: 抖音增强
 Description: 自用 越狱食用
 Author: x✨
@@ -536,11 +498,11 @@ Architecture: iphoneos-arm64
 Maintainer: 怡点日常
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/微信实况_1.1-2.deb
-Size: 12860
-MD5sum: 14121035a6efb4382672252eab0c4e1a
-SHA1: 827db090c7609a794cf5f293fe331223653c4b05
-SHA256: 0ab807c5a0225b2e4a6af1e53f414c8353b4be1fbe5cae501aeee38cc7624522
+Filename: debs/WCEnableMomentsLivePhoto_1.1-2.deb
+Size: 12856
+MD5sum: 3b172747c19b2fe85757941a19fd7820
+SHA1: 2fd2d938d59586dd5fc502587d73bd503bf35e8f
+SHA256: 2629cbb1a16f8e3230dbafe20f51a28c607891748b46fc5bf8609642bc7acf60
 Section: 微信增强
 Description: WeChat Enable Testing Moments Live Photo v8.0.51+
 Author: 怡点日常
@@ -553,10 +515,10 @@ Maintainer: 剑来
 Installed-Size: 1509
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: debs/Jade_1.0.3.deb
-Size: 308628
-MD5sum: 853966997701ce1ce4ab1050bfa22d05
-SHA1: 075584b61555ca2cb5a0204556dc02c1b2800868
-SHA256: fe5bbfb45c7d4050a675ed6b81712490190007d396fd2e562feabd688273eee1
+Size: 308372
+MD5sum: 245bdd3372d636f9a90b2bc9c28dc8a5
+SHA1: 8f97194509ea1aaa49912ac9c1d714a9986c288b
+SHA256: 49732b29e6258a21655debfeddf516fed043b76bb04e05f33dd89163976b013a
 Section: 系统增强
 Description: Your control center, brought anew.
 Author: Nightwind and thetimeloop
@@ -568,26 +530,26 @@ Package: net.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/图标自定义_1.0.deb
-Size: 16272
-MD5sum: cbb01b526a68e2e96f165afd6e82a0b8
-SHA1: dd875057642888e6aa5d09de7ac00596a9aa3372
-SHA256: 348f378dba9e2f6ebfe157c474103b9efccfa54b0adf4d361a584a43671192dd
+Filename: debs/Griddy图标自定义_1.0.deb
+Size: 16328
+MD5sum: 03b48abc2362ff7ac6cfdcc5928103c1
+SHA1: 39135e2f2943b3d116de67b99177032c32a2029f
+SHA256: c505dd406285e56c76aa10fed5e76a8aee380f2f1ca1fc270786d09302b416c1
 Section: 系统增强
 Description: 桌面图标随意摆放
 Author: mikifp
-Name: Griddy图标随意摆-Rootless
+Name: Griddy图标自定义
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
 
 Package: net.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/图标自定义_1.0.3.deb
-Size: 17720
-MD5sum: 090492f53166e3c3a369fe16624d299f
-SHA1: fc390bcbbc652cbc374a58b6c23feb89e5d6485a
-SHA256: 9dc71aa8b6c102022f7f166f4b3dd1472b8650a79052f2983e0b0b693ad13ea7
+Filename: debs/Griddy图标自定义_1.0.3.deb
+Size: 17680
+MD5sum: 711986694c2367e5d38b6c7652b8a3c0
+SHA1: bf2fab3dade172881eb2db632b29d052cc712d44
+SHA256: 47b4aa691c1285b2fa606db020d4bfa3c4fa0b707635faaeaef85850f5004642
 Section: 系统增强
 Description: 桌面图标随意摆放
 Author: mikifp
@@ -598,11 +560,11 @@ Package: net.griddy
 Version: 1.0.3.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/图标自定义_1.0.3.5.deb
-Size: 18972
-MD5sum: 84e900839d800b9714446e7556509d64
-SHA1: ecc52d05ec2a58657d3d2708ebfcaddf21b9babe
-SHA256: 9493056859a93bb0c60513cb8ec7e4c0638bd7de9bacbb8db06c58f21b36372b
+Filename: debs/Griddy图标自定义_1.0.3.5.deb
+Size: 18956
+MD5sum: 8e7421e9bb5274194514b1b30db851b2
+SHA1: e7a76b0a82736d51163439972b754b57dde44a96
+SHA256: 64ac9525a6accacd6f3dfd5d4145f2cb0182d1e87b27c62b6abf1862de130b7d
 Section: 系统增强
 Description: 桌面图标随意摆放
 Author: mikifp
@@ -613,11 +575,11 @@ Package: net.griddy
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: debs/图标自定义_1.0.4.deb
-Size: 19632
-MD5sum: 635de2549bd4bcffb45fa50df1d1effc
-SHA1: f35bca982a48c3e6e976ae721ee856c2a077eebf
-SHA256: a14965e8138815273172e2940e49f3f9741fbd5d5c2ed92fa147533b20bdd170
+Filename: debs/Griddy图标自定义_1.0.4.deb
+Size: 19600
+MD5sum: 61e315d45ec2578156d35acf0adf2be2
+SHA1: d3ed60b1cf69d2c264f8feb53723b18579a77970
+SHA256: 75e56f19f9b2d2d596b70b7d80836c22dedd9cb8c489b987bc95331c872ec459
 Section: 系统增强
 Description: 桌面图标随意摆放
 Author: mikifp
@@ -634,10 +596,10 @@ Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
 Filename: debs/微信净化_4.2-6.deb
-Size: 7086100
-MD5sum: 8a652dfe372a70652963c21a4ca0c612
-SHA1: 92b1aa773a89914b106734d9aa4bfeae266be584
-SHA256: 65def2329b655d9f8ba19c723537c69b9a9c7ef6f8f5c85509b23e9b4c46eec0
+Size: 7087844
+MD5sum: 8ff6f578569c66266a3622b91749ee7f
+SHA1: b78eae682ea25d6f68b059dc2eb3e1d9e1eff63d
+SHA256: 74263eb5f749d7276868946e1e754ea26fe47d7d671687090a09875995549952
 Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
@@ -650,11 +612,11 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_4.2-6-END.deb
-Size: 6280396
-MD5sum: 69a4fff934957793d23fce3801ee839c
-SHA1: c9b953d68744e6f48028d24cac8844af850fbaad
-SHA256: a5f530b0c4c75197e5146aa4b8fa81b5a87c557e892ff9c611444414b1ae13ef
+Filename: debs/微信净化END_4.2-6-END.deb
+Size: 6276676
+MD5sum: c216911fcda55154c7de1990c732384c
+SHA1: 0b71015b2496429e385a3c1b828b1cdc8f3dae6b
+SHA256: e5d19e9dd4ba7aa17c242859ac2bcf021a30c1f50731ee3a7482a1c4cb0b186f
 Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
