@@ -3,10 +3,10 @@ Version: 1.0.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Filename: ./debs/ApibugTextToVoice_1.0.5.deb
-Size: 169064
-MD5sum: a6e4df2013a3d342f282e910a3302d04
-SHA1: 0c3910c816dfd0db6aebfcabd76985ef091a5e1c
-SHA256: dea30b5010f23b838cce007db4099539fea376fe8b5f618a12e0c68b218e5677
+Size: 170096
+MD5sum: 2cce6263795acd1ddb924c7ba9151048
+SHA1: 80be8f9bd4aef2f334b253a2b5396c7c7d96fd02
+SHA256: bab48501d7fa43e725b29c54153db825a1fb569ea882bbc2a10603309f93a3e5
 Section: 微信增强
 Description: 免费微信文字转语音-原神版
 Author: Apibug
@@ -101,17 +101,17 @@ Name: 黄白助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
 Package: com.JianL.fun
-Version: 1.0.0
+Version: 1.0.31
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.notificationsgroupcount
-Filename: ./debs/通知组计数(rootless)_1.0.0.deb
-Size: 33392
-MD5sum: fa75bfe4a1fc9a69a9996bf6f3cb94e2
-SHA1: 79773730b459dbb1657c13186b73714c1edef0a5
-SHA256: 49260d80cc4207370128ec4448c498bf3e3cbe7a01a918e993c70a09638bc1af
+Filename: ./debs/通知组计数(rootless)_1.0.31.deb
+Size: 33772
+MD5sum: 814e66ecbca2522f272ba2d50137c49e
+SHA1: 2a7609db0e6fcd2a2be82daf864b13f45fb7f2cf
+SHA256: 4baa2b3a35a8b8c1938152873cdc2c1b1c6002e6668041e90ed56496da9051ea
 Section: 系统增强
 Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
 Author: 0xkuj
