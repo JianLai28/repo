@@ -219,6 +219,41 @@ Author: huami
 Dev: huami
 Name: WCAtPure
 
+Package: com.huami.bilinoad
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/哔哩哔哩去开屏广告_1.0.1.deb
+Size: 3524
+MD5sum: 4e188585bfab8ffd47f19ab93ff21e9d
+SHA1: a8b3c3cf273ed261d3309bf30f720c6170960a1b
+SHA256: 45ec6e9df6c6b82bf2291e9dfb869e72a98da20271c343cbd8a8788f596c8b89
+Section: Tweaks
+Priority: optional
+Description: BiliBili净化开屏广告
+Author: huami
+Name: 哔哩哔哩去开屏广告
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.bilinoad/depiction.json
+
+Package: com.huami.wbnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/WBNoAds_1.0.1.deb
+Size: 3528
+MD5sum: 76610e0e60b9997b44904f49ed0dd225
+SHA1: 674eee3c5a70477f7eb6dfe150ae1dedcaffe390
+SHA256: 2bdc93aef33701fd39728d5ca47a90818a14228be2cc7316b321df4a6e43f012
+Section: Tweaks
+Priority: optional
+Description: Give you a pure Weibo
+Author: huami
+Name: WBNoAds
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.wbnoads/depiction.json
+
 Package: com.initnil.wcenableshowcontactaddcreatetime
 Version: 1.1-1
 Architecture: iphoneos-arm64
