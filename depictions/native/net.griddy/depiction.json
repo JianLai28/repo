@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "1.0.5",
+          "text": "1.0.4",
           "class": "DepictionTableTextView"
         },
         {
@@ -41,7 +41,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/10/30",
+          "text": "2024/10/29",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,19 +58,6 @@
     {
       "tabname": "更新",
       "views": [
-        {
-          "title": "1.0.5",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 1测试\n\t\u2023 换行测试",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
  	    {
           "title": "1.0.4",
           "useBoldText": true,
