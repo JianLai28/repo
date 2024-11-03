@@ -333,22 +333,6 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
 
-Package: com.huami.DYYY
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/john_1.6.deb
-Size: 169156
-MD5sum: 56a0596a5ec72d9087be07c0d37625f3
-SHA1: f76fe435ec92935e9c9edab531dd5dce88a065af
-SHA256: 77977135117d078d088c9653522b3782cf1a691d967221873b82d26cbb9a1e48
-Section: 抖音增强
-Priority: optional
-Description: 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Name: john
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
-
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
