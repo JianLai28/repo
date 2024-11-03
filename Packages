@@ -2,7 +2,7 @@ Package: ApibugTextToVoice
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: ./debs/ApibugTextToVoice_1.0.5.deb
+Filename: debs/ApibugTextToVoice_1.0.5.deb
 Size: 170096
 MD5sum: 2cce6263795acd1ddb924c7ba9151048
 SHA1: 80be8f9bd4aef2f334b253a2b5396c7c7d96fd02
@@ -18,7 +18,7 @@ Version: 0.0.1-28
 Architecture: iphoneos-arm64
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/微信头像旋转-Rootless_0.0.1-28.deb
+Filename: debs/微信头像旋转-Rootless_0.0.1-28.deb
 Size: 4908
 MD5sum: bc7e17493775efeb41e29cf3efec9957
 SHA1: adfb5e08a3fbb076d66e0f585925f9fc45e17824
@@ -38,7 +38,7 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: ./debs/MisakaHelper_2.1-0.deb
+Filename: debs/MisakaHelper_2.1-0.deb
 Size: 13177956
 MD5sum: b25ce0203a7b4789f58c4e8e51f87f2b
 SHA1: 2722f63fd2bd972e6f873cec7e3ab395abb81143
@@ -55,7 +55,7 @@ Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/左滑返回_1.0-6.deb
+Filename: debs/左滑返回_1.0-6.deb
 Size: 44320
 MD5sum: 2faf28750fbc0a1fb0a46eb5bd278ab8
 SHA1: 0b061092dced7b19524b230271c03cc94c7f5209
@@ -72,7 +72,7 @@ Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/微信助手_3.8-0.deb
+Filename: debs/微信助手_3.8-0.deb
 Size: 10164020
 MD5sum: d8b4b2619f4b79193a71d1f7a8cbfb9b
 SHA1: 0b1d2f54c6a8f4f4e2f085d9f65f6bf1335a339e
@@ -89,7 +89,7 @@ Version: 1.7-7
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/黄白助手_1.7-7.deb
+Filename: debs/黄白助手_1.7-7.deb
 Size: 10908264
 MD5sum: 2048c820101a077cadc859dcdac76575
 SHA1: 098ccd7686d879c59a3e88fb8747dfd29b7332d2
@@ -101,13 +101,31 @@ Name: 黄白助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
 Package: com.JianL.fun
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: debs/通知组计数(rootless)_1.0.0.deb
+Size: 33392
+MD5sum: fa75bfe4a1fc9a69a9996bf6f3cb94e2
+SHA1: 79773730b459dbb1657c13186b73714c1edef0a5
+SHA256: 49260d80cc4207370128ec4448c498bf3e3cbe7a01a918e993c70a09638bc1af
+Section: 系统增强
+Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
+Author: 0xkuj
+Name: 通知组计数(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.JianL.fun/depiction.json
+
+Package: com.JianL.fun
 Version: 1.0.31
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.notificationsgroupcount
-Filename: ./debs/通知组计数(rootless)_1.0.31.deb
+Filename: debs/通知组计数(rootless)_1.0.31.deb
 Size: 33836
 MD5sum: 7bbb52a96d8fd8ad471c6f983aa24ea2
 SHA1: 309a42774b2dcba321430f7827d940d7e9f477f0
@@ -123,7 +141,7 @@ Version: 1.6-3
 Architecture: iphoneos-arm64
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/爱锋助手_1.6-3.deb
+Filename: debs/爱锋助手_1.6-3.deb
 Size: 1670096
 MD5sum: 817f44880ca69853c829b131cd5b2f84
 SHA1: ffe55ebd3311ea18dd34e7832e75cd640cbcdb79
@@ -134,11 +152,106 @@ Author: appku
 Name: 爱锋助手
 
 Package: com.curtin.pkc.rootless
+Version: 0.6-1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-1.deb
+Size: 718992
+MD5sum: 228eb91ec275f32ef694eb09cd1ef0ed
+SHA1: 07c11366ea5fb3d60da0f8f6463d99fc9a059b4e
+SHA256: 96dacd3e0c3ba9d0c032ed0e911a4bfb58d5c14b07b4a0b8aba810cd6ebb3b54
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta1.deb
+Size: 629744
+MD5sum: cf0c42f6bce4c5bc7141469f7fe62828
+SHA1: 3743b328a32c95bcc92bd685d23a55f720ed48d2
+SHA256: 6d8fb9aa86aff68370124b56975cd7b06980a0e2d2be20f7f61ebcf6cf7c9238
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta2.deb
+Size: 719372
+MD5sum: 5853071e9e5090703093b16cbcb0245f
+SHA1: 7f17e238e73230809c41850bcb948a8ec1350563
+SHA256: 70ac56fc09e6b18b08928f3121c0968b760298339d0a0bf0bba33be145d18a74
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta3
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta3.deb
+Size: 728196
+MD5sum: c73e27cbaca66f8d277c700a533ca4d6
+SHA1: cfe5209341041bde16ef0053d6e3a8165d7328a7
+SHA256: 2dcc9afe86c805e63844d5c62bf954d6c72e6d25f1abcaa46589fbf85966d3d4
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta4
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta4.deb
+Size: 726004
+MD5sum: 4c96843adb15c7be265113230dcf2945
+SHA1: c01d0f6f44f0f4ae3f6dfabab96283e10443680b
+SHA256: 4065287602304d2638a6759af1b575c7049cb72f08093c9bc0014df1c63c656e
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
 Version: 0.6-2-Beta5
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/PKC_无根_0.6-2-Beta5.deb
+Filename: debs/PKC_无根_0.6-2-Beta5.deb
 Size: 727036
 MD5sum: 78e795ecd6ef7992dc83eb0c14f0d7a4
 SHA1: a5394c0fd6f1b73cb505fb97b161dc58d9fb98f3
@@ -153,12 +266,29 @@ Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.dumpapp.wechat-rootless
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Installed-Size: 23984
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/锤子助手_2.0.3.deb
+Size: 9331484
+MD5sum: 2f89506103941ed739d9c5449cc4076a
+SHA1: b1bfcebca1f54b1987a004910e6efdc849d9c664
+SHA256: 87280c6d4abff51d20d913a46abb8031519d8ae896cbdd8ba1e2ea04a81e6506
+Section: 微信增强
+Author: DumpApp
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/dumpapp/depiction.json
+
+Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
 Architecture: iphoneos-arm64
 Maintainer: DumpApp
 Installed-Size: 23984
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/锤子助手_2.0.4.deb
+Filename: debs/锤子助手_2.0.4.deb
 Size: 9226584
 MD5sum: 73b2de38b883ff68021782c4199576ed
 SHA1: 8da47c435abae486861f9eef8be3cc0afbf4a661
@@ -175,7 +305,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/RateBeGone_0.0.1.deb
+Filename: debs/RateBeGone_0.0.1.deb
 Size: 3388
 MD5sum: c1ce1db236371f5105c29fefa0480899
 SHA1: aba6dfe64793d63c3b62815ef6c8f39556a7315f
@@ -191,7 +321,7 @@ Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/DYYY_1.6.deb
+Filename: debs/DYYY_1.6.deb
 Size: 20852
 MD5sum: eb012de7ac0feecbf1b4814309e1ddc8
 SHA1: e0dbbd3c04129ef0f37c8bd974955a3171e5e14b
@@ -203,12 +333,28 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
 
+Package: com.huami.DYYY
+Version: 1.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/john_1.6.deb
+Size: 169156
+MD5sum: 56a0596a5ec72d9087be07c0d37625f3
+SHA1: f76fe435ec92935e9c9edab531dd5dce88a065af
+SHA256: 77977135117d078d088c9653522b3782cf1a691d967221873b82d26cbb9a1e48
+Section: 抖音增强
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: john
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
+
 Package: com.huami.WCAtPure
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/WCAtPure_1.0.0.deb
+Filename: debs/WCAtPure_1.0.0.deb
 Size: 73768
 MD5sum: 247478ba7b1661f936edacc85172b6c1
 SHA1: a965e999c3ed663ecc4003a20996bb8626890377
@@ -225,16 +371,16 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/哔哩哔哩去开屏广告_1.0.1.deb
-Size: 3524
-MD5sum: 4e188585bfab8ffd47f19ab93ff21e9d
-SHA1: a8b3c3cf273ed261d3309bf30f720c6170960a1b
-SHA256: 45ec6e9df6c6b82bf2291e9dfb869e72a98da20271c343cbd8a8788f596c8b89
+Filename: debs/BiliNoAd_1.0.1.deb
+Size: 3520
+MD5sum: 5a55c644143aa595fff3cad0274ae93a
+SHA1: 5bc956209eddba71cbdf5339f42da51b642939e0
+SHA256: 73a2b53d76cca4b037833b3846e2b5086cd4af685b0a624b98a0eb8773a63a49
 Section: Tweaks
 Priority: optional
 Description: BiliBili净化开屏广告
 Author: huami
-Name: 哔哩哔哩去开屏广告
+Name: BiliNoAd
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.bilinoad/depiction.json
 
 Package: com.huami.wbnoads
@@ -242,7 +388,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/WBNoAds_1.0.1.deb
+Filename: debs/WBNoAds_1.0.1.deb
 Size: 3528
 MD5sum: 76610e0e60b9997b44904f49ed0dd225
 SHA1: 674eee3c5a70477f7eb6dfe150ae1dedcaffe390
@@ -260,7 +406,7 @@ Architecture: iphoneos-arm64
 Maintainer: INITNIL
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/WCEnableShowContactAddCreateTime_1.1-1.deb
+Filename: debs/WCEnableShowContactAddCreateTime_1.1-1.deb
 Size: 3936
 MD5sum: 1c48a8c2fcb2947dce484f687b66cf52
 SHA1: 53f4a8ebc8c0680fa7fd855bc4e577acbaf55892
@@ -276,7 +422,7 @@ Architecture: iphoneos-arm64
 Maintainer: 预言小猫
 Installed-Size: 6912
 Depends: firmware (>= 14.0)
-Filename: ./debs/MeowTimeMachine_0.0.1-106+debug.deb
+Filename: debs/MeowTimeMachine_0.0.1-106+debug.deb
 Size: 2322756
 MD5sum: c4fcf8907e264d98e8f8d8f14d6e0607
 SHA1: 5fa933bf46bd66ccf4b67673a75efc426fa4288e
@@ -288,11 +434,27 @@ Name: MeowTimeMachine
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.ketty.meowtimemachine/depiction.json
 
 Package: com.lai.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/Kayoko_2.6.deb
+Size: 126220
+MD5sum: 189d78a73a079539bc70282a48d5688c
+SHA1: a5028f6dde7d5300ebf6f3ca3b2409b59e4c620e
+SHA256: abd9fa8aa59e792fa04bef7d8bed8cd646fb8975011238ab010d9838069b58f4
+Section: 系统增强
+Description: Kayoko，82flex大佬修复支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
+
+Package: com.lai.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/Kayoko_2.7.deb
+Filename: debs/Kayoko_2.7.deb
 Size: 123756
 MD5sum: 4f1611c76bee16a5af6f6cfce9449a39
 SHA1: d1101e36f0deb886f0c9b2d6a09d0c4ad2584c7a
@@ -309,7 +471,7 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/系统键盘圆角_0.0.1.deb
+Filename: debs/系统键盘圆角_0.0.1.deb
 Size: 3724
 MD5sum: 3e214f9675b137039789a2810c59d814
 SHA1: 0a9a336c416e2da80960da7f047c4b1d52a6907f
@@ -326,7 +488,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/WeChatNotiAvatar_1.2-5.deb
+Filename: debs/WeChatNotiAvatar_1.2-5.deb
 Size: 522940
 MD5sum: 7b3c94b0ab44c1077c1f173a11f6c5cc
 SHA1: 7d31d130955ea64df701bca5aca0398920e1a394
@@ -341,7 +503,7 @@ Version: 2.2-1
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/虚拟视频_2.2-1.deb
+Filename: debs/虚拟视频_2.2-1.deb
 Size: 1668628
 MD5sum: 353d8852a1e80d4d71c8a72bf3681084
 SHA1: 9366641a8db93cbdb2c0826e13c7978c5b3ec52a
@@ -357,7 +519,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/split-view-pro_1.3.7.deb
+Filename: debs/split-view-pro_1.3.7.deb
 Size: 1539304
 MD5sum: 2a764847ab3f472499a4204753825550
 SHA1: 53dd1dc3be09058ffe2c94c6ae5240f5f11d4704
@@ -374,7 +536,7 @@ Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/语音包_1.0-5.deb
+Filename: debs/语音包_1.0-5.deb
 Size: 7360408
 MD5sum: 26b567da5383cdea123d8eb4265fcb90
 SHA1: e24a857eb3bd192e94904ee61f9f5b9a525eac1a
@@ -393,7 +555,7 @@ Architecture: iphoneos-arm64
 Maintainer: 王富贵
 Installed-Size: 76
 Depends: mobilesubstrate
-Filename: ./debs/匿名艾特Carck_0.1-1+debug.deb
+Filename: debs/匿名艾特Carck_0.1-1+debug.deb
 Size: 5544
 MD5sum: ebf2706338246edf3699f2b15abc42d6
 SHA1: 17abf517f074a2b90f09cca1b2e871970ec79967
@@ -410,7 +572,7 @@ Architecture: iphoneos-arm64
 Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
 Installed-Size: 481
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/PopOutButtons_1.0.1.deb
+Filename: debs/PopOutButtons_1.0.1.deb
 Size: 57744
 MD5sum: 878a15921046aac93e43c94ab73484b0
 SHA1: 69c8317b8429d3f7a3a60098c259b7701b7e8467
@@ -425,12 +587,46 @@ Name: PopOutButtons
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
 
 Package: com.xx.dyhook
+Version: 2.0.7+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 12952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.7+1.deb
+Size: 4266628
+MD5sum: 794a541a51cd6db9a68fe4e1bebe8ef7
+SHA1: dfce343f357debc925fd707f993fecc28c844b0c
+SHA256: 121b97c3729f3bab6ff8f45fa110de953c058ea699413c5be20e290dc6e1ef09
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
+Package: com.xx.dyhook
+Version: 2.0.7+2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 12952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.7+2.deb
+Size: 4477624
+MD5sum: b416730dfd7f61d042c95f589c0ce9d6
+SHA1: 861001ec1abab6acb168f1f95857aa2f5e413ff9
+SHA256: 7baf056e4b1dc35d89b767d9ebe26d6f77fa5a565077cbc07f8981d461f4b78d
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
+Package: com.xx.dyhook
 Version: 2.0.7+3
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 12952
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层_2.0.7+3.deb
+Filename: debs/抖音图层_2.0.7+3.deb
 Size: 4660456
 MD5sum: 5c00f6c711c9c75e937547f1b6e4c708
 SHA1: a6a3f9c2a8dd301fdc6ce871db099f03158244db
@@ -447,7 +643,7 @@ Architecture: iphoneos-arm64
 Maintainer: 怡点日常
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/WCEnableMomentsLivePhoto_1.1-2.deb
+Filename: debs/WCEnableMomentsLivePhoto_1.1-2.deb
 Size: 12856
 MD5sum: 3b172747c19b2fe85757941a19fd7820
 SHA1: 2fd2d938d59586dd5fc502587d73bd503bf35e8f
@@ -463,7 +659,7 @@ Architecture: iphoneos-arm64
 Maintainer: 剑来
 Installed-Size: 1509
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Jade_1.0.3.deb
+Filename: debs/Jade_1.0.3.deb
 Size: 308372
 MD5sum: 245bdd3372d636f9a90b2bc9c28dc8a5
 SHA1: 8f97194509ea1aaa49912ac9c1d714a9986c288b
@@ -476,10 +672,55 @@ Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade
 Sponsor: 剑来
 
 Package: net.griddy
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: debs/Griddy图标自定义_1.0.deb
+Size: 16328
+MD5sum: 03b48abc2362ff7ac6cfdcc5928103c1
+SHA1: 39135e2f2943b3d116de67b99177032c32a2029f
+SHA256: c505dd406285e56c76aa10fed5e76a8aee380f2f1ca1fc270786d09302b416c1
+Section: 系统增强
+Description: 桌面图标随意摆放
+Author: mikifp
+Name: Griddy图标自定义
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+
+Package: net.griddy
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: debs/Griddy图标自定义_1.0.3.deb
+Size: 17680
+MD5sum: 711986694c2367e5d38b6c7652b8a3c0
+SHA1: bf2fab3dade172881eb2db632b29d052cc712d44
+SHA256: 47b4aa691c1285b2fa606db020d4bfa3c4fa0b707635faaeaef85850f5004642
+Section: 系统增强
+Description: 桌面图标随意摆放
+Author: mikifp
+Name: Griddy图标自定义
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+
+Package: net.griddy
+Version: 1.0.3.5
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: debs/Griddy图标自定义_1.0.3.5.deb
+Size: 18956
+MD5sum: 8e7421e9bb5274194514b1b30db851b2
+SHA1: e7a76b0a82736d51163439972b754b57dde44a96
+SHA256: 64ac9525a6accacd6f3dfd5d4145f2cb0182d1e87b27c62b6abf1862de130b7d
+Section: 系统增强
+Description: 桌面图标随意摆放
+Author: mikifp
+Name: Griddy图标自定义
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/net.griddy/depiction.json
+
+Package: net.griddy
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Filename: ./debs/Griddy图标自定义_1.0.4.deb
+Filename: debs/Griddy图标自定义_1.0.4.deb
 Size: 19600
 MD5sum: 61e315d45ec2578156d35acf0adf2be2
 SHA1: d3ed60b1cf69d2c264f8feb53723b18579a77970
@@ -499,7 +740,7 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
-Filename: ./debs/微信净化_4.2-6.deb
+Filename: debs/微信净化_4.2-6.deb
 Size: 7087844
 MD5sum: 8ff6f578569c66266a3622b91749ee7f
 SHA1: b78eae682ea25d6f68b059dc2eb3e1d9e1eff63d
@@ -516,7 +757,7 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/微信净化END_4.2-6-END.deb
+Filename: debs/微信净化END_4.2-6-END.deb
 Size: 6276676
 MD5sum: c216911fcda55154c7de1990c732384c
 SHA1: 0b71015b2496429e385a3c1b828b1cdc8f3dae6b
