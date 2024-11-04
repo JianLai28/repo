@@ -34,7 +34,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-2-Beta5",
+          "text": "0.6-2-Beta6",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -49,7 +49,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/1",
+          "text": "2024/11/3",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,19 +58,6 @@
         },
         {
           "spacing": 20,
-        {
-          "title": "0.6-2-Beta6",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 优化[文转语]支持自定义音色管理，可自行搭建管理后台，维护音色",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
           "class": "DepictionSpacerView"
         }
       ],
@@ -79,6 +66,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-2-Beta6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化[文转语]支持自定义音色管理，可自行搭建管理后台，维护音色。",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
  	    {
           "title": "0.6-2-Beta5",
           "useBoldText": true,
