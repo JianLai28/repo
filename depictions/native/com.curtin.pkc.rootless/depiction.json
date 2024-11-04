@@ -34,7 +34,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-2-Beta6",
+          "text": "0.6.2-Beta7",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -49,7 +49,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/3",
+          "text": "2024/11/4",
           "class": "DepictionTableTextView"
         },
         {
@@ -67,6 +67,19 @@
       "tabname": "更新",
       "views": [
         {
+          "title": "0.6.2-Beta7",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化[文转语]，新增音色快捷指令，在音色列表左滑-指令，可针对某个音色定义触发命令",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
+        {
           "title": "0.6-2-Beta6",
           "useBoldText": true,
           "useSpacing": false,
@@ -74,7 +87,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 优化[文转语]支持自定义音色管理，可自行搭建管理后台，维护音色。",
+          "markdown": "\t\u2023 优化[文转语]支持自定义音色管理，可自行搭建管理后台，维护音色。\n\t\u2023 项目地址：https://github.com/curtinlv/pkc-ys.git",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
