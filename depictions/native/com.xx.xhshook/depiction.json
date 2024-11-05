@@ -66,7 +66,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 新增评论区动图保存\\n\\t\\u2023 修复一些问题\\n\\t\\u2023 优化一些细节",
+          "markdown": "\t\u2023 新增评论区动图保存\n\t\u2023 修复一些问题\n\t\u2023 优化一些细节",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
