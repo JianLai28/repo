@@ -659,6 +659,40 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
+Package: com.xx.dyhook
+Version: 2.0.7+5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 12952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.7+5.deb
+Size: 4728948
+MD5sum: 18ee628902e2df8fd0bccf5cff49200a
+SHA1: 1df053accb99c6d80adba498a8bab98e15030038
+SHA256: 27f88a7d9ad6a371dcdf9959445906382c2cbc9c3926d9c7a6c4f582e917ed17
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
+Package: com.xx.xhshook
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/小红薯_1.1.2.deb
+Size: 1145736
+MD5sum: eeffd540c52a318d7376613fe4e26a9f
+SHA1: 2c3916e20b0106a0dc52d8efbd9b4692c3334f5b
+SHA256: 3ec6fbc3d550926102135e2340e7fbcea9871f16713ca249ecb4885e3313e521
+Section: 应用增强
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Name: 小红薯
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.xhshook/depiction.json
+
 Package: com.yi.wcenablemomentslivephoto
 Version: 1.1-2
 Architecture: iphoneos-arm64

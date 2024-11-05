@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "2.0.7+3",
+          "text": "2.0.7+5",
           "class": "DepictionTableTextView"
         },
         {
@@ -36,12 +36,12 @@
         },
 		{
           "title": "开发者",
-          "text": "嘉嘉",
+          "text": " x✨",
           "class": "DepictionTableTextView"
         },
 		{
           "title": "更新时间",
-          "text": "2024/10/28",
+          "text": "2024/11/5",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "2.0.7+5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修夏 31.8.0直播间实际人数问题\n\t\u2023 修夏 31.9.0底部消息红点夫效\n\t\u2023 修夏 31.9.0 直播界面异常\n\t\u2023 开启仅看一次开启下载按钮后 仅看一次视频或图片不会自动消夫\n\t\u2023 修复评论区方案1支持新版\n\t\u2023 新增发送图片 •视频消息默认选择原图",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
 	    {
           "title": "2.0.7+3",
           "useBoldText": true,
