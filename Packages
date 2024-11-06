@@ -1,18 +1,3 @@
-Package: ApibugTextToVoice
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Filename: debs/ApibugTextToVoice_1.0.5.deb
-Size: 170096
-MD5sum: 2cce6263795acd1ddb924c7ba9151048
-SHA1: 80be8f9bd4aef2f334b253a2b5396c7c7d96fd02
-SHA256: bab48501d7fa43e725b29c54153db825a1fb569ea882bbc2a10603309f93a3e5
-Section: 微信增强
-Description: 免费微信文字转语音-原神版
-Author: Apibug
-Name: ApibugTextToVoice
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/ApibugTextToVoice/depiction.json
-
 Package: JianL.wechat.xuanzhuan
 Version: 0.0.1-28
 Architecture: iphoneos-arm64
@@ -410,11 +395,28 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/打交道_1.0.1.deb
+Size: 3532
+MD5sum: 1aa16f3ebd9f70a1c5f8c786f25882ed
+SHA1: 2419f437ea2af677476ce13af28140cff0df7048
+SHA256: a3c5606cf3e7a357c8e9309fc0267a539fdd988cbc943b455ca560498578d301
+Section: Tweaks
+Priority: optional
+Description: Give you a pure Weibo
+Author: huami
+Name: 打交道
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.wbnoads/depiction.json
+
+Package: com.huami.wbnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/WBNoAds_1.0.1.deb
-Size: 3528
-MD5sum: 76610e0e60b9997b44904f49ed0dd225
-SHA1: 674eee3c5a70477f7eb6dfe150ae1dedcaffe390
-SHA256: 2bdc93aef33701fd39728d5ca47a90818a14228be2cc7316b321df4a6e43f012
+Size: 3532
+MD5sum: 68af2d3afb73579f2e99d45b1d36dcf8
+SHA1: 4eed5741ebcbaed2af73471a3516d5b831a2689b
+SHA256: df4ba2cab261733f045fae2ef611feabed4d89dc785a97f37b2a05273285eeb0
 Section: Tweaks
 Priority: optional
 Description: Give you a pure Weibo
@@ -503,6 +505,40 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.liuf.jpyj/depiction.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 724
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/AwemeDisableBar_1.1-5.deb
+Size: 306440
+MD5sum: 3041fb3de09dca1f9528535c62758bb5
+SHA1: f3137131dee13b7e1ff049f4104f71644b6aab15
+SHA256: fb020350dbd3c34a3a1e7dc267f4897cd400d4409ed05284f499948b4cdca725
+Section: 抖音增强
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemedisablebar/depiction.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: debs/AwemeFullScreen_1.2-3.deb
+Size: 161828
+MD5sum: 352bdffc61fb98eda214a3df26a620a8
+SHA1: e7d52118a9ddc7f4cb61fea3a24d17ae688b21d0
+SHA256: 98cd206df5921174c3b1399eeb4b0f1f2f21f26298bff71bb88251cfa72e6199
+Section: 抖音增强
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemefullscreen/depiction.json
 
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
