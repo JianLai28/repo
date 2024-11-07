@@ -294,10 +294,10 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-2-Beta8.deb
-Size: 739028
-MD5sum: fdb9c2328c70d55d48c4bb198ce0e61a
-SHA1: cdcc7fc67fb2b305efba9d42201eb2c94a9e6315
-SHA256: cc77ad7c39903224c1155a599d3e310bc8ac4d187397ed0387dd21d624c659b8
+Size: 738900
+MD5sum: 24a036a2efbe1d111fdff7d937a9d019
+SHA1: 9975429132273dd52bcd7b96d559eee8c676ad26
+SHA256: 8bdef3a7aa441dbd00536f6403e748ac467c9249c96ccb2ce21564540cec8f25
 Section: PKC-插件
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -305,6 +305,7 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.3
