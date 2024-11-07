@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "2.0.7+5",
+          "text": "2.0.7+6",
           "class": "DepictionTableTextView"
         },
         {
@@ -41,7 +41,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/5",
+          "text": "2024/11/7",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "2.0.7+6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 新增视屏底部显示发布时间\n\t\u2023 修复纯净模式下无法拉动长视频滑条\n\t\u2023 修复隐藏进度条后还有一条长线\n\t\u2023 优化功能打开提示弹窗\n\t\u2023 优化抖音浅色模式下解析弹窗导致状态栏变色\n\t\u2023 一些其它细节优化,是的,你看不到一些地方的优化",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "2.0.7+5",
           "useBoldText": true,

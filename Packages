@@ -449,15 +449,15 @@ Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
 Filename: debs/Immortalizer(rootless)_1.0.1.deb
-Size: 29812
-MD5sum: 2ce94f8ef8bf8e55a99f9005a5263981
-SHA1: ee9646af3812812b2f7a6552f099602e938fb5bc
-SHA256: f76aa31cebeedf8b7e4bdee69f2683aeefb879cb710683981f033139d0c2b1c6
+Size: 29820
+MD5sum: 874d67e5f9d9bb8cf19a9eee965c312c
+SHA1: a6c5c53b48748211901e48169139dbdb9f2eecf1
+SHA256: 9dcb514c9b0ecfe43fae7bf9bd93597b5d81d97d621fb4fba8d0fac3d775f856
 Section: 系统增强
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
 Author: sergy
 Name: Immortalizer(rootless)
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dao.immortalizer/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
@@ -743,6 +743,23 @@ MD5sum: 18ee628902e2df8fd0bccf5cff49200a
 SHA1: 1df053accb99c6d80adba498a8bab98e15030038
 SHA256: 27f88a7d9ad6a371dcdf9959445906382c2cbc9c3926d9c7a6c4f582e917ed17
 Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
+Package: com.xx.dyhook
+Version: 2.0.7+6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13828
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.7+6.deb
+Size: 4769376
+MD5sum: b6e41c21fcec1be0aec0185986d13ecd
+SHA1: 1c4814bbb89f3dd38d43e52cf005da76960f0b6f
+SHA256: d6c8a9749899dfa8c7f29681d2a22f7147252fdf3c17146a1b55660db1a51bbc
+Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
