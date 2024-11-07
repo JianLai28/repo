@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Aweme 禁用顶部/底部/右侧标签按钮。仅在 30.3.0 及以上版本中测试过"
+          "markdown": "可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」刀刀汉化。"
         },
         {
           "spacing": 15,
@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "1.1-6",
+          "text": "1.0.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -36,7 +36,7 @@
         },
         {
           "title": "开发者",
-          "text": "Netskao",
+          "text": "sergy",
           "class": "DepictionTableTextView"
         },
         {
@@ -59,27 +59,14 @@
       "tabname": "更新",
       "views": [
         {
-          "title": "1.1-6",
+          "title": "1.0.1",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 现在选择禁用底部按钮将立即生效",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        }, 
-        {
-          "title": "1.1-5",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 支持禁用底部商城按钮",
+          "markdown": "\t\u2023 ",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"

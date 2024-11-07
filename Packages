@@ -288,6 +288,24 @@ Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135
 Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
+Package: com.curtin.pkc.rootless
+Version: 0.6-2-Beta8
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-2-Beta8.deb
+Size: 739028
+MD5sum: fdb9c2328c70d55d48c4bb198ce0e61a
+SHA1: cdcc7fc67fb2b305efba9d42201eb2c94a9e6315
+SHA256: cc77ad7c39903224c1155a599d3e310bc8ac4d187397ed0387dd21d624c659b8
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -395,23 +413,6 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/打交道_1.0.1.deb
-Size: 3532
-MD5sum: 1aa16f3ebd9f70a1c5f8c786f25882ed
-SHA1: 2419f437ea2af677476ce13af28140cff0df7048
-SHA256: a3c5606cf3e7a357c8e9309fc0267a539fdd988cbc943b455ca560498578d301
-Section: Tweaks
-Priority: optional
-Description: Give you a pure Weibo
-Author: huami
-Name: 打交道
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.wbnoads/depiction.json
-
-Package: com.huami.wbnoads
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/WBNoAds_1.0.1.deb
 Size: 3532
 MD5sum: 68af2d3afb73579f2e99d45b1d36dcf8
@@ -439,6 +440,24 @@ Section: 微信增强
 Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
 Author: INITNIL
 Name: WCEnableShowContactAddCreateTime
+
+Package: com.jian.immortalizer
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: debs/Immortalizer(rootless)_1.0.1.deb
+Size: 29812
+MD5sum: 2ce94f8ef8bf8e55a99f9005a5263981
+SHA1: ee9646af3812812b2f7a6552f099602e938fb5bc
+SHA256: f76aa31cebeedf8b7e4bdee69f2683aeefb879cb710683981f033139d0c2b1c6
+Section: 系统增强
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
+Author: sergy
+Name: Immortalizer(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dao.immortalizer/depiction.json
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
@@ -518,6 +537,23 @@ MD5sum: 3041fb3de09dca1f9528535c62758bb5
 SHA1: f3137131dee13b7e1ff049f4104f71644b6aab15
 SHA256: fb020350dbd3c34a3a1e7dc267f4897cd400d4409ed05284f499948b4cdca725
 Section: 抖音增强
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemedisablebar/depiction.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: debs/AwemeDisableBar_1.1-6.deb
+Size: 304972
+MD5sum: 42e37620ee5dfe4964feb12459143a1c
+SHA1: dde5d8f45051a2ac23ff18aaa4f9f5d03d3caf20
+SHA256: e196a62c6a98b74b2d288d9a173588f92e6a86a1a1584bdb2a1922678a947541
+Section: Netskao-Tweaks
 Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeDisableBar
