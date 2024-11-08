@@ -30,6 +30,11 @@
           "class": "DepictionTableTextView"
         },
         {
+          "title": "汉化",
+          "text": "刀刀",
+          "class": "DepictionTableTextView"
+        },
+        {
           "title": "兼容性",
           "text": "IOS",
           "class": "DepictionTableTextView"
@@ -37,11 +42,6 @@
         {
           "title": "开发者",
           "text": "sergy",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "汉化",
-          "text": "刀刀",
           "class": "DepictionTableTextView"
         },
         {

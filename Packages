@@ -442,7 +442,7 @@ Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
 Author: INITNIL
 Name: WCEnableShowContactAddCreateTime
 
-Package: com.jian.immortalizer
+Package: com.jianlai82
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: sergy & daodao
@@ -451,31 +451,48 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
 Filename: debs/Immortalizer(rootless)_1.0.deb
 Size: 29812
-MD5sum: 9af085ae2a0801322d2125010591d417
-SHA1: d6b9ebbaa97b2dc389dbda4a88e304ef03f8fb17
-SHA256: 21edd426a2cbf72a5499d46b773f5e587106b74bef2dbc464499116c31259e9d
+MD5sum: e4cd18b3ca89a343634e08520da1e87d
+SHA1: 895695ebf15e35bc40a33a9ebc0072c70f1f9042
+SHA256: 418993c86021b16cc236f15c569a9e72871a14376ce816e8bb390f35472f1775
 Section: 系统增强
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
 Author: sergy
 Name: Immortalizer(rootless)
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
 
-Package: com.jian.immortalizer
+Package: com.jianlai82
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: sergy
 Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: debs/Immortalizer_1.0.1.deb
-Size: 29796
-MD5sum: 85042ef223163eebd21a390270121367
-SHA1: 5bd243038668a3263596d9b655fcfbd9d6e55318
-SHA256: e8d0fb17a158e4bde0bac4e7a47a1e8a99eec21e6c895e7785e216f3b69dcd21
-Section: 系统增强
+Size: 29204
+MD5sum: 8a6cfac7f63af0103bb89bc10dfb6b6a
+SHA1: 3e0e4d24ba2a3a7a0e8dcf027f014089fdbffe2c
+SHA256: 19b9d577d0eebcd5eff685a36ec55a0cfeb83f89f0325cddf24c46c54ac81ccf
+Section: Tweaks
 Description: Foreground your apps even if they are in the background!
 Author: sergy
 Name: Immortalizer
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.sergy.immortalizer/depiction.json
+
+Package: com.jianlai82.hanhua
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/Immortalizer汉化包_1.0.1.deb
+Size: 2068
+MD5sum: 5a97de6ae950a4a1d289a880ee725e48
+SHA1: 76dc7df2d947c488fbe080f5874dbb8c346d9548
+SHA256: 1b60f0974bb3098a7bad31fb9f7114980c89f399e197b0ad60d98805faea0020
+Section: jianlai
+Description: Immortalizer汉化包，刀刀出品
+Author: 剑来&刀刀
+Name: Immortalizer汉化包
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82.hanhua/depiction.json
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
