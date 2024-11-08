@@ -2,11 +2,13 @@
   "minVersion": "0.1",
   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
   "tabs": [
+    {
       "tabname": "详情",
       "views": [
-        {
-          "text": "免费添加音色",
-          "action": "1"
+		 {
+          "text": "带Beta的是测试版：仅内测群员使用",
+          "action": "链接",
+          "class": "DepictionButtonView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -18,6 +20,14 @@
         {
           "spacing": 15,
           "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+		  {
+          "text": "免费添加音色",
+          "action": "链接",
+          "class": "DepictionButtonView"
         },
         {
           "class": "DepictionSeparatorView"
