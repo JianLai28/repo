@@ -2,6 +2,14 @@
   "minVersion": "0.1",
   "headerImage": "https://jianlai28.github.io/repo/ing/fengm.jpg",
   "tabs": [
+		{
+          "text": "免费添加新音色",
+          "action": "链接",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
     {
       "tabname": "详情",
       "views": [
