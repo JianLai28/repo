@@ -7,7 +7,7 @@
       "views": [
 		 {
           "text": "免费添加音色",
-          "action": "链接",
+          "action": "https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/wx.html",
           "class": "DepictionButtonView"
         },
         {
