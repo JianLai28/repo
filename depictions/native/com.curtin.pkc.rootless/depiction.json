@@ -5,9 +5,6 @@
       "tabname": "详情",
       "views": [
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "text": "免费添加音色",
           "action": "1"
         },
