@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」刀刀汉化。"
+          "markdown": "可将应用置于前台，达到真后台效果；应用图标长按菜单开启或关闭"
         },
         {
           "spacing": 15,
@@ -27,11 +27,6 @@
         {
           "title": "版本",
           "text": "1.0.1",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "汉化",
-          "text": "刀刀",
           "class": "DepictionTableTextView"
         },
         {
