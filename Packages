@@ -449,16 +449,16 @@ Maintainer: sergy & daodao
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: debs/Immortalizer(rootless)_1.0.deb
-Size: 29812
-MD5sum: e4cd18b3ca89a343634e08520da1e87d
-SHA1: 895695ebf15e35bc40a33a9ebc0072c70f1f9042
-SHA256: 418993c86021b16cc236f15c569a9e72871a14376ce816e8bb390f35472f1775
+Filename: debs/Immortalizer_1.0.deb
+Size: 29808
+MD5sum: 070759252da06f3839d99efb2e9d7858
+SHA1: 9daa04eb24f8bc3d9ff1ff58d879f896598e1a8a
+SHA256: 26460a188aa445f43f7fd387a2c0d81f2ca932a1d87a077cf1ba74ee879f9aa3
 Section: 系统增强
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
 Author: sergy
-Name: Immortalizer(rootless)
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
+Name: Immortalizer
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82/depiction.json
 
 Package: com.jianlai82
 Version: 1.0.1
@@ -467,15 +467,15 @@ Maintainer: sergy
 Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: debs/Immortalizer_1.0.1.deb
-Size: 29204
-MD5sum: 8a6cfac7f63af0103bb89bc10dfb6b6a
-SHA1: 3e0e4d24ba2a3a7a0e8dcf027f014089fdbffe2c
-SHA256: 19b9d577d0eebcd5eff685a36ec55a0cfeb83f89f0325cddf24c46c54ac81ccf
+Size: 29188
+MD5sum: f4e6e10dc9a50db6244fb6967c693fa1
+SHA1: ae20dc301c164cd599ccba49cb29225631741255
+SHA256: e76431879f52727a9b1b97c407247841036651b6ed07cbda02c2f9a744b27299
 Section: Tweaks
 Description: Foreground your apps even if they are in the background!
 Author: sergy
 Name: Immortalizer
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.sergy.immortalizer/depiction.json
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82/depiction.json
 
 Package: com.jianlai82.hanhua
 Version: 1.0.1
