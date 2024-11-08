@@ -294,11 +294,11 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-2-Beta8.deb
-Size: 738900
-MD5sum: 24a036a2efbe1d111fdff7d937a9d019
-SHA1: 9975429132273dd52bcd7b96d559eee8c676ad26
-SHA256: 8bdef3a7aa441dbd00536f6403e748ac467c9249c96ccb2ce21564540cec8f25
-Section: PKC-插件
+Size: 739388
+MD5sum: 5813549b1de14f6248f5fc0d4e89955b
+SHA1: 11c65d3d6ac30e840762d0a10aa17793d3c23d23
+SHA256: 0d744d617ed2f91e0c3cf05075cfe6ef3d3b65131b9e61da8845edc69e847485
+Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
@@ -484,11 +484,11 @@ Maintainer: sergy
 Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: debs/Immortalizer汉化包_1.0.1.deb
-Size: 2068
-MD5sum: 5a97de6ae950a4a1d289a880ee725e48
-SHA1: 76dc7df2d947c488fbe080f5874dbb8c346d9548
-SHA256: 1b60f0974bb3098a7bad31fb9f7114980c89f399e197b0ad60d98805faea0020
-Section: jianlai
+Size: 2076
+MD5sum: 030f48457d015f6702924d1798c3ce58
+SHA1: cdd0d8b0d2146c80bd30fcf66d7886a9ce1e0b34
+SHA256: 23089cad6bba145790af8341efd69cbc42876c55312a30104e0272c9a4574147
+Section: 汉化补丁
 Description: Immortalizer汉化包，刀刀出品
 Author: 剑来&刀刀
 Name: Immortalizer汉化包
@@ -584,11 +584,11 @@ Maintainer: Nets
 Installed-Size: 708
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: debs/AwemeDisableBar_1.1-6.deb
-Size: 304972
-MD5sum: 42e37620ee5dfe4964feb12459143a1c
-SHA1: dde5d8f45051a2ac23ff18aaa4f9f5d03d3caf20
-SHA256: e196a62c6a98b74b2d288d9a173588f92e6a86a1a1584bdb2a1922678a947541
-Section: Netskao-Tweaks
+Size: 305276
+MD5sum: d82c8e7a6f8e1685590f529e5edaf101
+SHA1: a74ab081f648238e6d674e62b5d8ad4c536f7429
+SHA256: 1018cd45246bd62659b43764584510f01fbb0bf451710333654eeebe8a8c7478
+Section: 抖音增强
 Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeDisableBar
