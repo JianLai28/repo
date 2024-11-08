@@ -66,7 +66,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 修正了一个错误，该错误导致旋转在永生化应用程序上不起作用\n\t\u2023 改进了安全检查\n\t\u2023 新增rootful支持",
+          "markdown": "\t\u2023 修正了一个错误，该错误导致旋转在应用上不起作用\n\t\u2023 改进了安全检查\n\t\u2023 新增rootful支持",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
