@@ -42,7 +42,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-2",
+          "text": "0.6-3",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -74,6 +74,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复琅琅音色转换成功，发送失败问题\n\t\u2023 修复背景音开启没设置背景音发送失败问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "0.6-2",
           "useBoldText": true,
