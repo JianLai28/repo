@@ -443,21 +443,38 @@ Author: INITNIL
 Name: WCEnableShowContactAddCreateTime
 
 Package: com.jian.immortalizer
-Version: 1.0.1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: sergy & daodao
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
-Filename: debs/Immortalizer(rootless)_1.0.1.deb
-Size: 29820
-MD5sum: 874d67e5f9d9bb8cf19a9eee965c312c
-SHA1: a6c5c53b48748211901e48169139dbdb9f2eecf1
-SHA256: 9dcb514c9b0ecfe43fae7bf9bd93597b5d81d97d621fb4fba8d0fac3d775f856
+Filename: debs/Immortalizer(rootless)_1.0.deb
+Size: 29812
+MD5sum: 9af085ae2a0801322d2125010591d417
+SHA1: d6b9ebbaa97b2dc389dbda4a88e304ef03f8fb17
+SHA256: 21edd426a2cbf72a5499d46b773f5e587106b74bef2dbc464499116c31259e9d
 Section: 系统增强
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；根据开源重新编译，且汉化。
 Author: sergy
 Name: Immortalizer(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
+
+Package: com.jian.immortalizer
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/Immortalizer_1.0.1.deb
+Size: 29796
+MD5sum: 85042ef223163eebd21a390270121367
+SHA1: 5bd243038668a3263596d9b655fcfbd9d6e55318
+SHA256: e8d0fb17a158e4bde0bac4e7a47a1e8a99eec21e6c895e7785e216f3b69dcd21
+Section: 系统增强
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Name: Immortalizer
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jian.immortalizer/depiction.json
 
 Package: com.ketty.meowtimemachine
