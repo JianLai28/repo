@@ -6,7 +6,7 @@
       "tabname": "详情",
       "views": [
 		 {
-          "text": "带Beta的是测试版：仅内测群员使用",
+          "text": "免费添加音色",
           "action": "链接",
           "class": "DepictionButtonView"
         },
@@ -24,14 +24,6 @@
         {
           "class": "DepictionSeparatorView"
         },
-		  {
-          "text": "免费添加音色",
-          "action": "链接",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
         {
           "text": "点击加入QQ群聊",
           "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
@@ -40,7 +32,7 @@
         {
           "class": "DepictionSeparatorView"
         },
-		{
+		  {
           "text": "带Beta的是测试版：仅内测群员使用",
           "action": "链接",
           "class": "DepictionButtonView"
