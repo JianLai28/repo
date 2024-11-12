@@ -14,6 +14,23 @@ Author: xybp888
 Name: 微信头像旋转-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/JianL.wechat.xuanzhuan/depiction.json
 
+Package: JianL.wechat.xuanzhuan
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq:961666883）
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/微信头像旋转_1.2.deb
+Size: 4708
+MD5sum: a236776d235ff44523dff0a55068ff7f
+SHA1: 09f8ed312295f6ae90662745fda3661d1e3f3b23
+SHA256: 6852b5b6ab86754322511fecec3517015dfbf895eaaab62529efef84601a7392
+Section: 微信增强
+Description: 看着头都晕，添加一个开关！
+Author: baiy
+Name: 微信头像旋转
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/JianL.wechat.xuanzhuan/depiction.json
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -152,23 +169,6 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: appku
 Name: 爱锋助手
 
-Package: com.baiy.wechatrotate
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: baiy（qq:961666883）
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/微信头像旋转_1.2.deb
-Size: 4716
-MD5sum: a3486480a94f02650aa9e0e4f5583eae
-SHA1: 4b8bb84004494c475ed1ebed686ad53d6b119b54
-SHA256: ad2c9b8439a0ed89d50f9613a80c2854877d3eaec58a6b382cf64d153c814f2f
-Section: 微信增强
-Description: 看着头都晕，添加一个开关！
-Author: baiy
-Name: 微信头像旋转
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.baiy.wechatrotate/depiction.json
-
 Package: com.curtin.pkc.rootless
 Version: 0.6-1
 Architecture: iphoneos-arm64
@@ -270,10 +270,10 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-4-Beta3.deb
-Size: 743152
-MD5sum: 4018d2b463bef439dec5e21afb107753
-SHA1: 3785a713b178c71363fe08ea8b9c66256540704d
-SHA256: 9b48e65f7a8e58d3d1ba0391c8f3e9b166669799d34199a6d92f6a4d6646713a
+Size: 743348
+MD5sum: e11afd163b17be62ccfa35e365798549
+SHA1: 1be57923c4166de06d0c564966888f0096339e92
+SHA256: af743f1c8a0309d4837b0105a488a3edec06ba91f1ab236977f46f2ff07598dd
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
