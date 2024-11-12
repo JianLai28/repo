@@ -42,7 +42,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-4-Beta2",
+          "text": "0.6-4-Beta3",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -57,7 +57,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/11",
+          "text": "2024/11/12",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,6 +74,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-4-Beta3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 启用反向代理，不填，则默认使用内置PKC代理服务\n\t\u2023 优化[文转语]新增快捷音色页面指令\n\t\u2023 其他优化",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "0.6-4-Beta2",
           "useBoldText": true,
