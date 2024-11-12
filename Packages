@@ -85,6 +85,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7-8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手(微信插件)-Rootless_1.7-8.deb
+Size: 11249020
+MD5sum: 9d0ed396add9bd109108626432fad176
+SHA1: 57d7f35b92fede593a8093b1ba98b6ec64a8fa8f
+SHA256: 9761058797b298d7758857b3f3920408e7ddcbfc5c8ab17ea2e220d7218704c9
+Section: 微信增强
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
 Package: com.JianL.fun
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -204,6 +220,25 @@ MD5sum: f8898e671cb3a60c271bf05731f85c65
 SHA1: 4a06add7277f8e33d50eac56a1cbcf2c17b46241
 SHA256: 6210cff5784088a03fd273c1cb083464904f6633763520b16ee10bed9e990e5c
 Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-4-Beta2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-4-Beta2.deb
+Size: 741524
+MD5sum: 08892e95bc4220e87fa4e48450c25464
+SHA1: 9718867d416829c98a1ebda7cd85a1b41ff21c89
+SHA256: e5d3570803b54192824a119465629384ef74c55fcf2c042043fb4b48303a1af3
+Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
