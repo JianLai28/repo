@@ -42,7 +42,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-4-Beta3",
+          "text": "0.6-4-Beta5",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -57,7 +57,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/12",
+          "text": "2024/11/15",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,6 +74,32 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-4-Beta5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化[文转语]增加语音转MP3及其他优化",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
+        {
+          "title": "0.6-4-Beta4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化文字转语音Pro\n\t\u2023 修复标签Pro，X轴范围问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "0.6-4-Beta3",
           "useBoldText": true,
