@@ -42,7 +42,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-4-Beta5",
+          "text": "0.6-4",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -57,7 +57,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/15",
+          "text": "2024/11/16",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,6 +74,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 [文转语]修复“随机”背景音闪退问题\n\t\u2023 [文转语]优化背景音导入按钮（部分设备没显示按钮）\n\t\u2023 [文转语]新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：PKC反向代理项目 (https://github.com/curtinlv/pkc-agent.git) \n\t\u2023 [文转语]优化文字转语音Pro按钮\n\t\u2023 [文转语]增加FV音色情绪\n\t\u2023 [文转语]增加语音转MP3\n\t\u2023 [文转语]增加自动清理缓存\n\t\u2023 [文转语]增加快捷音色页面指令\n\t\u2023 [标签Pro]修复X轴范围填写问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "0.6-4-Beta5",
           "useBoldText": true,
