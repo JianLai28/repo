@@ -42,7 +42,7 @@
         },
         {
           "title": "版本",
-          "text": "0.6-5-Beta1",
+          "text": "0.6-5-Beta2",
           "class": "DepictionTableTextView"
         },
 		        {
@@ -57,7 +57,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/17",
+          "text": "2024/11/19",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,6 +74,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "0.6-5-Beta2",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化群设置页面，默认折叠PKC功能\n\t\u2023 [文转语]修复启用自动清理缓存，无法发送二次元音色Bug",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "0.6-5-Beta1",
           "useBoldText": true,
