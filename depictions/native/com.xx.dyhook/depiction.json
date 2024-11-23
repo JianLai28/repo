@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "2.0.7+6",
+          "text": "2.0.7+8",
           "class": "DepictionTableTextView"
         },
         {
@@ -41,7 +41,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/7",
+          "text": "2024/11/23",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "2.0.7+8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 新增自定义接口(点击无水印解析保存开启)\n\t\u2023 新增N个新功能\n\t\u2023 修复一些bug如搜索视频后放大缩小会卡死\n\t\u2023 优化一些细节",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "2.0.7+6",
           "useBoldText": true,

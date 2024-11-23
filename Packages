@@ -568,6 +568,23 @@ Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemefullscreen/depiction.json
 
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/DumpDecrypter_1.5-1.deb
+Size: 393792
+MD5sum: 6d3a5e34e8ce9755331164dd1ebce376
+SHA1: f46f192fb169a6c19be44588030d1f5c76d9292b
+SHA256: 8a8b0d56f615ce95b833ceaf62ff5f1c4faa3f90c95c2ea56da197cb980e48a5
+Section: Tweaks
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.dumpdecrypter/depiction.json
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
@@ -752,6 +769,23 @@ MD5sum: b6e41c21fcec1be0aec0185986d13ecd
 SHA1: 1c4814bbb89f3dd38d43e52cf005da76960f0b6f
 SHA256: d6c8a9749899dfa8c7f29681d2a22f7147252fdf3c17146a1b55660db1a51bbc
 Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
+Package: com.xx.dyhook
+Version: 2.0.7+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.7+8.deb
+Size: 4800020
+MD5sum: e7238d7c61c91f14294c31b1cd4a4bb5
+SHA1: d17851e98cee980d03e89c685272d86ecd103fa0
+SHA256: 511ca58a9a8b3fad93cfcbe799de7e899c1bbdaa3d05e3fbbe8a63dad992a589
+Section: 抖音增强
 Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
