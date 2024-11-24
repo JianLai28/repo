@@ -316,6 +316,23 @@ Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sou
 Name: RateBeGone
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dvntm.ratebegone/depiction.json
 
+Package: com.huam.wcenablecleanorigmsg
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCEnableCleanOrigMsg_1.0-2.deb
+Size: 3076
+MD5sum: bd636813922ebc687576a6ef7c752421
+SHA1: 67114ed17ad90f8e130d079f57346b7c954ee127
+SHA256: 39462a8f3b132ce9c1674e4b74378ba4f1ca23acfd97825f18c886ee8b3ce1ca
+Section: 微信增强
+Description: 强开 原图、原视频14天后自动清理功能，仅在微信8.0.54+生效
+Author: huami
+Name: WCEnableCleanOrigMsg
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huam.wcenablecleanorigmsg/depiction.json
+
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -541,12 +558,12 @@ Maintainer: Nets
 Installed-Size: 56
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/AwemeAlwaysShowTime_1.1-1.deb
-Size: 2332
-MD5sum: c5ef3f265a27991d1458da0771dbdfed
-SHA1: fb8992ae8eceb102401cf9bc825d887b1c3027ed
-SHA256: 6c288658ceccf6215ed59aa544f3540abe488279ef6811466d20412fab579e3f
+Size: 2336
+MD5sum: 16bdbbf2e4aec08736fc17e662b26f58
+SHA1: eca22364482a3be6e574f7265f7fc8e11b91b477
+SHA256: 0bb14d5ff19dbb876e41c00f36d9130e315e78f64ae4c3b2cf26fa9f8da8827c
 Section: 抖音增强
-Description: Aweme always shows the video creation time
+Description: 显示抖音视频上传时间
 Author: Netskao
 Name: AwemeAlwaysShowTime
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemealwaysshowtime/depiction.json
@@ -626,12 +643,12 @@ Maintainer: Nets
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: debs/WCIsOverSeaUser_1.1-1.deb
-Size: 2240
-MD5sum: 2ed54bc28f20914f3241423f89a1b7aa
-SHA1: 5828645cc7a37f893cb775eadec77544a8f8f822
-SHA256: ceb3baa026770451b79802d3334ab401dbcdf35ecbe08b3fc02cc0216202ac6b
+Size: 2264
+MD5sum: 3dd80a5e9ec6fb22954eb42722583e9b
+SHA1: 3d3704722b965e90ba48e0d864fc72787685c96c
+SHA256: ae97fe3b460eb1750a6f74dcf4c03b42c2a032cbb5d4ee683cbc8a79c5c86f24
 Section: 微信增强
-Description: WeChat Patch isOverSeaUser
+Description: 强开通行密钥，仅在微信8.0.54+生效
 Author: Netskao
 Name: WCIsOverSeaUser
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcisoverseauser/depiction.json
@@ -643,12 +660,12 @@ Maintainer: Nets
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: debs/WCNewMiniAppFloatingWindow_1.1-1.deb
-Size: 2292
-MD5sum: c91f4d5a829dff71eb7dfca6dec8b5fe
-SHA1: 4292b41cc0fa26ea7ca11b6d76d4d0bfab5511e9
-SHA256: 4a5d59f6c7b17afda45692a3b2d7cf846f7bd5ddee5fed0ecf096aef3f4b3078
+Size: 2288
+MD5sum: 01ee7d8f198a1870d1c7036b7f92cc6f
+SHA1: c0a1af5da8b17f74b78bd1a5c03a7ad0e80765c0
+SHA256: 2e77438f6f65a68d2548b8d15fd0da7baac9c0ef8a595f474d2856e7fca473e8
 Section: 微信增强
-Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
+Description: 强开小程序悬浮窗，仅在微信8.0.54+生效
 Author: Netskao
 Name: WCNewMiniAppFloatingWindow
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcnewminiappfloatingwindow/depiction.json
