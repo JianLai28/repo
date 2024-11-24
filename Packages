@@ -507,10 +507,10 @@ Maintainer: Crassna
 Installed-Size: 5168
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: debs/App_1.1.7.deb
-Size: 1052564
-MD5sum: 3b37d4f0f33eaf3014ca6138f767ca27
-SHA1: 328f6268d149fa6d03de80c690eecddf34020160
-SHA256: 0460934e6d8f7060d1d301289452969a799e2d777cae9ea09657b0cd5a5f42f8
+Size: 1053256
+MD5sum: 494fafc4b164abf88ef16076be7e4720
+SHA1: 3626c6af981e7ea8446ade61e53427b0aee41c8f
+SHA256: e344b460c837c740101f53efe3526c826276c621421058b2e8d2676a29260f7e
 Section: Tweaks
 Description: A !
 Author: Crassna
@@ -533,6 +533,23 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.liuf.jpyj/depiction.json
+
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/AwemeAlwaysShowTime_1.1-1.deb
+Size: 2332
+MD5sum: c5ef3f265a27991d1458da0771dbdfed
+SHA1: fb8992ae8eceb102401cf9bc825d887b1c3027ed
+SHA256: 6c288658ceccf6215ed59aa544f3540abe488279ef6811466d20412fab579e3f
+Section: 抖音增强
+Description: Aweme always shows the video creation time
+Author: Netskao
+Name: AwemeAlwaysShowTime
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemealwaysshowtime/depiction.json
 
 Package: com.netskao.awemedisablebar
 Version: 1.1-5
@@ -601,6 +618,40 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Author: Netskao
 Name: DumpDecrypter
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.dumpdecrypter/depiction.json
+
+Package: com.netskao.wcisoverseauser
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCIsOverSeaUser_1.1-1.deb
+Size: 2240
+MD5sum: 2ed54bc28f20914f3241423f89a1b7aa
+SHA1: 5828645cc7a37f893cb775eadec77544a8f8f822
+SHA256: ceb3baa026770451b79802d3334ab401dbcdf35ecbe08b3fc02cc0216202ac6b
+Section: 微信增强
+Description: WeChat Patch isOverSeaUser
+Author: Netskao
+Name: WCIsOverSeaUser
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcisoverseauser/depiction.json
+
+Package: com.netskao.wcnewminiappfloatingwindow
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCNewMiniAppFloatingWindow_1.1-1.deb
+Size: 2292
+MD5sum: c91f4d5a829dff71eb7dfca6dec8b5fe
+SHA1: 4292b41cc0fa26ea7ca11b6d76d4d0bfab5511e9
+SHA256: 4a5d59f6c7b17afda45692a3b2d7cf846f7bd5ddee5fed0ecf096aef3f4b3078
+Section: 微信增强
+Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
+Author: Netskao
+Name: WCNewMiniAppFloatingWindow
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcnewminiappfloatingwindow/depiction.json
 
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
