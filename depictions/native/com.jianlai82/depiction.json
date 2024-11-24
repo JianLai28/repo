@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "1.0.1",
+          "text": "2.0.0-1",
           "class": "DepictionTableTextView"
         },
         {
@@ -41,7 +41,7 @@
         },
         {
           "title": "更新时间",
-          "text": "2024/11/8",
+          "text": "2024/11/13",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+        {
+          "title": "2.0.0-1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修正了一个 Bug，该 Bug 与某些挂钩通知（Glance）的调整程序相冲突\n\t\u2023 修正了一个 CC 模块的禁用按钮没有响应的错误\n\t\u2023 修正了一个导致某些应用程序崩溃/冻结的错误\n\t\u2023 修正了一个键盘无法工作的错误\n\t\u2023 更好地优化前景\n\t\u2023 优化了吐司动画\n\t\u2023 为快速操作添加了 CC 支持\n\t\u2023 添加了在应用程序切换器中锁定应用程序的选项\n\t\u2023 添加了在 SpringBoard 和应用程序切换器上同时显示锁定指示灯的选项",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
         {
           "title": "1.0.1",
           "useBoldText": true,

@@ -451,6 +451,24 @@ Author: sergy
 Name: Immortalizer
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82/depiction.json
 
+Package: com.jianlai82
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: debs/Immortalizer_2.0.0-1.deb
+Size: 43300
+MD5sum: 276cf6d384458ad483f00326b7f0d52b
+SHA1: 116850719d4794fd1ed670ccd62279f1408dba6e
+SHA256: 90e6c30eeb3a4811209e58baddd23e2b6defdda3123cd4f3e2e91304a06625f2
+Section: 系统增强
+Description: 可将应用置于前台，达到真后台效果；应用图标长按菜单开启或关闭
+Author: sergy
+Name: Immortalizer
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82/depiction.json
+
 Package: com.jianlai82.hanhua
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -467,6 +485,24 @@ Description: Immortalizer汉化包，刀刀出品
 Author: 剑来&刀刀
 Name: Immortalizer汉化包
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82.hanhua/depiction.json
+
+Package: com.jianlai82.thempro
+Version: 3.1.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: debs/ThemePro-3.1.7-Rootless_3.1.7.deb
+Size: 6406172
+MD5sum: da5c3b489addddf8f0bd8cc7b0d5a42a
+SHA1: 0bba6186abcb39511e2555e7ab005475534f3d9d
+SHA256: d89b9db3504c9c5397b668256fd1d8f79b3ea17de1c9771c09c9e72ba1fd1398
+Section: 微信增强
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-3.1.7-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82.thempro/depiction.json
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
