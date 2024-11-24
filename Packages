@@ -500,6 +500,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
 
+Package: com.lecard.wuyu
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5168
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.1.7.deb
+Size: 1052564
+MD5sum: 3b37d4f0f33eaf3014ca6138f767ca27
+SHA1: 328f6268d149fa6d03de80c690eecddf34020160
+SHA256: 0460934e6d8f7060d1d301289452969a799e2d777cae9ea09657b0cd5a5f42f8
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lecard.wuyu/depiction.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
