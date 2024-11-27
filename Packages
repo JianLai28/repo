@@ -125,10 +125,29 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-5.deb
-Size: 759136
-MD5sum: cb682ca6e397dfef393f716c8de9ffa9
-SHA1: 176386a255b393c80afe7d5f27e2838a39a59fc0
-SHA256: d119ab9b8d038dec13584aff490c84bce740153edb0792c32d8832bcb25fcb20
+Size: 758740
+MD5sum: 06fb8411b9d6889c0e4fc75e9f954dfd
+SHA1: 1f702c50ff79e836b32164b900c3aee7a4514292
+SHA256: dcc969c4b41e9b0a5c01843d50e449ffa9e8ab23eb7b747829f5789b7f3503e6
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-6-Beta1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-6-Beta1.deb
+Size: 769348
+MD5sum: 9aa1cf562bdab223bfc5a3ea0b04ad59
+SHA1: f1173eb6c3911124b2511f683c9e3fe9fb0e6663
+SHA256: c2ca378fd7878481b798e51e194e4ba7aba63c2dff1aa2a81d5d98c30edd0d51
 Section: 微信增强
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -281,10 +300,10 @@ Installed-Size: 656
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Conflicts: com.sergy.immortalizer
 Filename: debs/Immortalizer_2.0.0-1.deb
-Size: 43300
-MD5sum: 276cf6d384458ad483f00326b7f0d52b
-SHA1: 116850719d4794fd1ed670ccd62279f1408dba6e
-SHA256: 90e6c30eeb3a4811209e58baddd23e2b6defdda3123cd4f3e2e91304a06625f2
+Size: 43292
+MD5sum: a79522e7c4bf76b30d003fe4af84683f
+SHA1: 510600f914cea9cda00bd12f3fcbfd901fcfe1e4
+SHA256: 60cf64e51e37380f7522787ee4006f0a2160c4da45730957da2b678d51184942
 Section: 系统增强
 Description: 可将应用置于前台，达到真后台效果；应用图标长按菜单开启或关闭
 Author: sergy
@@ -353,6 +372,23 @@ Size: 1053256
 MD5sum: 494fafc4b164abf88ef16076be7e4720
 SHA1: 3626c6af981e7ea8446ade61e53427b0aee41c8f
 SHA256: e344b460c837c740101f53efe3526c826276c621421058b2e8d2676a29260f7e
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lecard.wuyu/depiction.json
+
+Package: com.lecard.wuyu
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.1.8.deb
+Size: 1058084
+MD5sum: a7c1541a4b280d40ef1336a5dbc04528
+SHA1: f665f02be2cc713c540fc5c5f2cf4023bfcce8d7
+SHA256: 0eb430f3f855ddb1c557e30dfa650ab8d5f8267b03a9101e56ed77898fd48d11
 Section: Tweaks
 Description: A !
 Author: Crassna
@@ -649,6 +685,23 @@ Author: Nightwind and thetimeloop
 Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
 Sponsor: 剑来
+
+Package: lai.betteruiswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/BetterUISwitch_1.1.deb
+Size: 58388
+MD5sum: 8ea6579963aac552c468ee842e85e1bb
+SHA1: 06e9aab1637296d5a57cd5daa93f19e53cbe0f3b
+SHA256: d1cce99785905bf37834f7d46bb84920ba4e15445e046a8b225ca45b65240002
+Section: Tweaks
+Description: 管鲍淫荡开关UI
+Author: TiaoTiao
+Name: BetterUISwitch
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.betteruiswitch/depiction.json
 
 Package: net.griddy
 Version: 1.0.3.5
