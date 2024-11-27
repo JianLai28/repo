@@ -70,6 +70,24 @@ Author: Mao
 Name: 微信助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.miyou.rootless/depiction.json
 
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信插件管理Plus-Rootless_0.1-4.deb
+Size: 23356
+MD5sum: d933be1be38950f439c5170af8c5a2f4
+SHA1: 12f616e5e995791fb49d85884e5b4b09b81943b8
+SHA256: b8af3103a82bc0c327f5cfe1c738b162e352921a7f0f40dd264d91a56de62444
+Section: 微信增强
+Priority: optional
+Description: 插件管理Plus，长按插件图标可开启密码隐藏！
+Author: Mao
+Name: 微信插件管理Plus-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.wcplugins.rootless/depiction.json
+Sponsor: admin@25mao.com
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
