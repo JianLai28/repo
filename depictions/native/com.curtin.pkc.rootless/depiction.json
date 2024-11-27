@@ -74,7 +74,7 @@
         "class": "DepictionSubheaderView"
       },
       {
-        "markdown": "\t\u2023 新增FV音色自动签到功能\n\t\u2023 新增黑名单反制",
+        "markdown": "\t\u2023 新增FV音色自动签到功能\n\t\u2023 新增黑名单机制",
         "useSpacing": false,
         "useBottomMargin": false,
         "class": "DepictionMarkdownView"
