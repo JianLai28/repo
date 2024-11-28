@@ -548,6 +548,23 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WeChatUISwitchLoader_1.1-3.deb
+Size: 91320
+MD5sum: 7fd5e2023dddec787a1a3feb06123cca
+SHA1: b8736e1ea9cf7cb0a71253dba7c6adf47af55fdc
+SHA256: 98d65ed4c82df47a02bd25a55203fd2d29c6e1a71a935b059e9d12a36d3ff82b
+Section: 微信增强
+Description: 微信开关UI美化
+Author: Netskao
+Name: WeChatUISwitchLoader
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wechatuiswitchloader/depiction.json
+
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
