@@ -36,6 +36,24 @@ Author: Misaka
 Name: MisakaHelper
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/MisakaHelper/depiction.json
 
+Package: com.25mao.doutu.rootless
+Version: 3.1-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/斗图助手-Rootless_3.1-5.deb
+Size: 1209612
+MD5sum: 3cae92659ab08afaa6986284b1de7dbf
+SHA1: 7aa379a00d08e23cdd425a0503e159b1f17db4fe
+SHA256: 739ca090e67c52d7d3a353bab3cc3f50345199eb67b7ae90e44089061c9100b7
+Section: 微信增强
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Name: 斗图助手-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.doutu.rootless/depiction.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
@@ -70,16 +88,34 @@ Author: Mao
 Name: 微信助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.miyou.rootless/depiction.json
 
-Package: com.25mao.wcplugins.rootless
-Version: 0.1-4
+Package: com.25mao.msgfilt.rootless
+Version: 1.0-5.1
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debs/微信插件管理Plus-Rootless_0.1-4.deb
-Size: 23356
-MD5sum: d933be1be38950f439c5170af8c5a2f4
-SHA1: 12f616e5e995791fb49d85884e5b4b09b81943b8
-SHA256: b8af3103a82bc0c327f5cfe1c738b162e352921a7f0f40dd264d91a56de62444
+Filename: debs/消息屏蔽助手-Rootless_1.0-5.1.deb
+Size: 122556
+MD5sum: 3d39190061457fca071059b2fc66f32e
+SHA1: d776f1981dd128de54268b505ec08e15fa430226
+SHA256: 9b210b76eb2dd3be7ce42ac3394b3b00c089755e07b4caef85bba38c5dea5f73
+Section: 微信增强
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.msgfilt.rootless/depiction.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信插件管理Plus-Rootless_0.1-3.deb
+Size: 23396
+MD5sum: 4bc6223803b054aff3cc9328932a1e41
+SHA1: 782de025e103dfd6f2816f0fc1d1984df9f9a95b
+SHA256: 67a8b2c008bb92f8cd3ecb54b7c9226fa7077fb1351ea9cae14dfb12cb421f79
 Section: 微信增强
 Priority: optional
 Description: 插件管理Plus，长按插件图标可开启密码隐藏！
