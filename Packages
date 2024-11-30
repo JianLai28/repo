@@ -422,10 +422,10 @@ Maintainer: Crassna
 Installed-Size: 5168
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: debs/App_1.1.7.deb
-Size: 1053256
-MD5sum: 494fafc4b164abf88ef16076be7e4720
-SHA1: 3626c6af981e7ea8446ade61e53427b0aee41c8f
-SHA256: e344b460c837c740101f53efe3526c826276c621421058b2e8d2676a29260f7e
+Size: 1052812
+MD5sum: 061aa68a8bea64d3213ac9475c27d977
+SHA1: 1222e5d0adfbeeed83bfe6c12376a56bdc39ad77
+SHA256: 69ddbc57076b734d5264b4bf90cb063efa80e31d80d8c8f8d50a853ae11acd96
 Section: Tweaks
 Description: A !
 Author: Crassna
@@ -439,10 +439,10 @@ Maintainer: Crassna
 Installed-Size: 5232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: debs/App_1.1.8.deb
-Size: 1058084
-MD5sum: a7c1541a4b280d40ef1336a5dbc04528
-SHA1: f665f02be2cc713c540fc5c5f2cf4023bfcce8d7
-SHA256: 0eb430f3f855ddb1c557e30dfa650ab8d5f8267b03a9101e56ed77898fd48d11
+Size: 1057640
+MD5sum: 21ddad7472acd7d72a70e3483c747c8c
+SHA1: 46c3a9b6d90df79f642d52a58ffd881daea0528d
+SHA256: d7a872df8f1634b9d4a1d06bcc1fbd373bd1cac4cb24e9dc89ca88c222c459f0
 Section: Tweaks
 Description: A !
 Author: Crassna
@@ -706,6 +706,23 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/SafariXHook_1.0.0.deb
+Size: 10612
+MD5sum: 1c7f7b26af8ac541cb9bce61e8311d1a
+SHA1: 362b514200063efda79b0d327b8284d7a016f688
+SHA256: 29721f485efb46a4314caa05b33d4c3c79bdf5c52b66d0d8f6c17442ee6ef4b6
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.safarixhook/depiction.json
+
 Package: com.xx.xhshook
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -755,6 +772,26 @@ Description: Your control center, brought anew.
 Author: Nightwind and thetimeloop
 Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
+Sponsor: 剑来
+
+Package: jian.safarix
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: 剑来
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dao.safarix.cn
+Filename: debs/SafariX_1.9.1.deb
+Size: 293080
+MD5sum: 68364c194fa32634536f122f5cf3edd0
+SHA1: 74facc749bb7040f8d5c150d77b62015ea9af27d
+SHA256: c5e2cb5e00e85e5ff13a3dc7a80ae910dd830d15f76eef783d1e253f954dbbf2
+Section: 系统增强
+Description: Safari自带浏览器增强
+Author: 0xkuj
+Icon: 1
+Name: SafariX
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.safarix/depiction.json
 Sponsor: 剑来
 
 Package: lai.betteruiswitch
