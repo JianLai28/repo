@@ -706,6 +706,23 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
+Package: com.xx.dyhook
+Version: 2.0.8+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 14216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/抖音图层_2.0.8+1.deb
+Size: 4912288
+MD5sum: fb719d8e10c73491c9d86ff30dfc45f7
+SHA1: 0d38f9688be63d376178a1bf14ec0b50c63ed89e
+SHA256: f571a3d898c7428f6e8ea2a6face019115d72d46d5228e69a054d6256f4b9585
+Section: 抖音增强
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
+
 Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -810,6 +827,23 @@ Description: 管鲍淫荡开关UI
 Author: TiaoTiao
 Name: BetterUISwitch
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.betteruiswitch/depiction.json
+
+Package: lai.safarix
+Version: 1.9.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/SafariX_1.9.2.deb
+Size: 287200
+MD5sum: a9da2bbb51f55a31db328f7703a2a3a7
+SHA1: d37e0b63da515410265093d3add1d9dde2f0ea24
+SHA256: a20403bb1b93869e162cdc0eb7f80e7c9dd3b8b56d904598a2837a14645671b6
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Name: SafariX
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.safarix/depiction.json
 
 Package: net.griddy
 Version: 1.0.3.5

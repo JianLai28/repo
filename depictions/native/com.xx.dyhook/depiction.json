@@ -26,7 +26,7 @@
         },
         {
           "title": "版本",
-          "text": "2.0.7+8",
+          "text": "2.0.8+1",
           "class": "DepictionTableTextView"
         },
         {
@@ -41,7 +41,7 @@
         },
 		{
           "title": "更新时间",
-          "text": "2024/11/23",
+          "text": "2024/12/1",
           "class": "DepictionTableTextView"
         },
         {
@@ -58,6 +58,19 @@
     {
       "tabname": "更新",
       "views": [
+      {
+        "title": "2.0.8+1",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\u2023 抖音图层2.0.8+1\n\t\u2023 新增移除消息界面顶部横向排列大头\n\t\u2023 修复一些已知问题\n\t\u2023 优化插件一些细节",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
         {
           "title": "2.0.7+8",
           "useBoldText": true,
