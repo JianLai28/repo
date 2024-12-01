@@ -36,24 +36,6 @@ Author: Misaka
 Name: MisakaHelper
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/MisakaHelper/depiction.json
 
-Package: com.25mao.doutu.rootless
-Version: 3.1-5
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/斗图助手-Rootless_3.1-5.deb
-Size: 1209612
-MD5sum: 3cae92659ab08afaa6986284b1de7dbf
-SHA1: 7aa379a00d08e23cdd425a0503e159b1f17db4fe
-SHA256: 739ca090e67c52d7d3a353bab3cc3f50345199eb67b7ae90e44089061c9100b7
-Section: 微信增强
-Priority: optional
-Description: 斗图助手
-Author: Mao
-Name: 斗图助手-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.doutu.rootless/depiction.json
-Sponsor: admin@25mao.com
-
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
@@ -87,42 +69,6 @@ Description: 微信助手
 Author: Mao
 Name: 微信助手
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.miyou.rootless/depiction.json
-
-Package: com.25mao.msgfilt.rootless
-Version: 1.0-5.1
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/消息屏蔽助手-Rootless_1.0-5.1.deb
-Size: 122556
-MD5sum: 3d39190061457fca071059b2fc66f32e
-SHA1: d776f1981dd128de54268b505ec08e15fa430226
-SHA256: 9b210b76eb2dd3be7ce42ac3394b3b00c089755e07b4caef85bba38c5dea5f73
-Section: 微信增强
-Priority: optional
-Description: 消息屏蔽助手
-Author: Mao
-Name: 消息屏蔽助手-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.msgfilt.rootless/depiction.json
-Sponsor: admin@25mao.com
-
-Package: com.25mao.wcplugins.rootless
-Version: 0.1-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/微信插件管理Plus-Rootless_0.1-3.deb
-Size: 23396
-MD5sum: 4bc6223803b054aff3cc9328932a1e41
-SHA1: 782de025e103dfd6f2816f0fc1d1984df9f9a95b
-SHA256: 67a8b2c008bb92f8cd3ecb54b7c9226fa7077fb1351ea9cae14dfb12cb421f79
-Section: 微信增强
-Priority: optional
-Description: 插件管理Plus，长按插件图标可开启密码隐藏！
-Author: Mao
-Name: 微信插件管理Plus-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.25mao.wcplugins.rootless/depiction.json
-Sponsor: admin@25mao.com
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
@@ -364,24 +310,6 @@ Author: sergy
 Name: Immortalizer
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82/depiction.json
 
-Package: com.jianlai82.thempro
-Version: 3.1.7
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: debs/ThemePro-3.1.7-Rootless_3.1.7.deb
-Size: 6406172
-MD5sum: da5c3b489addddf8f0bd8cc7b0d5a42a
-SHA1: 0bba6186abcb39511e2555e7ab005475534f3d9d
-SHA256: d89b9db3504c9c5397b668256fd1d8f79b3ea17de1c9771c09c9e72ba1fd1398
-Section: 微信增强
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM <mm13299079785@gmail.com>
-Name: ThemePro-3.1.7-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.jianlai82.thempro/depiction.json
-
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
 Architecture: iphoneos-arm64
@@ -584,23 +512,6 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 
-Package: com.netskao.wechatuiswitchloader
-Version: 1.1-3
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 240
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/WeChatUISwitchLoader_1.1-3.deb
-Size: 91320
-MD5sum: 7fd5e2023dddec787a1a3feb06123cca
-SHA1: b8736e1ea9cf7cb0a71253dba7c6adf47af55fdc
-SHA256: 98d65ed4c82df47a02bd25a55203fd2d29c6e1a71a935b059e9d12a36d3ff82b
-Section: 微信增强
-Description: 微信开关UI美化
-Author: Netskao
-Name: WeChatUISwitchLoader
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wechatuiswitchloader/depiction.json
-
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
@@ -633,41 +544,6 @@ Author: sunshinesong
 Name: split-view-pro
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/split-view-pro/depiction.json
 Ts: sp-sss
-
-Package: com.sutuplus.releasefugu15
-Version: 5.9.2-1
-Architecture: iphoneos-arm64
-Maintainer: Carby <super.cat.sutuplus@gmail.com>
-Installed-Size: 1748
-Depends: mobilesubstrate
-Filename: debs/酸果_5.9.2-1.deb
-Size: 485432
-MD5sum: 0e5d7ebe88b7f7cd5187a90118ae35bd
-SHA1: 1ee34ddaebc0e85affd76e27bb89d0768b6fde1d
-SHA256: f4018ee6fc5aa3102e978ef09ea426847d41f49aef718caa837b8940e78f33e2
-Section: 微信增强
-Description: 本插件安装包来自苏兔源
-Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
-Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Name: 酸果
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.sutuplus.releasefugu15/depiction.json
-
-Package: com.tencent.themebox
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 3188
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/主题盒子_1.0.0-2.deb
-Size: 1442056
-MD5sum: c3620611c25d20be8ffcbc45bd0e6184
-SHA1: 17bdaa8e2884499354a3f15ac952e79efb485fa4
-SHA256: e982827ffb3bb9f2c34d47423d028f680cd832195fe1cb8ac30a29be7546ad57
-Section: 微信增强
-Description: 主题需要授权，自行寻找购买渠道
-Author: WeChat
-Name: 主题盒子
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.themebox/depiction.json
 
 Package: com.tencent.voices.rootless
 Version: 1.0-5
@@ -758,23 +634,6 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
-Package: com.xx.safarixhook
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/SafariXHook_1.0.0.deb
-Size: 10612
-MD5sum: 1c7f7b26af8ac541cb9bce61e8311d1a
-SHA1: 362b514200063efda79b0d327b8284d7a016f688
-SHA256: 29721f485efb46a4314caa05b33d4c3c79bdf5c52b66d0d8f6c17442ee6ef4b6
-Section: Tweaks
-Description: 解决SafariX闪退问题
-Author: x✨
-Name: SafariXHook
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.safarixhook/depiction.json
-
 Package: com.xx.xhshook
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -826,23 +685,6 @@ Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
 Sponsor: 剑来
 
-Package: lai.betteruiswitch
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: TiaoTiao
-Installed-Size: 232
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/BetterUISwitch_1.1.deb
-Size: 58388
-MD5sum: 8ea6579963aac552c468ee842e85e1bb
-SHA1: 06e9aab1637296d5a57cd5daa93f19e53cbe0f3b
-SHA256: d1cce99785905bf37834f7d46bb84920ba4e15445e046a8b225ca45b65240002
-Section: Tweaks
-Description: 管鲍淫荡开关UI
-Author: TiaoTiao
-Name: BetterUISwitch
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.betteruiswitch/depiction.json
-
 Package: lai.safarix
 Version: 1.9.2
 Architecture: iphoneos-arm64
@@ -859,6 +701,164 @@ Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.safarix/depiction.json
+
+Package: lai28.betteruiswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/淫荡开关_1.1.deb
+Size: 58400
+MD5sum: 4ea068fae8eda3891c3b353659d44680
+SHA1: 709b740a8b0bcefd08aca19a0767bd795ac66655
+SHA256: acb4b905f6eb53e35ee0d861b82cb3b3913324aa1c34de7795388f8ba5b32ff7
+Section: Tweaks
+Description: 管鲍淫荡开关UI
+Author: TiaoTiao
+Name: 淫荡开关
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.betteruiswitch/depiction.json
+
+Package: lai28.doutu
+Version: 3.1-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/斗图助手-Rootless_3.1-5.deb
+Size: 1209228
+MD5sum: 562c390cb321bce2b4d546a0ac3774bd
+SHA1: e56eb87783d9ac89c42d449881c540c0a62c968b
+SHA256: 5a01efbeb2d3aeead17b1ffb95783de183896a79e53dc7fb4e8b3881328345cc
+Section: 微信增强
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Name: 斗图助手-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.doutu/depiction.json
+Sponsor: admin@25mao.com
+
+Package: lai28.msgfilt
+Version: 1.0-5.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/消息屏蔽助手-Rootless_1.0-5.1.deb
+Size: 122216
+MD5sum: d4da5222a5ec8afeb7a8c9ef929e6f66
+SHA1: f56f23810a83a2fb2f527e425ef6ab1e171ccd53
+SHA256: 0c960b426407c6cb7f36c236a83267ae701b609de399b51e8fbe075217a48072
+Section: 微信增强
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.msgfilt/depiction.json
+Sponsor: admin@25mao.com
+
+Package: lai28.releasefugu15
+Version: 5.9.2-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1748
+Depends: mobilesubstrate
+Filename: debs/酸果_5.9.2-1.deb
+Size: 485044
+MD5sum: e777c98718390a80fa09744b4c0f27b3
+SHA1: bcc263bdbcf8ee35d84c8f6b3109a3a10db75b01
+SHA256: 9f15704ba3132be8eba9a620bf9e222b6e20f990188289373c3fd978a6ea8cf1
+Section: 微信增强
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.releasefugu15/depiction.json
+
+Package: lai28.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/SafariXHook_1.0.0.deb
+Size: 10616
+MD5sum: 69fa83040a6e031d361ee7174a006d9e
+SHA1: 193604a3ed4cdf8334e88dc43db917db67ebd97a
+SHA256: ae500b9783e3be81bc69fc595f00d0509a2d19efaadc83453219f75726533cb8
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.safarixhook/depiction.json
+
+Package: lai28.themebox
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_1.0.0-2.deb
+Size: 1442056
+MD5sum: 362f3f93c15f2390f6df30e9a8824052
+SHA1: 61a6c04ba4e04e858e67b15456774266a35ae060
+SHA256: b56d3b4f84f46849a6bd4d44e1fda07c716b6ac1b8c16664254caa6e4d32a01d
+Section: 微信增强
+Description: 主题需要授权，自行寻找购买渠道
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.thempro
+Version: 3.1.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: debs/ThemePro-3.1.7-Rootless_3.1.7.deb
+Size: 6403320
+MD5sum: f0eb08f26c45ed734e81b2c41962248b
+SHA1: ea2e6dd07786e1553963ab1c6c74aeb6f78cae7e
+SHA256: e969aade985137ce5bb761154c40cfc98b172fa4374282162f283033b495dff0
+Section: 微信增强
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-3.1.7-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.thempro/depiction.json
+
+Package: lai28.wcplugins
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信插件管理Plus-Rootless_0.1-3.deb
+Size: 23352
+MD5sum: 8670f6e801cd48ca0aaafa521682cbeb
+SHA1: 56ce26a1eda85c6430b634804b6cce8747232276
+SHA256: 721542013490b6aeb76b55fc5e9aadda73069413d3d1b401355e4568eb3997f0
+Section: 微信增强
+Priority: optional
+Description: 插件管理Plus，长按插件图标可开启密码隐藏！
+Author: Mao
+Name: 微信插件管理Plus-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcplugins/depiction.json
+Sponsor: admin@25mao.com
+
+Package: lai28.wechatuiswitchloader
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WeChatUISwitchLoader_1.1-3.deb
+Size: 91376
+MD5sum: 378f2e358480cde6bd924c1004302d18
+SHA1: f71117e65ade36673ae5b6e5ed9357e34d493193
+SHA256: eda612b232568b8d009d921ab2f9718760d3a93bc27073d16cd55b16e7121c62
+Section: 微信增强
+Description: 微信开关UI美化
+Author: Netskao
+Name: WeChatUISwitchLoader
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wechatuiswitchloader/depiction.json
 
 Package: net.griddy
 Version: 1.0.3.5
