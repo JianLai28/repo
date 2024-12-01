@@ -634,6 +634,41 @@ Name: split-view-pro
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/split-view-pro/depiction.json
 Ts: sp-sss
 
+Package: com.sutuplus.releasefugu15
+Version: 5.9.2-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1748
+Depends: mobilesubstrate
+Filename: debs/酸果_5.9.2-1.deb
+Size: 485432
+MD5sum: 0e5d7ebe88b7f7cd5187a90118ae35bd
+SHA1: 1ee34ddaebc0e85affd76e27bb89d0768b6fde1d
+SHA256: f4018ee6fc5aa3102e978ef09ea426847d41f49aef718caa837b8940e78f33e2
+Section: 微信增强
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.sutuplus.releasefugu15/depiction.json
+
+Package: com.tencent.themebox
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_1.0.0-2.deb
+Size: 1442056
+MD5sum: c3620611c25d20be8ffcbc45bd0e6184
+SHA1: 17bdaa8e2884499354a3f15ac952e79efb485fa4
+SHA256: e982827ffb3bb9f2c34d47423d028f680cd832195fe1cb8ac30a29be7546ad57
+Section: 微信增强
+Description: 主题需要授权，自行寻找购买渠道
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.themebox/depiction.json
+
 Package: com.tencent.voices.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -789,26 +824,6 @@ Description: Your control center, brought anew.
 Author: Nightwind and thetimeloop
 Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
-Sponsor: 剑来
-
-Package: jian.safarix
-Version: 1.9.1
-Architecture: iphoneos-arm64
-Maintainer: 剑来
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.dao.safarix.cn
-Filename: debs/SafariX_1.9.1.deb
-Size: 293080
-MD5sum: 68364c194fa32634536f122f5cf3edd0
-SHA1: 74facc749bb7040f8d5c150d77b62015ea9af27d
-SHA256: c5e2cb5e00e85e5ff13a3dc7a80ae910dd830d15f76eef783d1e253f954dbbf2
-Section: 系统增强
-Description: Safari自带浏览器增强
-Author: 0xkuj
-Icon: 1
-Name: SafariX
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.safarix/depiction.json
 Sponsor: 剑来
 
 Package: lai.betteruiswitch
