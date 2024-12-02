@@ -694,6 +694,24 @@ Author: WeChat
 Name: 主题盒子
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.themebox/depiction.json
 
+Package: lai28.themepro
+Version: 3.3.5
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: debs/ThemePro-3.3.5-Rootless_3.3.5.deb
+Size: 6825416
+MD5sum: 910ab071c1786f0b6ecafafa4852047b
+SHA1: 47b56ec6449e36a17c5c0bbbd7639b4e7fd36597
+SHA256: 9df13b39d572f90ad1e44a970af049bb96c784731abd120ba13331f7df2594db
+Section: Tweaks
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-3.3.5-Rootless
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.themepro/depiction.json
+
 Package: lai28.thempro
 Version: 3.1.7
 Architecture: iphoneos-arm64
