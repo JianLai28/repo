@@ -86,39 +86,6 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
-Package: com.JianL.fun
-Version: 1.0.31
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 432
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.0xkuj.notificationsgroupcount
-Filename: debs/通知组计数(rootless)_1.0.31.deb
-Size: 33836
-MD5sum: 7bbb52a96d8fd8ad471c6f983aa24ea2
-SHA1: 309a42774b2dcba321430f7827d940d7e9f477f0
-SHA256: a27e1d19fe6884cafd5d86ac87d8f876811bc381d174b6608ff8c7d29ea282f8
-Section: 系统增强
-Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
-Author: 0xkuj
-Name: 通知组计数(rootless)
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.JianL.fun/depiction.json
-
-Package: com.appku.wechat
-Version: 1.6-3
-Architecture: iphoneos-arm64
-Maintainer: appku
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/爱锋助手_1.6-3.deb
-Size: 1670096
-MD5sum: 817f44880ca69853c829b131cd5b2f84
-SHA1: ffe55ebd3311ea18dd34e7832e75cd640cbcdb79
-SHA256: 34fc336a5c0d6bdf5ec68b7340a6fed5700406ddef45928e7f34a284188bc043
-Section: 微信增强
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
-Author: appku
-Name: 爱锋助手
-
 Package: com.curtin.pkc.rootless
 Version: 0.6-5
 Architecture: iphoneos-arm64
@@ -192,23 +159,6 @@ Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sou
 Name: RateBeGone
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dvntm.ratebegone/depiction.json
 
-Package: com.huam.wcenablecleanorigmsg
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/WCEnableCleanOrigMsg_1.0-2.deb
-Size: 3076
-MD5sum: bd636813922ebc687576a6ef7c752421
-SHA1: 67114ed17ad90f8e130d079f57346b7c954ee127
-SHA256: 39462a8f3b132ce9c1674e4b74378ba4f1ca23acfd97825f18c886ee8b3ce1ca
-Section: 微信增强
-Description: 强开 原图、原视频14天后自动清理功能，仅在微信8.0.54+生效
-Author: huami
-Name: WCEnableCleanOrigMsg
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huam.wcenablecleanorigmsg/depiction.json
-
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -224,22 +174,6 @@ Description: 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Name: DYYY
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
-
-Package: com.huami.WCAtPure
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/WCAtPure_1.0.0.deb
-Size: 73768
-MD5sum: 247478ba7b1661f936edacc85172b6c1
-SHA1: a965e999c3ed663ecc4003a20996bb8626890377
-SHA256: f44445a7b38f655ecab7890ee2d6ce5ba10d00c84f9634f4caa258833842a4f5
-Section: 微信增强
-Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
-Author: huami
-Dev: huami
-Name: WCAtPure
 
 Package: com.huami.bilinoad
 Version: 1.0.1
@@ -258,39 +192,6 @@ Description: BiliBili净化开屏广告
 Author: huami
 Name: BiliNoAd
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.bilinoad/depiction.json
-
-Package: com.huami.wbnoads
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/WBNoAds_1.0.1.deb
-Size: 3532
-MD5sum: 68af2d3afb73579f2e99d45b1d36dcf8
-SHA1: 4eed5741ebcbaed2af73471a3516d5b831a2689b
-SHA256: df4ba2cab261733f045fae2ef611feabed4d89dc785a97f37b2a05273285eeb0
-Section: Tweaks
-Priority: optional
-Description: Give you a pure Weibo
-Author: huami
-Name: WBNoAds
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.wbnoads/depiction.json
-
-Package: com.initnil.wcenableshowcontactaddcreatetime
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: INITNIL
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/WCEnableShowContactAddCreateTime_1.1-1.deb
-Size: 3936
-MD5sum: 1c48a8c2fcb2947dce484f687b66cf52
-SHA1: 53f4a8ebc8c0680fa7fd855bc4e577acbaf55892
-SHA256: 65b4948f79cdb793782edd45dfb6fe241fa046a0859efc50ea59a731f17f16b8
-Section: 微信增强
-Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
-Author: INITNIL
-Name: WCEnableShowContactAddCreateTime
 
 Package: com.jianlai82
 Version: 2.0.0-1
@@ -394,23 +295,6 @@ Author: liuf <(null)>
 Name: 系统键盘圆角
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.liuf.jpyj/depiction.json
 
-Package: com.netskao.awemealwaysshowtime
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 56
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/AwemeAlwaysShowTime_1.1-1.deb
-Size: 2336
-MD5sum: 16bdbbf2e4aec08736fc17e662b26f58
-SHA1: eca22364482a3be6e574f7265f7fc8e11b91b477
-SHA256: 0bb14d5ff19dbb876e41c00f36d9130e315e78f64ae4c3b2cf26fa9f8da8827c
-Section: 抖音增强
-Description: 显示抖音视频上传时间
-Author: Netskao
-Name: AwemeAlwaysShowTime
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemealwaysshowtime/depiction.json
-
 Package: com.netskao.awemedisablebar
 Version: 1.1-6
 Architecture: iphoneos-arm64
@@ -444,106 +328,6 @@ Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
 Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.awemefullscreen/depiction.json
-
-Package: com.netskao.dumpdecrypter
-Version: 1.5-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 952
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/DumpDecrypter_1.5-1.deb
-Size: 393792
-MD5sum: 6d3a5e34e8ce9755331164dd1ebce376
-SHA1: f46f192fb169a6c19be44588030d1f5c76d9292b
-SHA256: 8a8b0d56f615ce95b833ceaf62ff5f1c4faa3f90c95c2ea56da197cb980e48a5
-Section: Tweaks
-Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
-Author: Netskao
-Name: DumpDecrypter
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.dumpdecrypter/depiction.json
-
-Package: com.netskao.wcisoverseauser
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/WCIsOverSeaUser_1.1-1.deb
-Size: 2264
-MD5sum: 3dd80a5e9ec6fb22954eb42722583e9b
-SHA1: 3d3704722b965e90ba48e0d864fc72787685c96c
-SHA256: ae97fe3b460eb1750a6f74dcf4c03b42c2a032cbb5d4ee683cbc8a79c5c86f24
-Section: 微信增强
-Description: 强开通行密钥，仅在微信8.0.54+生效
-Author: Netskao
-Name: WCIsOverSeaUser
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcisoverseauser/depiction.json
-
-Package: com.netskao.wcnewminiappfloatingwindow
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/WCNewMiniAppFloatingWindow_1.1-1.deb
-Size: 2288
-MD5sum: 01ee7d8f198a1870d1c7036b7f92cc6f
-SHA1: c0a1af5da8b17f74b78bd1a5c03a7ad0e80765c0
-SHA256: 2e77438f6f65a68d2548b8d15fd0da7baac9c0ef8a595f474d2856e7fca473e8
-Section: 微信增强
-Description: 强开小程序悬浮窗，仅在微信8.0.54+生效
-Author: Netskao
-Name: WCNewMiniAppFloatingWindow
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.netskao.wcnewminiappfloatingwindow/depiction.json
-
-Package: com.netskao.wechatnotiavatar
-Version: 1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2336
-Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: debs/WeChatNotiAvatar_1.2-5.deb
-Size: 522940
-MD5sum: 7b3c94b0ab44c1077c1f173a11f6c5cc
-SHA1: 7d31d130955ea64df701bca5aca0398920e1a394
-SHA256: 7071ca45b357c25b307dbf58f1b294a670eba0d0f086dfe629e9051e829ae126
-Section: 微信增强
-Description: Display Notification Avatars for WeChat App using iOS15+ APIs
-Author: Netskao
-Name: WeChatNotiAvatar
-
-Package: com.pingfan.wechat
-Version: 2.2-1
-Architecture: iphoneos-arm64
-Maintainer: 平凡
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/虚拟视频_2.2-1.deb
-Size: 1668628
-MD5sum: 353d8852a1e80d4d71c8a72bf3681084
-SHA1: 9366641a8db93cbdb2c0826e13c7978c5b3ec52a
-SHA256: 4b165f8241d7e3400dff90394faa41111ee3e12ef7d2943257c0735d682c183f
-Section: 微信增强
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
-Author: 平凡
-Name: 虚拟视频
-
-Package: com.sunshinesong.split-view-pro
-Version: 1.3.7
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 5624
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: debs/split-view-pro_1.3.7.deb
-Size: 1539304
-MD5sum: 2a764847ab3f472499a4204753825550
-SHA1: 53dd1dc3be09058ffe2c94c6ae5240f5f11d4704
-SHA256: 6f9111fa2dae66a6f8aa90bdef6ae1dcca861060b69cfe88233fae67486e2d7a
-Section: 系统增强
-Description: 分屏，不必太复杂，一切从简即可。
-Author: sunshinesong
-Name: split-view-pro
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/split-view-pro/depiction.json
-Ts: sp-sss
 
 Package: com.tencent.voices.rootless
 Version: 1.0-5
@@ -651,22 +435,6 @@ Author: x✨
 Name: 小红薯
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.xhshook/depiction.json
 
-Package: com.yi.wcenablemomentslivephoto
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: 怡点日常
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/WCEnableMomentsLivePhoto_1.1-2.deb
-Size: 12856
-MD5sum: 3b172747c19b2fe85757941a19fd7820
-SHA1: 2fd2d938d59586dd5fc502587d73bd503bf35e8f
-SHA256: 2629cbb1a16f8e3230dbafe20f51a28c607891748b46fc5bf8609642bc7acf60
-Section: 微信增强
-Description: WeChat Enable Testing Moments Live Photo v8.0.51+
-Author: 怡点日常
-Name: WCEnableMomentsLivePhoto
-
 Package: jian.lai.jade
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -701,6 +469,56 @@ Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.safarix/depiction.json
+
+Package: lai28.WCAtpure
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/WCAtPure_1.0.0.deb
+Size: 73744
+MD5sum: d74c8d9c10f2e870f7cfe8f0e0558d5c
+SHA1: dffc2a05035a306d93033e5049c7da327ca0e168
+SHA256: 7c74f6a9b28e3f5e12e20e97e249e9434c42d714168821dfa6676f5eb43d574f
+Section: 微信增强
+Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
+Author: huami
+Dev: huami
+Name: WCAtPure
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.WCAtpure/depiction.json
+
+Package: lai28.app.wechat
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: appku
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/爱锋助手_1.6-3.deb
+Size: 1668156
+MD5sum: e2c059029e71ba598a4906a4793cb2a2
+SHA1: 2c381058fd4a1515b6ed494934ea62c2cd133278
+SHA256: 0e9fcdec7e51448d41e3de703fa24cd74528eb96b9dd28ce34f551ed155bcbf8
+Section: 微信增强
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
+Author: appku
+Name: 爱锋助手
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.app.wechat/depiction.json
+
+Package: lai28.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/AwemeAlwaysShowTime_1.1-1.deb
+Size: 2336
+MD5sum: 3a2398da1abf809509b22c06961f1547
+SHA1: 03bdac2ab2ef56a97e66352e10e20b23dd27e84d
+SHA256: bd7692f81495a9724a8ff31c0dc6680d4bb388ecae193a6945aecd38ebfc7db5
+Section: 抖音增强
+Description: 显示抖音视频上传时间
+Author: Netskao
+Name: AwemeAlwaysShowTime
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.awemealwaysshowtime/depiction.json
 
 Package: lai28.betteruiswitch
 Version: 1.1
@@ -737,6 +555,23 @@ Name: 斗图助手-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.doutu/depiction.json
 Sponsor: admin@25mao.com
 
+Package: lai28.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/DumpDecrypter_1.5-1.deb
+Size: 393744
+MD5sum: 3b45e1f6bb49aafe7efb0c5afb3de947
+SHA1: 18ca67b83be4b6fc04eebd029f17aae524157f12
+SHA256: 05c54cb4ba78f249051d2fefdbcb364138a334e096f65e3c132ab33a1db8473f
+Section: Tweaks
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.dumpdecrypter/depiction.json
+
 Package: lai28.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -754,6 +589,40 @@ Author: Mao
 Name: 消息屏蔽助手-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.msgfilt/depiction.json
 Sponsor: admin@25mao.com
+
+Package: lai28.nsg
+Version: 1.0.31
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: debs/通知组计数(rootless)_1.0.31.deb
+Size: 33896
+MD5sum: 6227ecf3bd86ee0060699cddaaf0989a
+SHA1: 94bcda7f0c4143ee45f02d9c0c640d96042c9711
+SHA256: 72a9f39dc5da96a7db910b956feda44a3003ce97f964827cbb09e606c473d116
+Section: 系统增强
+Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
+Author: 0xkuj
+Name: 通知组计数(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.nsg/depiction.json
+
+Package: lai28.pingfan.wechat
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟视频_2.2-1.deb
+Size: 1673020
+MD5sum: 12396392f5df12bcec829b8f9ad164f9
+SHA1: 6d29a315a1471d270153eb57283999b4495be22c
+SHA256: 5dd47df779004da016e970209d6f2220922476202b91db075652833cd6630206
+Section: 微信增强
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.pingfan.wechat/depiction.json
 
 Package: lai28.releasefugu15
 Version: 5.9.2-1
@@ -790,6 +659,24 @@ Author: x✨
 Name: SafariXHook
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.safarixhook/depiction.json
 
+Package: lai28.split-view-pro
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: debs/split-view-pro_1.3.7.deb
+Size: 1537972
+MD5sum: 3b45dc3a65e98264a9089aa334fc3d68
+SHA1: b0846975817115713bf755d6dea34eaec9e1f9ef
+SHA256: 4a50cc39e03f02ae499155c6b18ec6e0fba9863b59fe211ec2cdf46d6c39ba54
+Section: 系统增强
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.split-view-pro/depiction.json
+Ts: sp-sss
+
 Package: lai28.themebox
 Version: 1.0.0-2
 Architecture: iphoneos-arm64
@@ -825,6 +712,108 @@ Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-3.1.7-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.thempro/depiction.json
 
+Package: lai28.wbnoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/WBNoAds_1.0.1.deb
+Size: 3524
+MD5sum: fa2ad07482e8253bf0ae01b53cd11fea
+SHA1: 14e12faf721f7081875ab0d354dfcc0c77cf3fcc
+SHA256: 2e1597e312e15e9719a7647f621bf7a9ea3c052e35b908a3674ae908290f8e18
+Section: Tweaks
+Priority: optional
+Description: Give you a pure Weibo
+Author: huami
+Name: WBNoAds
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wbnoads/depiction.json
+
+Package: lai28.wcenablecleanorigmsg
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCEnableCleanOrigMsg_1.0-2.deb
+Size: 3064
+MD5sum: 2236d17d4bad1124dced5b818facc904
+SHA1: e15a95c6e53ea005ba4a10ac3ab33425df56ac8c
+SHA256: 3e652bd2a689bda05f26f38ba86a9c75f821e85d2396bb630f8fbca07aa5e265
+Section: 微信增强
+Description: 强开 原图、原视频14天后自动清理功能，仅在微信8.0.54+生效
+Author: huami
+Name: WCEnableCleanOrigMsg
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcenablecleanorigmsg/depiction.json
+
+Package: lai28.wcenablemomentslivephoto
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 怡点日常
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCEnableMomentsLivePhoto_1.1-2.deb
+Size: 12908
+MD5sum: d8e0fb227464c91abdefeff9639061c0
+SHA1: c4a01bf0021fce061084bc06cae6d3e6f981f776
+SHA256: fdfc5568ad9bc3834e333b6d23c09e34ac0ef50d61b6784effc2afcd3ce15828
+Section: 微信增强
+Description: WeChat Enable Testing Moments Live Photo v8.0.51+
+Author: 怡点日常
+Name: WCEnableMomentsLivePhoto
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcenablemomentslivephoto/depiction.json
+
+Package: lai28.wcenableshowcontactaddcreatetime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCEnableShowContactAddCreateTime_1.1-1.deb
+Size: 3984
+MD5sum: 5b9b3553900b24683398f920af0ed362
+SHA1: 4d6f1220aab9a50eb8c636a774384f5eb66dbd71
+SHA256: 978930f222f99ef90b62772befa18eebe2f896decce4ddf6ca12751dfa9a8944
+Section: 微信增强
+Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Name: WCEnableShowContactAddCreateTime
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcenableshowcontactaddcreatetime/depiction.json
+
+Package: lai28.wcisoverseauser
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCIsOverSeaUser_1.1-1.deb
+Size: 2264
+MD5sum: fddfdbdf6287d1feb609084eb8608581
+SHA1: 6f43d310af354f118c35426459d76cfba378560e
+SHA256: 23414679cc5f428bfe0dfdf3ef4f4b632a162bb5e22df21c3af514f393c9463c
+Section: 微信增强
+Description: 强开通行密钥，仅在微信8.0.54+生效
+Author: Netskao
+Name: WCIsOverSeaUser
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcisoverseauser/depiction.json
+
+Package: lai28.wcnewminiappfloatingwindow
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/WCNewMiniAppFloatingWindow_1.1-1.deb
+Size: 2284
+MD5sum: 61f39d1a53d745fa7a5f0c7d86b6b09f
+SHA1: 2db73edda28d041b6f2f143e5569794d348721c8
+SHA256: e4e6466a0ab839ad287e9795d2363372ade99427371ed1d3e21eb9f54202eae4
+Section: 微信增强
+Description: 强开小程序悬浮窗，仅在微信8.0.54+生效
+Author: Netskao
+Name: WCNewMiniAppFloatingWindow
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcnewminiappfloatingwindow/depiction.json
+
 Package: lai28.wcplugins
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -842,6 +831,23 @@ Author: Mao
 Name: 微信插件管理Plus-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wcplugins/depiction.json
 Sponsor: admin@25mao.com
+
+Package: lai28.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/WeChatNotiAvatar_1.2-5.deb
+Size: 523232
+MD5sum: 08ef1a18e84482e7d599060eb3ee502e
+SHA1: 0679a0167040f7153307c90788022c848bcb4d29
+SHA256: 6df615f7de1af65cd8b544c107f0e9dca40b7838ce6e81b91f3a86ace2a5d649
+Section: 微信增强
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.wechatnotiavatar/depiction.json
 
 Package: lai28.wechatuiswitchloader
 Version: 1.1-3
@@ -902,12 +908,13 @@ Maintainer: Nets
 Installed-Size: 16708
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/微信净化END_4.2-6-END.deb
-Size: 6276676
-MD5sum: c216911fcda55154c7de1990c732384c
-SHA1: 0b71015b2496429e385a3c1b828b1cdc8f3dae6b
-SHA256: e5d19e9dd4ba7aa17c242859ac2bcf021a30c1f50731ee3a7482a1c4cb0b186f
+Size: 6278852
+MD5sum: 3c301a7f8f1d7fa58939c0e6e0093247
+SHA1: c9b8f4d4261ce957e18a7b79ca3d678edc202dca
+SHA256: a043c8d3264c2745cfb1d29821fbc6e2e6a720ecb0824b0eb4227ab9d904cf88
 Section: 微信增强
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化END
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/netskao.wechatpurification/depiction.json
 
