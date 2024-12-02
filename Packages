@@ -124,6 +124,25 @@ Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135
 Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
+Package: com.curtin.pkc.rootless
+Version: 0.6-6-Beta2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.6-6-Beta2.deb
+Size: 770688
+MD5sum: 8b943407c231c6cf26118034c4651636
+SHA1: ed3d467cb52cfb91f193b4f29a015b368a17100a
+SHA256: a9d8634d28ef3b5ea99dc5a8b51100efaf7b85f0bc337f53cfcf38f7225d437b
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
 Architecture: iphoneos-arm64
@@ -572,6 +591,23 @@ Author: Netskao
 Name: DumpDecrypter
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.dumpdecrypter/depiction.json
 
+Package: lai28.dyyy
+Version: 1.7
+Architecture: iphoneos-arm64
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/DYYY_1.7.deb
+Size: 20016
+MD5sum: 1ba6c619744a70c97f2db339acd95503
+SHA1: 5d8f80d57f556a552b6d96779189df2a5b95b584
+SHA256: 4986235c4882e223739ca3d061f641bd8d52cb532734e1449953728a3a2f8421
+Section: 抖音增强
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.dyyy/depiction.json
+
 Package: lai28.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -711,24 +747,6 @@ Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-3.3.5-Rootless
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.themepro/depiction.json
-
-Package: lai28.thempro
-Version: 3.1.7
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: debs/ThemePro-3.1.7-Rootless_3.1.7.deb
-Size: 6403320
-MD5sum: f0eb08f26c45ed734e81b2c41962248b
-SHA1: ea2e6dd07786e1553963ab1c6c74aeb6f78cae7e
-SHA256: e969aade985137ce5bb761154c40cfc98b172fa4374282162f283033b495dff0
-Section: 微信增强
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM <mm13299079785@gmail.com>
-Name: ThemePro-3.1.7-Rootless
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.thempro/depiction.json
 
 Package: lai28.wbnoads
 Version: 1.0.1
