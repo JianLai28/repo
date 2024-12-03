@@ -106,25 +106,6 @@ Name: PKC_无根
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.curtin.pkc.rootless
-Version: 0.6-6-Beta1
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/PKC_无根_0.6-6-Beta1.deb
-Size: 769348
-MD5sum: 9aa1cf562bdab223bfc5a3ea0b04ad59
-SHA1: f1173eb6c3911124b2511f683c9e3fe9fb0e6663
-SHA256: c2ca378fd7878481b798e51e194e4ba7aba63c2dff1aa2a81d5d98c30edd0d51
-Section: 微信增强
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
-
-Package: com.curtin.pkc.rootless
 Version: 0.6-6-Beta2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
@@ -177,22 +158,6 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 Name: RateBeGone
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.dvntm.ratebegone/depiction.json
-
-Package: com.huami.DYYY
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_1.6.deb
-Size: 20852
-MD5sum: eb012de7ac0feecbf1b4814309e1ddc8
-SHA1: e0dbbd3c04129ef0f37c8bd974955a3171e5e14b
-SHA256: 197d9ea2adfa0c0a8f13e605610679dba828ac3114c07073578b543a1cf7edfd
-Section: 抖音增强
-Priority: optional
-Description: 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Name: DYYY
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.huami.DYYY/depiction.json
 
 Package: com.huami.bilinoad
 Version: 1.0.1
@@ -262,40 +227,6 @@ Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
-
-Package: com.lecard.wuyu
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 5168
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/App_1.1.7.deb
-Size: 1052812
-MD5sum: 061aa68a8bea64d3213ac9475c27d977
-SHA1: 1222e5d0adfbeeed83bfe6c12376a56bdc39ad77
-SHA256: 69ddbc57076b734d5264b4bf90cb063efa80e31d80d8c8f8d50a853ae11acd96
-Section: Tweaks
-Description: A !
-Author: Crassna
-Name: App Lecard
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lecard.wuyu/depiction.json
-
-Package: com.lecard.wuyu
-Version: 1.1.8
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 5232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/App_1.1.8.deb
-Size: 1057640
-MD5sum: 21ddad7472acd7d72a70e3483c747c8c
-SHA1: 46c3a9b6d90df79f642d52a58ffd881daea0528d
-SHA256: d7a872df8f1634b9d4a1d06bcc1fbd373bd1cac4cb24e9dc89ca88c222c459f0
-Section: Tweaks
-Description: A !
-Author: Crassna
-Name: App Lecard
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lecard.wuyu/depiction.json
 
 Package: com.liuf.jpyj
 Version: 0.0.1
@@ -402,23 +333,6 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
-
-Package: com.xx.dyhook
-Version: 2.0.7+8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 13908
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/抖音图层_2.0.7+8.deb
-Size: 4800020
-MD5sum: e7238d7c61c91f14294c31b1cd4a4bb5
-SHA1: d17851e98cee980d03e89c685272d86ecd103fa0
-SHA256: 511ca58a9a8b3fad93cfcbe799de7e899c1bbdaa3d05e3fbbe8a63dad992a589
-Section: 抖音增强
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.xx.dyhook/depiction.json
 
 Package: com.xx.dyhook
 Version: 2.0.8+1
@@ -607,6 +521,23 @@ Description: 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Name: DYYY
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.dyyy/depiction.json
+
+Package: lai28.lecard.wuyu
+Version: 1.1.10
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.1.10.deb
+Size: 391128
+MD5sum: 4caf2855afeca828514fe0a47538e397
+SHA1: 47e57b7340e6345337583cbc3e1977a2adba40d2
+SHA256: 7d5bc1232f7b58200305b02522575fb163c19b45aecf1daa4e1f73f9e3dcae8d
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
 
 Package: lai28.msgfilt
 Version: 1.0-5.1
