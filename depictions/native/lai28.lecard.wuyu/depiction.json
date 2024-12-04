@@ -10,6 +10,10 @@
           "markdown": "新分屏插件"
         },
         {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
           "text": "点击加入QQ群聊",
           "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
           "class": "DepictionButtonView"
