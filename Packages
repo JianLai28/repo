@@ -522,6 +522,23 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.dyyy/depiction.json
 
+Package: lai28.lecard.wuyu
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.2.0.deb
+Size: 388788
+MD5sum: 30fb3d6f18fa4013c95345f82117b32c
+SHA1: b2fe8e35c9ab2e89295f11c2c9f8799b40bfe3b1
+SHA256: 1220e9b55f95364dcd381efbb5377334b2f9400459435f58ccdfba0a6dec56c4
+Section: Tweaks
+Description: 分屏
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
+
 Package: lai28.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
