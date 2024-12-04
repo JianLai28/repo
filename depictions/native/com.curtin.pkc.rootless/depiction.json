@@ -17,22 +17,6 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "text": "更新记录",
-          "action": "http://jianlai.may99.fun/raw/curtinlv/PKCUpdateLog/main/PKCUpdateLog.md",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-		  {
-          "text": "带Beta的是测试版：仅内测群员使用",
-          "action": "链接",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "title": "版本",
           "text": "0.0-6-Beta2",
           "class": "DepictionTableTextView"
@@ -53,11 +37,21 @@
           "class": "DepictionTableTextView"
         },
         {
-          "spacing": 16,
+          "text": "更新记录",
+          "action": "http://jianlai.may99.fun/raw/curtinlv/PKCUpdateLog/main/PKCUpdateLog.md",
+          "class": "DepictionButtonView"
+        },
+		  {
+          "text": "带Beta的是测试版：仅内测群员使用",
+          "action": "链接",
+          "class": "DepictionButtonView"
+        },
+        {
+          "spacing": 0,
           "class": "DepictionSpacerView"
         },
         {
-          "spacing": 20,
+          "spacing": 0,
           "class": "DepictionSpacerView"
         }
       ],
