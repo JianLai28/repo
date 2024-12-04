@@ -6,14 +6,6 @@
       "tabname": "详情",
       "views": [
         {
-          "text": "点击加入QQ群聊",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "class": "DepictionMarkdownView",
           "markdown": "Kayoko剪切板，82flex大佬修复支持iOS16"
         },
@@ -58,11 +50,16 @@
           "class": "DepictionTableTextView"
         },
         {
-          "spacing": 16,
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
+        {
+          "spacing": 0,
           "class": "DepictionSpacerView"
         },
         {
-          "spacing": 20,
+          "spacing": 0,
           "class": "DepictionSpacerView"
         }
       ],

@@ -18,7 +18,7 @@
               },
               {
                 "title": "版本",
-                "text": "1.1.9",
+                "text": "1.2.0",
                 "class": "DepictionTableTextView"
               },
               {
@@ -33,7 +33,7 @@
               },
               {
                 "title": "更新时间",
-                "text": "2024/12/04",
+                "text": "2024/12/4",
                 "class": "DepictionTableTextView"
               },
               {
@@ -56,7 +56,7 @@
             "tabname": "更新",
             "views": [
               {
-                "title": "1.1.9",
+                "title": "1.2.0",
                 "useBoldText": true,
                 "useSpacing": false,
                 "useBottomMargin": false,
