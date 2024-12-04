@@ -14,6 +14,9 @@
                 "class": "DepictionSpacerView"
               },
               {
+                "class": "DepictionSeparatorView"
+              },
+              {
                 "title": "版本",
                 "text": "1.2.0",
                 "class": "DepictionTableTextView"
