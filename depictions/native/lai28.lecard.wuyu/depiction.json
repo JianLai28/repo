@@ -14,32 +14,6 @@
           "class": "DepictionSpacerView"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14,
-          "screenshots": [
-            {"url": "https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/1.PNG",
-              "accessibilityText": "1.PNG"
-            },
-            {"url": "https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/2.PNG",
-              "accessibilityText": "2.PNG"
-            },
-            {"url": "https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/3.PNG",
-              "accessibilityText": "3.PNG"
-            },
-            {"url": "https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/4.PNG",
-              "accessibilityText": "4.PNG"
-            },
-          ],
-          "itemSize": "{370,456}"
-        },
-        {
-          "spacing": 15,
-          "class": "DepictionSpacerView"
-        },
-        {
           "text": "点击加入QQ群聊",
           "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
           "class": "DepictionButtonView"
@@ -49,7 +23,7 @@
         },
         {
           "title": "版本",
-          "text": "1.1.12",
+          "text": "1.2.0",
           "class": "DepictionTableTextView"
         },
         {
