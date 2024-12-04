@@ -39,11 +39,11 @@
                 "class": "DepictionButtonView"
               },
               {
-                "spacing": 14,
+                "spacing": 13,
                 "class": "DepictionSpacerView"
               },
               {
-                "spacing": 16,
+                "spacing": 12,
                 "class": "DepictionSpacerView"
               }
             ],
