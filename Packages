@@ -110,6 +110,25 @@ Version: 0.6-6-Beta2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
+Filename: debs/测试_0.6-6-Beta2.deb
+Size: 770948
+MD5sum: 6e16a8b72f8b828f5079ee1b3abd368a
+SHA1: 798c9043515b93be4afb9b94c2288cb413c1dbbc
+SHA256: 5307ce5bb6144867417efeda78a778d9739efb2603d40393c19a0f9e0a214a23
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: 测试
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.curtin.pkc.rootless/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-6-Beta2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
 Filename: debs/PKC_无根_0.6-6-Beta2.deb
 Size: 770688
 MD5sum: 8b943407c231c6cf26118034c4651636
@@ -535,6 +554,40 @@ SHA1: 47e57b7340e6345337583cbc3e1977a2adba40d2
 SHA256: 7d5bc1232f7b58200305b02522575fb163c19b45aecf1daa4e1f73f9e3dcae8d
 Section: Tweaks
 Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
+
+Package: lai28.lecard.wuyu
+Version: 1.1.10
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/369_1.1.10.deb
+Size: 391352
+MD5sum: 20ec67ce2e2450f2aff6f6a0259259dd
+SHA1: fa3f0178c0a83e3299e6e16be6d929b75c867fa2
+SHA256: 07d5dc606e62a07e91b7feec0fbc3520a81299a5f579fada4e2f9bd8d8770276
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: 369
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
+
+Package: lai28.lecard.wuyu
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.2.0.deb
+Size: 389024
+MD5sum: f58c55acb5b831547f36752191020525
+SHA1: 851d5bf8d6749d6b0b431ae36e45fd17b226c58b
+SHA256: 11b57b93a49bf5d38b40a2bf169936ec4af1d3b532de0f6db19fa02a19287cc2
+Section: Tweaks
+Description: 分屏
 Author: Crassna
 Name: App Lecard
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
