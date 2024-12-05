@@ -470,6 +470,25 @@ Author: TiaoTiao
 Name: 淫荡开关
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.betteruiswitch/depiction.json
 
+Package: lai28.desktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: 剑来
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: debs/DesktopLyrics桌面歌词_0.3.9~b1.deb
+Size: 623200
+MD5sum: 1b47e33f6e77b35cb38a8e75fac06759
+SHA1: 2bf36022a14a194beda06dd51d2b246414043811
+SHA256: 30ecb6b5b4d3aa6278d3b1fe0baad08cd677c4329c5afa710b4c976d248110f5
+Section: 系统增强
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify
+Author: Brend0n
+Icon: 1
+Name: DesktopLyrics桌面歌词
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.desktoplyrics/depiction.json
+Sponsor: 剑来
+
 Package: lai28.doutu
 Version: 3.1-5
 Architecture: iphoneos-arm64
