@@ -18,7 +18,7 @@
               },
               {
                 "title": "版本",
-                "text": "1.2.0",
+                "text": "1.2.1",
                 "class": "DepictionTableTextView"
               },
               {
@@ -55,6 +55,19 @@
           {
             "tabname": "更新",
             "views": [
+      {
+        "title": "1.2.1",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\u2023 修复bug",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
               {
                 "title": "1.2.0",
                 "useBoldText": true,

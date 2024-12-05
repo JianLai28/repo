@@ -558,6 +558,23 @@ Author: Crassna
 Name: App Lecard
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
 
+Package: lai28.lecard.wuyu
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/App_1.2.1.deb
+Size: 388144
+MD5sum: bc3eb8b562e68ba069221118881732e6
+SHA1: 04b119e3a71babaa78b03590594d0cf73f97fdb0
+SHA256: d9d85ea65638deaa709668e510d09d22d81046fe5f609dcd9c93adc4c9f0793c
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
+
 Package: lai28.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
