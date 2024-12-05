@@ -386,22 +386,22 @@ Name: Jade
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/jian.lai.jade/depiction.json
 Sponsor: 剑来
 
-Package: lai.safarix
+Package: lai28.Safarix
 Version: 1.9.2
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 792
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: debs/SafariX_1.9.2.deb
-Size: 287200
-MD5sum: a9da2bbb51f55a31db328f7703a2a3a7
-SHA1: d37e0b63da515410265093d3add1d9dde2f0ea24
-SHA256: a20403bb1b93869e162cdc0eb7f80e7c9dd3b8b56d904598a2837a14645671b6
+Filename: debs/Safarix游览器增强_1.9.2.deb
+Size: 287052
+MD5sum: acc613fc482de1831a4b505b65f98e88
+SHA1: aee2466ac5dadcde671642b80a2f434205e1ef72
+SHA256: 5e1d3bfc44ea4eec614eb370cd475d31bf0f9704a604c21c13bc4dd9bf4fdfec
 Section: Tweaks
 Description: Safari Essential Features
 Author: 0xkuj
-Name: SafariX
-Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai.safarix/depiction.json
+Name: Safarix游览器增强
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.Safarix/depiction.json
 
 Package: lai28.WCAtpure
 Version: 1.0.0
@@ -644,6 +644,22 @@ Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 酸果
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.releasefugu15/depiction.json
+
+Package: lai28.safarix.cn
+Version: 1.9.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Safarix简体中文包_1.9.2.deb
+Size: 8732
+MD5sum: 67650ecadf2e7bf1282bc7b759b26853
+SHA1: 98b30cb5f911ee627aeced4ce611bf83fda4af83
+SHA256: e90d2cc9e7e022f3a78fd781ee8622fe2a445e89dc931acd3e251196c81146f2
+Section: 简体汉化
+Description: SafariX 简体中文包，刀刀汉化。
+Author: 妖刀
+Name: Safarix简体中文包
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.safarix.cn/depiction.json
 
 Package: lai28.safarixhook
 Version: 1.0.0
