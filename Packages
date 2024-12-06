@@ -670,10 +670,10 @@ Maintainer: 剑来
 Installed-Size: 840
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/ReplyActions_1.0.3.deb
-Size: 128480
-MD5sum: 2f7350bd63636b50267f1a33ed5ec948
-SHA1: be8e08283d50694498cd00f0f5821792de9f4058
-SHA256: 2ae8f492ba0f38660201c29becea8f022133e0cb2f14812144c0d3babced089a
+Size: 128636
+MD5sum: 123c53ed0f30724272e16ebbdc96a546
+SHA1: 1e8e9b28b45378744d8f63abd45bc58852216694
+SHA256: 2baf5670c47330b981822c8d19e93b76dc2dc4c8eb39ba7c57bd321421e682bb
 Section: Tweaks
 Description: Send message the easy way
 Author: sergy
