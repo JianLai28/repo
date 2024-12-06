@@ -670,15 +670,15 @@ Maintainer: 剑来
 Installed-Size: 840
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/ReplyActions_1.0.3.deb
-Size: 128648
-MD5sum: 66ba0bfafe0a394d044f9b0213cafa22
-SHA1: 5edf7866245fb24638f47b20264e88999910a101
-SHA256: 03caa71e1785e8552b70d70a714327f5ca15a8a6b9f5309fd02e9066029c6b40
+Size: 128480
+MD5sum: 2f7350bd63636b50267f1a33ed5ec948
+SHA1: be8e08283d50694498cd00f0f5821792de9f4058
+SHA256: 2ae8f492ba0f38660201c29becea8f022133e0cb2f14812144c0d3babced089a
 Section: Tweaks
 Description: Send message the easy way
 Author: sergy
 Depiction: 以弹窗方式来回复信息
-Icon: 1
+Icon: https://jianlai28.github.io/repo/ing/Icon.png
 Name: ReplyActions
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.replyactions/depiction.json
 
