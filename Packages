@@ -217,15 +217,15 @@ Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/Kayoko_2.7.deb
-Size: 123756
-MD5sum: 4f1611c76bee16a5af6f6cfce9449a39
-SHA1: d1101e36f0deb886f0c9b2d6a09d0c4ad2584c7a
-SHA256: 5cd43065f7d16f6dfd59635bf270920cf8bcb6d268a9fda2a43ce0bd8b32785d
+Filename: debs/kayoko剪切板_2.7.deb
+Size: 123772
+MD5sum: 8c42d6ac90f5dce3cea03823985be65d
+SHA1: ad657355aefefa773d17faf5ca0da9f85962f433
+SHA256: a62a346d6a3c07979a708175f8a62de38c7b5d1003765f7d2785f5c16306921b
 Section: 系统增强
 Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
-Name: Kayoko
+Name: kayoko剪切板
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/com.lai.kayoko/depiction.json
 
 Package: com.liuf.jpyj
@@ -477,15 +477,15 @@ Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4312
 Depends: mobilesubstrate, preferenceloader
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: debs/ClassicFolders_3.0.5.8.deb
-Size: 3274140
-MD5sum: ace4831504af6ac878df2ad5ecebb893
-SHA1: 8c70e411c23d307462b96c507234a5e5f8b2a85f
-SHA256: 6a5c8c1be4fae0e160cc2116378bafba1ca4cca44330cafcf63a983d061935c6
+Filename: debs/ClassicFolders 3_3.0.5.8.deb
+Size: 3274136
+MD5sum: 89b6b0418a9d38ca93f5ac6cd9de125a
+SHA1: cb44e41526f726ecc24fd340af8078bcc05b6b5a
+SHA256: c564b2aea2713e8c6792a21020b68cca3f82ef06130933e8ee05fa56cd06a135
 Section: 系统增强
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
 Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
+Name: ClassicFolders 3
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.classicfolders3/depiction.json
 
 Package: lai28.desktoplyrics
@@ -565,11 +565,11 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1884
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/App_1.2.0.deb
-Size: 388788
-MD5sum: 30fb3d6f18fa4013c95345f82117b32c
-SHA1: b2fe8e35c9ab2e89295f11c2c9f8799b40bfe3b1
-SHA256: 1220e9b55f95364dcd381efbb5377334b2f9400459435f58ccdfba0a6dec56c4
+Filename: debs/App Lecard_1.2.0.deb
+Size: 388568
+MD5sum: ceeffdede3dcd12f0c03c395dea992d8
+SHA1: 5786612f9829d864ffa753bc9920f514cdecdab4
+SHA256: 099d29c59f9bbc60853a79e9d78b5f343ff6ebb0e9fac40258f80da50e7b279f
 Section: Tweaks
 Description: 分屏
 Author: Crassna
@@ -582,13 +582,13 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1884
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/App_1.2.1.deb
-Size: 388144
-MD5sum: bc3eb8b562e68ba069221118881732e6
-SHA1: 04b119e3a71babaa78b03590594d0cf73f97fdb0
-SHA256: d9d85ea65638deaa709668e510d09d22d81046fe5f609dcd9c93adc4c9f0793c
+Filename: debs/App Lecard_1.2.1.deb
+Size: 388368
+MD5sum: 00caa56a9a57e913b601347d3372db55
+SHA1: d3acb30e199b1c0857d2ab889a1357fdcf2b1a6a
+SHA256: eab0fecaeef22afe73c2b3a416a7c0ee96743819b358af7c930ea3828aa46212
 Section: Tweaks
-Description: A !
+Description: 分屏
 Author: Crassna
 Name: App Lecard
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.lecard.wuyu/depiction.json
