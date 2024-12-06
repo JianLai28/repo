@@ -218,10 +218,10 @@ Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: debs/kayoko剪切板_2.7.deb
-Size: 123772
-MD5sum: 8c42d6ac90f5dce3cea03823985be65d
-SHA1: ad657355aefefa773d17faf5ca0da9f85962f433
-SHA256: a62a346d6a3c07979a708175f8a62de38c7b5d1003765f7d2785f5c16306921b
+Size: 123672
+MD5sum: 89d6f4e5ec3d2edd17bb0535793fc44b
+SHA1: b96636a6356b395357098e380019035cca81a3b4
+SHA256: be457ecc6c779c193cf7d81c1c987d924890dc058650d3c9770c10c6b43c47dc
 Section: 系统增强
 Description: Kayoko，82flex大佬修复支持iOS16。
 Author: Alexandra Aurora Göttlicher
@@ -669,11 +669,11 @@ Architecture: iphoneos-arm64
 Maintainer: 剑来
 Installed-Size: 840
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/ReplyActions_1.0.3.deb
-Size: 128592
-MD5sum: f7dd565ec49c154155cb15cedd6be39e
-SHA1: 268e1cce96bca39028d1813bb836e83f84e349f2
-SHA256: 970bb558362a72620099fcc7b3653c2804ce3c905e37d4c0a082421bd4dfc6ca
+Filename: debs/ReplyActions_1.0.3.deb
+Size: 128648
+MD5sum: 66ba0bfafe0a394d044f9b0213cafa22
+SHA1: 5edf7866245fb24638f47b20264e88999910a101
+SHA256: 03caa71e1785e8552b70d70a714327f5ca15a8a6b9f5309fd02e9066029c6b40
 Section: Tweaks
 Description: Send message the easy way
 Author: sergy
