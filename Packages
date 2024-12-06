@@ -470,6 +470,24 @@ Author: TiaoTiao
 Name: 淫荡开关
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.betteruiswitch/depiction.json
 
+Package: lai28.classicfolders3
+Version: 3.0.5.8
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: debs/ClassicFolders_3.0.5.8.deb
+Size: 3274140
+MD5sum: ace4831504af6ac878df2ad5ecebb893
+SHA1: 8c70e411c23d307462b96c507234a5e5f8b2a85f
+SHA256: 6a5c8c1be4fae0e160cc2116378bafba1ca4cca44330cafcf63a983d061935c6
+Section: 系统增强
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.classicfolders3/depiction.json
+
 Package: lai28.desktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
