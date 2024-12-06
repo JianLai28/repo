@@ -663,6 +663,25 @@ Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 酸果
 Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.releasefugu15/depiction.json
 
+Package: lai28.replyactions
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 剑来
+Installed-Size: 840
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/ReplyActions_1.0.3.deb
+Size: 128592
+MD5sum: f7dd565ec49c154155cb15cedd6be39e
+SHA1: 268e1cce96bca39028d1813bb836e83f84e349f2
+SHA256: 970bb558362a72620099fcc7b3653c2804ce3c905e37d4c0a082421bd4dfc6ca
+Section: Tweaks
+Description: Send message the easy way
+Author: sergy
+Depiction: 以弹窗方式来回复信息
+Icon: 1
+Name: ReplyActions
+Sileodepiction: https://JianLai28.github.io/repo/depictions/native/lai28.replyactions/depiction.json
+
 Package: lai28.safarix.cn
 Version: 1.9.2
 Architecture: iphoneos-arm64
