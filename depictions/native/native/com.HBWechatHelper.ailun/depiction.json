@@ -1,0 +1,103 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://lai28.988456.xyz/img/cover.png",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能"
+        },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本",
+          "text": "1.7-8",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "IOS",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "开发者",
+          "text": "HuangBai",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "更新时间",
+          "text": "2024/11/12",
+          "class": "DepictionTableTextView"
+        },
+              {
+                "text": "点击加入QQ群聊",
+                "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                "class": "DepictionButtonView"
+              },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新",
+      "views": [
+        {
+          "title": "1.7-8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "- 临时修复微软语音接口\n- 修复地区无法访问问题\n- 支持导出本地音色配置\n- 支持纳入本地音色配置\n- 支持删除异常音色配置\n- 新增音色记忆选择功能\n- 新增添加本地明星音色配置\n- 所有功能基于内测群员给予补偿\n- 所有语音都基于本地请求官网服务器转换",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }, 
+ 	    {
+          "title": "1.7.7",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "- 该版本未更新任何功能仅为打某些🤡的脸一言不合就喊跑路\n-内测用户强烈建议更新\n-该版本无需群验证且7天检测一次授权避免授权失效问题\n-昨晚还在维护 谈何跑路\n-待一切处理完整后开源",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "公告",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

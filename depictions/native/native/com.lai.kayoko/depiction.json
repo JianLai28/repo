@@ -1,0 +1,118 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "tabs": [
+        {
+            "tabname": "详情",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Kayoko剪切板，82flex大佬修复支持iOS16"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 14,
+                    "screenshots": [
+                        {
+                            "url": "https://lai28.988456.xyz/depictions/native/com.lai.kayoko/1.PNG",
+                            "accessibilityText": "1.PNG"
+                        },
+                        {
+                            "url": "https://lai28.988456.xyz/depictions/native/com.lai.kayoko/2.PNG",
+                            "accessibilityText": "2.PNG"
+                        }
+                    ],
+                    "itemSize": "{370,456}"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "版本",
+                    "text": "2.6",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "IOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "Alexandra & 82flex",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2024/10/30",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "点击加入QQ群聊",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新",
+            "views": [
+                {
+                    "title": "2.7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 添加反馈限制\n- 去除守护进程",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化隐藏动画和时机",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "公告",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}

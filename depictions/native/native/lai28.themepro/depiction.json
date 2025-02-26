@@ -1,0 +1,129 @@
+      {
+        "minVersion": "0.1",
+        "headerImage": "https://lai28.988456.xyz/img/cover.png",
+        "tabs": [
+          {
+            "tabname": "详情",
+            "views": [
+              {
+                "class": "DepictionMarkdownView",
+                "markdown": "菠萝微信主题插件，主题需自行购买"
+              },
+              {
+                "spacing": 0,
+                "class": "DepictionSpacerView"
+              },
+              {
+                "class": "DepictionSeparatorView"
+              },
+              {
+                "title": "版本",
+                "text": "3.5.7",
+                "class": "DepictionTableTextView"
+              },
+              {
+                "title": "兼容性",
+                "text": "IOS",
+                "class": "DepictionTableTextView"
+              },
+              {
+                "title": "开发者",
+                "text": "ThemePro",
+                "class": "DepictionTableTextView"
+              },
+              {
+                "title": "更新时间",
+                "text": "2024/12/26",
+                "class": "DepictionTableTextView"
+              },
+              {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+              },
+              {
+                "spacing": 0,
+                "class": "DepictionSpacerView"
+              },
+              {
+                "spacing": 0,
+                "class": "DepictionSpacerView"
+              }
+            ],
+            "class": "DepictionStackView"
+          },
+          {
+            "tabname": "更新",
+            "views": [
+      {
+        "title": "3.5.7",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "- 新增Gif动图支持切换暗黑，且做了性能优化。\n- 新增全局心情动画。\n- 新增全局圆头像。\n- 新增资料页居中，水平，唱片/唱针，KTV歌词等玩法。\n- 修复聊天气泡防炸裂",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
+      {
+        "title": "3.4.4",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "- 更新支持动态背景 \n- 修复了服务页美团 团购图标不显示 \n- 解决用户切猪咪主题未关闭TP导致小底栏消失问题",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
+      {
+        "title": "3.3.5",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "- 修复了8054WX从其他页面返回首页，底栏会黑一下的问题\n- 修复了我的页面订单与卡包变成购物订单与卡包图标不显示问题\n- 新增一个设置组“个性化设置”原“其他设置”改名为“配套设置”\n- 新增图标动效功能，大小底栏设置（配套设置内），各种字体颜色修改，背景透明功能（个性化设置内）\n- 修复了从公众号分类会到首页，顶栏消失问题‍‍‍‍\n- 修复了用户3000+以上主题，应用主题显示不完整的问题",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
+              {
+                "title": "3.1.7",
+                "useBoldText": true,
+                "useSpacing": false,
+                "useBottomMargin": false,
+                "class": "DepictionSubheaderView"
+              },
+              {
+                "markdown": "- ",
+                "useSpacing": false,
+                "useBottomMargin": false,
+                "class": "DepictionMarkdownView"
+              },
+              {
+                "spacing": 20,
+                "class": "DepictionSpacerView"
+              }
+            ],
+            "class": "DepictionStackView"
+          },
+          {
+            "tabname": "公告",
+            "views": [
+              {
+                "class": "DepictionMarkdownView",
+                "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+              }
+            ],
+            "class": "DepictionStackView"
+          }
+        ],
+        "class": "DepictionTabView"
+      }

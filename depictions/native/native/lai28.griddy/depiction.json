@@ -1,0 +1,179 @@
+{
+         "minVersion": "0.1",
+         "headerImage": "https://lai28.988456.xyz/img/cover.png",
+         "tabs": [
+        {
+         "tabname": "详情",
+         "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "桌面图标小部件随意摆放"
+        },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本",
+          "text": "1.0.5",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "IOS",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "开发者",
+          "text": "mikifp",
+          "class": "DepictionTableTextView"
+        },
+		{
+          "title": "更新时间",
+          "text": "2024/12/22",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "text": "点击加入QQ群聊",
+          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+          "class": "DepictionButtonView"
+        },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 0,
+          "class": "DepictionSpacerView"
+        }
+        ],
+          "class": "DepictionStackView"
+        },
+        {
+         "tabname": "更新",
+         "views": [
+        {
+         "text": "投喂一下~",
+         "action": "https://qr.alipay.com/fkx10263ettjhc6c8nl7hc3",
+         "class": "DepictionButtonView"
+        },
+        {
+         "spacing": 0,
+         "class": "DepictionSpacerView"
+        },
+        {
+         "title": "1.0.5",
+         "useBoldText": true,
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionSubheaderView"
+        },
+        {
+         "markdown": "- 修复了浮动码头上图标创建多行的问题\n- 修复了将Griddy数据保存在错误位置的问题\n- 修复了文件夹预览生成不正确的问题\n- 整体稳定性改进",
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionMarkdownView"
+        }, 
+        {
+         "spacing": 15,
+         "class": "DepictionSpacerView"
+        },
+        {
+         "class": "DepictionSeparatorView"
+        },
+ 	    {
+         "title": "1.0.4",
+         "useBoldText": true,
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionSubheaderView"
+        },
+        {
+         "markdown": "- 修复了浮动码头上的位置问题\n- 修正了文件夹预览与文件夹重生调整兼容的问题\n- 修正了因生成文件夹图标图像而导致崩溃的问题\n- 将存储的位置数据移至设备上的独立位置\n- 稳定性改进",
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionMarkdownView"
+        },
+        {
+         "spacing": 15,
+         "class": "DepictionSpacerView"
+        },
+        {
+         "class": "DepictionSeparatorView"
+        },
+ 	    {
+         "title": "1.0.3.5",
+         "useBoldText": true,
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionSubheaderView"
+        },
+        {
+         "markdown": "- 根据开源编译，合入Hello Folder和PrimalFolder2插件修复。",
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionMarkdownView"
+        },
+        {
+         "spacing": 15,
+         "class": "DepictionSpacerView"
+        },
+        {
+         "class": "DepictionSeparatorView"
+        },
+ 	    {
+         "title": "1.0.3",
+         "useBoldText": true,
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionSubheaderView"
+        },
+        {
+         "markdown": "- 修正了文件夹预览与经典文件夹调整兼容的问题\n- 修正了与 Primal Folders 2 调整兼容的文件夹预览问题\n- 修复了 iOS 15.0 启动时设备会进入安全模式的问题\n- 修复了 Atria 兼容性问题（浮动 Dock、某些网格大小）\n- 修复了编辑后图标状态无法正确保存的问题\n- 修复了因生成文件夹预览而导致崩溃的问题（希望如此）\n- 修复了有关创建新文件夹的问题\n- 整体改进",
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionMarkdownView"
+        },
+        {
+         "spacing": 15,
+         "class": "DepictionSpacerView"
+        },
+        {
+         "class": "DepictionSeparatorView"
+        },
+	    {
+         "title": "1.0初始版",
+         "useBoldText": true,
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionSubheaderView"
+        },
+        {
+         "markdown": "- 将图标拖放至任意位置\n- 在重启和重启之间保存图标布局\n- 纵向和横向独立布局\n- 支持任何图标或小工具",
+         "useSpacing": false,
+         "useBottomMargin": false,
+         "class": "DepictionMarkdownView"
+        },
+        {
+         "spacing": 20,
+         "class": "DepictionSpacerView"
+        }
+        ],
+         "class": "DepictionStackView"
+        },
+        {
+         "tabname": "公告",
+         "views": [
+        {
+         "class": "DepictionMarkdownView",
+         "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+        }
+        ],
+         "class": "DepictionStackView"
+        }
+        ],
+         "class": "DepictionTabView"
+}
