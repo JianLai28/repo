@@ -1,0 +1,411 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "tabs": [
+        {
+            "tabname": "详情",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特、文字转语音等"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "版本",
+                    "text": "0.6-8",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "IOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "Curtin",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2025/03/02",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "点击加入QQ群聊",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新",
+            "views": [
+                {
+                    "title": "0.6-8",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- [消息统计]优化功能，兼容新版V、新增词云分析、红包金额统计、未发言统计等指令\n- [好友分析]新增重置数据按钮\n- 修复[个性化功能]-[签名复制]失效问题\n- 优化代码，解决一些问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复软件在8054一些问题，如群管理Pro二维码检测失效、文件警告失效、加密图转发失效、关键词回复聊天记录图失效等问题   \n- [朋友圈特别关注]支持Live实况转发到本人窗口    \n- [文转语]新增FV积分兑换字符按钮、查询剩余字符按钮   \n- [个性签名复制]优化，点击自己签名设置则不触发复制",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- [文转语]新增FV音色自动签到，获取每日免费积分  \n- [文转语]修复启用背景音，但背景音为空时，导致闪退问题       \n- [个性化功能]新增透明气泡开关    \n- [个性化功能]新增一键拷贝个性签名功能     \n- 优化收款自动回复，回复模式增加选项【不回复】   \n- 修复8054消息推送、自动收款、群管理Pro功能失效问题   \n- 新增黑名单机制",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-6-Beta2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- ",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-6-Beta1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增FV音色自动签到功能\n- 新增黑名单机制",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化群设置页面，默认折叠PKC功能\n- [文转语]背景音可长按音频文件直接导入\n- [文转语]语音转MP3兼容低版本V\n- [文转语]修复启用自动清理缓存，无法发送二次元音色Bug\n- [标签Pro]修复54版本标签在通讯录-服务号前错位显示问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-5-Beta2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化群设置页面，默认折叠PKC功能\n- [文转语]修复启用自动清理缓存，无法发送二次元音色Bug",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-5-Beta1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- [文转语]背景音可长按音频文件直接导入\n- [文转语]语音转MP3兼容低版本V\n- [标签Pro]修复54版本标签在通讯录-服务号前错位显示问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- [文转语]修复“随机”背景音闪退问题\n- [文转语]优化背景音导入按钮（部分设备没显示按钮）\n- [文转语]新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：PKC反向代理项目 (https://github.com/curtinlv/pkc-agent.git) \n- [文转语]优化文字转语音Pro按钮\n- [文转语]增加FV音色情绪\n- [文转语]增加语音转MP3\n- [文转语]增加自动清理缓存\n- [文转语]增加快捷音色页面指令\n- [标签Pro]修复X轴范围填写问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4-Beta5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]增加语音转MP3及其他优化",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4-Beta4",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化文字转语音Pro\n- 修复标签Pro，X轴范围问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4-Beta3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 启用反向代理，不填，则默认使用内置PKC代理服务\n- 优化[文转语]新增快捷音色页面指令\n- 其他优化",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4-Beta2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：https://github.com/curtinlv/pkc-agent.git\n- 优化背景音导入按钮（部分设备没显示按钮）",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-4-Beta1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复“随机”背景音闪退问题\n- 修复重要Bug",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复琅琅音色转换成功，发送失败问题\n- 修复背景音开启没设置背景音发送失败问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 默认模式，全改为本地转换，无需搭建服务器中转\n- 默认模式，支持自定义音色分类管理，可自行搭建管理后台维护音色，项目地址：https://github.com/curtinlv/pkc-ys.git\n- 默认模式，背景音可本地导入合成\n- 新增音色快捷指令，在音色列表左滑-指令，可针对某个音色定义触发命令\n- 优化转音Pro按钮，支持已添加到”快捷指令“的音色快捷发送\n- 修复已知问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6.2-Beta9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]，转音Pro按钮、和一些提示优化",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6.2-Beta8",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]，默认模式，背景音可本地导入，合成。",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6.2-Beta7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]，新增音色快捷指令，在音色列表左滑-指令，可针对某个音色定义触发命令",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]支持自定义音色管理，可自行搭建管理后台，维护音色。\n- 项目地址：https://github.com/curtinlv/pkc-ys.git",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化代码",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta4",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]默认模式改为本地转换，无需搭建服务器服务器接口",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]Fish/FineVoice音色，默认模式改为本地转换，不再依赖服务器接口",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 优化[文转语]二次元音色，改为本地转换，不再依赖服务器接口\n- 优化[文转语]增加按需启用音色人物头像显示、优化搜索音色、优化试听没声音问题等",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-2-Beta1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修修复已知问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "0.6-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增[文字转语音]功能\n- 优化[加密对话]增加密图发送-是否压缩开关，可适当减少空间占用\n- 优化[壁纸]功能\n- 修复[群管理Pro]-[群VIP管理]，邀请进群，自动给邀请者授权问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "公告",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}

@@ -1,0 +1,2272 @@
+Package: lai28.lecard.wuyu
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: 系统增强
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/App-Lecard_1.2.0.deb
+Size: 454066
+MD5sum: 4c142c48443a992dfc1bdf952ef5b372
+SHA1: 6ecc22a89eaecc6d03918abdf8ba197020c407dd
+SHA256: b2acea36263e7ec584eeb0077b8f678cbbd620d2189c412dc840194648f31e6b
+SHA512: 88373e7fb793c1a1efe7027558d7809065fc21f6c9ac4fcc27542f837080600256531bd4bb55a45cb482857a94d190c0b7af81ddcd1a5f7a3dc129a492beb4c2
+Description: 分屏
+Name: App Lecard
+Author: Crassna
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.lecard.wuyu/depiction.json
+
+Package: lai28.lecard.wuyu
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: 系统增强
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/App-Lecard_1.2.1.deb
+Size: 453568
+MD5sum: 38e4200f11431fd42a2f8edf2cb68292
+SHA1: 51311ce9ca801954ddc57087ff8d0e487b9c64e0
+SHA256: 2e3ab09d09b61b20795325cae7acbe9d7ea6e64eaa5ee7e785bb0e6c39a241e3
+SHA512: 291f0ce7834b2b42a81834140040652be1eb4c002e432da50f192a15dae2de123c1b1927288cc375f90351028586a060d21f3ee40ae0980ec6358534088317ee
+Description: 分屏
+Name: App Lecard
+Author: Crassna
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.lecard.wuyu/depiction.json
+
+Package: lai28.lecard.wuyu
+Architecture: iphoneos-arm64
+Version: 1.3.0-END
+Section: 系统增强
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/App-Lecard_1.3.0-END.deb
+Size: 477144
+MD5sum: c2efeefb15029507b21a075ebe20e260
+SHA1: 0bed0038e758727df45747d94db2f03848c777ee
+SHA256: 19ee4246c06fd19876800b6ddd7ba27f9f8a7037d71441ed49fbdd6c4699077a
+SHA512: 0d8771c07504a1dfd35232bf6c31cf6a6d198f520d070f0825f57dfc5a15ff383ea22f455363b47d6e24f516b8737129bfe66a5e92a3e1de169afb3802aef37e
+Description: 分屏
+Name: App Lecard
+Author: Crassna
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.lecard.wuyu/depiction.json
+
+Package: lai28.awemealwaysshowtime
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 抖音增强
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/AwemeAlwaysShowTime_1.1-1.deb
+Size: 2252
+MD5sum: b71de90e250a422e1615a2034d1ab0eb
+SHA1: aaea3cba5271b8e92b5edae7e689e88d25840019
+SHA256: b3c1976df731b0b524f80836cf0a86da5d4f19e2a661bb02a34219a408db785a
+SHA512: e9ccbf4825ca1b70ef19b5a69361f405663d7aeccfd185a68cb6ef262425f9318edf950a0d3b4f31dcd4ca7899121e70abebff7a5d3098c7365ae930f21ba758
+Description: 显示抖音视频上传时间
+Name: AwemeAlwaysShowTime
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.awemealwaysshowtime/depiction.json
+
+Package: com.netskao.awemedisablebar
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Section: 抖音增强
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/AwemeDisableBar_1.1-6.deb
+Size: 346354
+MD5sum: e91df350f6f41edfa071cfee424ce3e9
+SHA1: 44db6012d522217ccb3372ab9aa56eedf63b4999
+SHA256: 82bf290668b8bd98037f8393b895a5d25004da1b38d2c4ff69a5e7c5ca2ca289
+SHA512: fc1e9d725db929bd74e8b676d817702416b22a71130accfe9009236f591e14d9238121270c300052d1dda2a105c92e6407895255fd925b1471abdfb9834150b9
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Name: AwemeDisableBar
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.netskao.awemedisablebar/depiction.json
+
+Package: com.netskao.awemefullscreen
+Architecture: iphoneos-arm64
+Version: 1.2-3
+Section: 抖音增强
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/AwemeFullScreen_1.2-3.deb
+Size: 183576
+MD5sum: 847a7819a68b9de7d9c0f6da343ea10d
+SHA1: d394b8d0d4b741f4dc475958663e8c8a2bc2f2d9
+SHA256: 8bc0d9527d1203a1c367eb704ae9bc88390555ca4ab0256d5b66101f9a8e7be8
+SHA512: 83f2b796376feec2d171b8b207afceb66dbcea6057e3e5ef32f01854e021383348f022fe92698454f3830062959351ce1d476c848ed43c6632f92e6fc8bf0cfd
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
+Name: AwemeFullScreen
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.netskao.awemefullscreen/depiction.json
+
+Package: lai28.awemsaveemoji
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 抖音增强
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/AwemeSaveEmoji_1.1-2.deb
+Size: 84644
+MD5sum: 1a4e5e10fd71814223295eff55d6f173
+SHA1: 10f1c104305e0e91add067e41bca88a435936457
+SHA256: 65a79015cd87b4f52fb389a153bd42746ed89c267137cd5276822a4d62670afe
+SHA512: d45215d7518dc042161dd20caa6aea2dac14100321d22260c25bb53cff99d9f2f051020626f287b79ebe5094ebd588a6211522c76dc6ad2ee9c68c7f6b8b434a
+Description: 保存抖音评论区表情到相册
+Name: AwemeSaveEmoji
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.awemsaveemoji/depiction.json
+
+Package: com.huami.bilinoad
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/BiliNoAd_1.0.1.deb
+Size: 3478
+MD5sum: 6ca5441cd1704c943f297ddbeeca30fa
+SHA1: 0469c81e326f0a9aefc09c312d05578f5c5b0264
+SHA256: c4b0eb21f1e1369fc710651ea4a1350ccd63dd1e7ecc36db6bcd0c7a9d82f573
+SHA512: 8d3f17c5785b0f7fd4b1d3ceea91b7161799bb9f9932bbeebc1125a69363660fbbca25450626a39be2bbd1190722cc32ad804e713b1e338b2adcdf030ae8542b
+Description: BiliBili净化开屏广告
+Name: BiliNoAd
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.huami.bilinoad/depiction.json
+
+Package: lai28.cccellularrate
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: 系统增强
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCCellularRate_1.1-1.deb
+Size: 103326
+MD5sum: f22dd54c48deb72ceb23763bac8ddb23
+SHA1: a0e0464dd6a5613a6a7d7d999771f1c36155ab10
+SHA256: 1ece5a7d0fe300f95bc2048b1a1a995b6a1da4f184c7e64f820718567f51be7f
+SHA512: 65c7ea4364afcb1cf99b26a1ab7b5a4ebe20a13762e63abfa1668e64cdcccb8d6c7669030ba9ebb3074bc35e38114a40978828f58584610b3567813a8af9339e
+Description: 在控制中心快速切换2/3/4/5G 网络
+Name: CCCellularRate
+Author: Netskao
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.cccellularrate/depiction.json
+
+Package: lai28.centra
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 剑来
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Centra
+_1.0
+.deb
+Size: 54516
+MD5sum: 2ed24e27c07741478aecd119f318ce38
+SHA1: d8d5889f66e281eaaaffeeed4409ca354bf7939c
+SHA256: 8d98903b45d455764f587ede23ee686c58d967e039b28e5479a4d3efb5314ff5
+SHA512: 5b703cdc95607df83170efdd5c79746b125a8a60090d470660ef0d113e5e5deb0a16e9c6c91f49640500606a0470fe5a9dd72282757d9e50a5da3f8d497181c0
+Description: 自定义控制中心模块大小
+Depiction: https://lai28.988456.xyz/
+Name: Centra
+Author: Hitori
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.centra/depiction.json
+
+Package: lai28.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1112
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/Choicy_1.5.1.deb
+Size: 160044
+MD5sum: 9997c7b1c132875fc902cb48fa9b25d7
+SHA1: 119197b09d19d3ed44699a6e1df4015e47030d45
+SHA256: 85d478ece482cb879e6f2ee515e71bead69ad15023023a4a2ee344587f295892
+SHA512: 920aaf1463aa1cdd05124766421539a76c52cc00ebaa14c0dc712e1cf42878106a78410f2cd31968c6284aba05281e65d8cfbe0e2a7745ea27b4ef47f3270681
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.choicy/depiction.json
+
+Package: lai28.choicy
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: 剑来
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/Choicy_1.5.deb
+Size: 179550
+MD5sum: 47c96481ad8e6e079e3daee8a46482a7
+SHA1: 75e4b7fb3a9fd6ef3e4590ecc16db0b9535cd522
+SHA256: 255c72b7bccfed3095c1fba303c3a5a721745860ef5049f0994bdf790ecb7eb2
+SHA512: 8c3206dfbb95fd5e227ee3fcd9c8a2b21902d84fa9ec87f2e6b280598e961e5e40643ad9e4bc81cb9a9cef2d4503b1a3c0d663b14e5cd11a8dfe7ea0a40cb91f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: 单独屏蔽应用插件注入
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.choicy/depiction.json
+
+Package: lai28.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.0.5.8
+Section: 系统增强
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/ClassicFolders 3_3.0.5.8.deb
+Size: 3283656
+MD5sum: 9ad68c81b6e5269c9f6e70de757d8581
+SHA1: b73e61faacc85ef890b61c71da21fcffc6a553f5
+SHA256: c2c5346abf5bbda861e91809719b985bcdfffe3c0e35dd0a95012832523bbb79
+SHA512: b07236d9aa60bf7a6c3695a2b52e86d651d0b6541e481aa0cce6b65e006d622139f914b32ea1d626ed9a1506a4afa515de9d872c5bc5921742abe677b84e9aae
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
+Name: ClassicFolders 3
+Author: CoolStar & Lizynz
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.classicfolders3/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.7.3
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5364
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/CopyVault(激活码版)_1.7.3.deb
+Size: 1678560
+MD5sum: a5ec978b6ea96efd5b210ed1d3e4fa88
+SHA1: 767415f5ec3e196c7e8c4b1a9dd362cf13748b7b
+SHA256: 84171ca670cd23c4bbfdb56064f7e74cfa1dec90da6c07d8e59e0ff93b53f304
+SHA512: d4b5732747f5cfba22ff55682818faad54a6bc1f41f78b828a7072ef22a04898b4c83ccf3f2bde6990204473d13d0a96fa6376252f1a0e1a19b97f6270f015a8
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.7.4
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5396
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/CopyVault(激活码版)_1.7.4.deb
+Size: 1689528
+MD5sum: 91a5510ac95356d424bf5ac277b3b695
+SHA1: 9e8e22462a197fbd861b38de4e7972068c5becb3
+SHA256: 8eb48fff57d3ed7b970534b8018f42d12067b36ca8c11a8e1c41f851828a97a3
+SHA512: 8a2117aa6e3be1e2217097399983d80dffbebe56b6753d1ffe728bc06b31edbcbb6266a28b01569557e34a7508a12a816baff41734e3f5b54d41113c3818c98a
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.7.5
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5344
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/CopyVault(激活码版)_1.7.5.deb
+Size: 1675268
+MD5sum: 0c6ce2641be09db9b470efc0ec712b09
+SHA1: fde27d9343d1c72ef39ac04a98cf84d4f86c2c2a
+SHA256: c73b709cbc0a171e643b81a2c3cfb1f243ce65f62564b1fd1b6cadedb0bf0311
+SHA512: c7eca2629831731b50432df48c1ba1514092ec4b1018a2baaef09a53bfa3500e2453ac616574c320b2d8c7b867aaddf3461a30268b3cd621b3a54b1407031ce9
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: lai28.dyyy
+Architecture: iphoneos-arm64
+Version: 1.7
+Priority: optional
+Section: 抖音增强
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.7.deb
+Size: 21898
+MD5sum: f2846649f59dcb6220ed8352ae31249d
+SHA1: 64586d829aaf2a90ac904288ebb734b9cf572d8f
+SHA256: c726b998c7c2bc34808bee7a73f1bc372e3e7b48971240a68db7537ad73de3b1
+SHA512: f47fae5b9040883e75bf84d558e4797f109ccee7cc8363d99345b41d334ab8a57532d9543a99923fed39d4f7e0fedd26be76034bf4a0c6fd6782c22f19b6581e
+Description: 仅供学习交流，请在24内小时内自觉删除
+Name: DYYY
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.dyyy/depiction.json
+
+Package: lai28.dyyy
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Priority: optional
+Section: 抖音增强
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.8.1.deb
+Size: 25748
+MD5sum: b5e9a43872cbe827deaecaf32580d05b
+SHA1: 3f548b68d5670f46e1b43cdbf0902f8cef35ab4b
+SHA256: 3eff0ab510cfcd87400ff27c534c1db1d6d3a503d390ec8dd7105be9b97abb3c
+SHA512: c564727c1c1e9156642b3e2a2d6378562cab3f41f7b82beb3db9800e47db0307dffefb3efc948af1e9275a817967fbd2193a35d3e997668d56a01130f385a0eb
+Description: 仅供学习交流，请在24内小时内自觉删除
+Name: DYYY
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.dyyy/depiction.json
+
+Package: lai28.DYYY
+Architecture: iphoneos-arm64
+Version: 1.8
+Priority: optional
+Section: 抖音增强
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.8.deb
+Size: 25644
+MD5sum: 2c41d1b2f4103778dbc0454181a50b04
+SHA1: 09aad742004cf3202b0a5775eabc69ab97f47b5e
+SHA256: 387813e433e8b5007ca1b27c5dc8c129723acb5ec9a61661e60299321e73c3db
+SHA512: 1dcd5828d546d8996544895d597cef355697964811064803a92f6d78c524b5c13c6f54a5a242b134c271a6fcb20b2856205cef0fe45c9c13ce53ee228d7fad53
+Description: 仅供学习交流，请在24内小时内自觉删除
+Name: DYYY
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.DYYY/depiction.json
+
+Package: lai28.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-9+1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.9-9+1.deb
+Size: 39894
+MD5sum: 5e6d5f0cd6d10d780a9122e81173a141
+SHA1: b9497136a911698dcf1f3923534106fc98de11ea
+SHA256: ecaac9f35dd1ffb52685c774eef585a3d35fbe53947388e36d95a975b2d9241c
+SHA512: fbbfbfafc239e50e874b93cbcecbe50707181f3d9ef245a00ecb3096bc8de962b3776fabf379acc9ce8169bdb037ec6ebe226adb63efde1c0ac769d779d8f915
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.dyyy/depiction.json
+
+Package: lai28.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-9
+Priority: optional
+Section: 抖音增强
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.9-9.deb
+Size: 40672
+MD5sum: d331e6701d77812f9023f96ab70e5e99
+SHA1: 82481181f5f831d0b6018a2e2ee311f2358f49d4
+SHA256: 62d775534136ac79dd53c29d560935f7473811b4f485915c45da29a4035ff057
+SHA512: c974090e5b2267fdbae410f57f38c084b01dfcd47af591f692f6b1d7d8019fb33decfb020eb32f120a409c902a81633e66c293bdb4a44faa0091d30d138465ea
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.dyyy/depiction.json
+
+Package: lai28.desktoplyrics
+Architecture: iphoneos-arm64
+Version: 0.3.9~b1
+Section: 系统增强
+Maintainer: 剑来
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/DesktopLyrics桌面歌词_0.3.9~b1.deb
+Size: 698434
+MD5sum: 03fc7bc9b3e4ceba4fc18388a8bfdbda
+SHA1: 0de4a522d48bd98491c162650f293076966209a3
+SHA256: ef595e5cfdc34b3ca2179ed78159be4ee413c58887a2cbada37731c9cc55d8b2
+SHA512: 4ecad1ecf3cc1299abcdd0d01848da0d24307e9523ff7216cfd0937f47cacdcdfe5ef6079fb48ad429951513f8ac0f83cb47a42754c6f97c2bdc73ae2ffad152
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify
+Name: DesktopLyrics桌面歌词
+Author: Brend0n
+Sponsor: 剑来
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.desktoplyrics/depiction.json
+
+Package: lai28.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.5-1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/DumpDecrypter_1.5-1.deb
+Size: 463334
+MD5sum: dbed51831c0881581e1d39e196d96e45
+SHA1: 9dd1878ce3c98fb90f15367645fcaf87ae991458
+SHA256: e1b9e7b77d31ecd007896f3fa78a1402f98fd08c5a0f2b8f5088bee91cd3a8ca
+SHA512: 7781bb9ab17b87a4bf68fafd253e4563ce1cf9af477f4e085e9baf3d21651b8e54e85c6c6b3e0e93b9f89d57e70ca0f259f82e2a4cbe9a61a2b728a1d39292f9
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Name: DumpDecrypter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.dumpdecrypter/depiction.json
+
+Package: lai28.fixsets
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 插件
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: ./debs/FixSet_1.1.deb
+Size: 41246
+MD5sum: e76750fbc32c5e4d8bb1cbd277c2a2f4
+SHA1: 8d32d366081dc5bd7d12271aac5048a8ca868e5a
+SHA256: 97d76776db362232fd398a68584ae40fa2770e2e3776137dec03eccb4f25fa96
+SHA512: 3a56a0b4bd89c8d93663b2757f18923c378a68c98c03c8f44efac164c60616eb7f90e22c3f889747f9cb808862a909d21e38b8b67b3d7c1c525149a3380bb7fa
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Name: FixSet
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.fixsets/depiction.json
+
+Package: lai28.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: 剑来
+Depends: mobilesubstrate
+Filename: ./debs/Griddy_1.0.5
+.deb
+Size: 19872
+MD5sum: 0de32482c4afbd2a447372790c8c4409
+SHA1: e5efffc1de23d3eda392b3a1b71222ba3532402e
+SHA256: db45dce90e65cb7f651faa7cfd676897af0bd12d04952d477d8a55b16ac1b047
+SHA512: 3439922ec4d301c741a71dc7a833e3f4dd5bda21064230469a30550e5c41872f2b759816ae51a1b897e4fc0cacc61310d3917c2c49a9061bf58c56f82ff2f5c2
+Description: 桌面图标小部件随意摆放
+Depiction: https://repo.cypwn.xyz/depiction/2928
+Name: Griddy
+Author: mikifp
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.griddy/depiction.json
+
+Package: com.jianlai82
+Architecture: iphoneos-arm64
+Version: 2.0.0-1
+Section: 系统增强
+Maintainer: sergy
+Installed-Size: 656
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/Immortalizer_2.0.0-1.deb
+Size: 47772
+MD5sum: 9930fab8b40033912466711214336054
+SHA1: a503e978599943fefe2824160c616ece52e605df
+SHA256: f5183a6e3b4374521697f9868cef6544b616ef0f8cdd07dcd8bf28448934eed0
+SHA512: 177f493b610a861f801a963e18578d926a2226c9456767f9cb8aeb8abd511c757a9f4d12cd244388a80b75588633e942db9ad4a869f07bc5874e4e83d70d8701
+Description: 可将应用置于前台，达到真后台效果；应用图标长按菜单开启或关闭
+Name: Immortalizer
+Author: sergy
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.jianlai82/depiction.json
+
+Package: jian.lai.jade
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: 系统增强
+Maintainer: 剑来
+Installed-Size: 1509
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Jade_1.0.3.deb
+Size: 340830
+MD5sum: f3ba6768b2f67dc4cea92fd62fbfbd22
+SHA1: b51eb4ab5ddc223f75921402935a942ebdf24f45
+SHA256: 2ceb122614ef2b50607aa31c01a41d266c011191ee5006913d35ddd182f56160
+SHA512: 197c41c31daffb80796da63cbf446bad07bf004c43fd40877040f8e367596560effacb5f456d2693558d32c1b7570980569ea048ab03f6e55d92c1b50d193349
+Description: Your control center, brought anew.
+Name: Jade
+Author: Nightwind and thetimeloop
+Sponsor: 剑来
+SileoDepiction: https://lai28.988456.xyz/depictions/native/jian.lai.jade/depiction.json
+
+Package: lai28.lockbuttonx
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 系统增强
+Maintainer: Nightwind
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: ./debs/LockButtonX-RootHide_0.0.1.deb
+Size: 25368
+MD5sum: 8e17c233c773f4509c59ec191aafd353
+SHA1: 7c71d09346b8bd4b69b9b99a5da39503abf57607
+SHA256: 64a3fd9569881c7999b8a77647afea976c8f2fc1ba04e41f347eb0948c5018f5
+SHA512: 29f17cb8ed4e0e2d2aaae3dc51e648e7ad279e7d8ea1a9aff62510a84309a72eb030c22200310f958dadabe458b83940b243f89bea03a78be1adc9946fd025ec
+Description: 将长按电源键呼出Siri改回电源菜单，无设置，安装生效。
+Name: LockButtonX(RootHide)
+Author: Nightwind
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.lockbuttonx/depiction.json
+
+Package: com.ketty.meowtimemachine
+Architecture: iphoneos-arm64
+Version: 0.0.1-106+debug
+Section: Utilities
+Maintainer: 预言小猫
+Installed-Size: 6912
+Depends: firmware (>= 14.0)
+Filename: ./debs/MeowTimeMachine_0.0.1-106+debug.deb
+Size: 2540980
+MD5sum: 7b06c802554e1724fd39b9b5aa096e7e
+SHA1: ad444a10d2cc7d478497edaad24c3907fc676095
+SHA256: de338f564240a28c0d7e0bbf16f5cf09871119b7d006f7b2de6f9018265dc9e3
+SHA512: 34710d1b034f4326945bfb227d8f12b6b7e44c7dc2cf75ac940870f61f4d6cb5594df682ff251ea338aa9ce2dac020e946c9758e460bf85dd9fdd7210b78350f
+Description: An awesome SwiftUI application!
+Name: MeowTimeMachine
+Author: 预言小猫
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.ketty.meowtimemachine/depiction.json
+
+Package: lai28.MikotoHelper
+Architecture: iphoneos-arm64
+Version: 1.3.6
+Priority: optional
+Essential: no
+Section: 微信增强
+Maintainer: Mikoto
+Provides: MikotoHelper
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Filename: ./debs/MikotoHelper_Rootless.deb
+Size: 24082802
+MD5sum: 7afade55cdd5d32b0d7e2f312fbc15c8
+SHA1: ed5897c8494e47a9dd8d7d93457425265bee7d6b
+SHA256: a09466bdc46a91c807d3aca942696098bd6f8d0080563e00c7ef17c7ea98b713
+SHA512: f7c0a5f597e723f647225faa998292d42074a4f9d30d4d38d5b871ac5706a9d942202bc3a3e439acecc30706a12da0128d86bb88dc7a814c8a459ae9205b5211
+Description: MikotoHelper
+Name: MikotoHelper
+Author: Mikoto
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.MikotoHelper/depiction.json
+
+Package: MisakaHelper
+Architecture: iphoneos-arm64
+Version: 2.1-0
+Priority: optional
+Essential: no
+Section: 微信增强
+Maintainer: Misaka
+Provides: MisakaHelper
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: ./debs/MisakaHelper_2.1-0.deb
+Size: 15418848
+MD5sum: a99a34a5962443610617a5886c4f1cf4
+SHA1: 3028f69af3bfbff15c58a7eadf22faeff8c607d7
+SHA256: c63bbd2ceced2bf00807169ee5b7760bfdd0f5f649443cae121258a520f7066d
+SHA512: b44580c0d06bd6dc0da8be7e9f4e2bf5d28ae2034810f170ca998d23cf2b500884122dc3067caffac63e339174ee28b137d19d38138e0699a7b8255f7f0c8d4e
+Description: MisakaHelper
+Name: MisakaHelper
+Author: Misaka
+SileoDepiction: https://lai28.988456.xyz/depictions/native/MisakaHelper/depiction.json
+
+Package: lai28.pkc
+Architecture: iphoneos-arm64
+Version: 0.6-7
+Priority: optional
+Section: 微信增强
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/PKC_无根_0.6-7.deb
+Size: 774964
+MD5sum: c06039a26c1703f66a78c1a6ef6ed880
+SHA1: fc97b2c8094b4ba0b4f3ad5f51796fcd81dbe997
+SHA256: 2f876d937cb775a7fbb2ba569813b7aa42148ae661b105babd9823c32eac4c8d
+SHA512: 18f329ff67b7de893f88056fc627d13cadda50f17b3ebdc78661203b3997591037d347a3976303428dffa7582e204484622415e97288d1970ae40499eaa20ffb
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Name: PKC_无根
+Author: Curtin
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.pkc/depiction.json
+
+Package: lai28.pkc
+Architecture: iphoneos-arm64
+Version: 0.6-8
+Priority: optional
+Section: 微信增强
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/PKC_无根_0.6-8.deb
+Size: 912724
+MD5sum: 657ae5a6f579e61a4507de43e8c942dc
+SHA1: b3cd1ac5ba508af8674dffb633f895850a2ba389
+SHA256: 910aaec0698e17ef0569171e81da214d702ab730aee32bbd03fc5535da0b9cbb
+SHA512: c2d5a8b478794ab6c28e9ad4069f3375827656b68e62afc640a4cff858a8d752b87bc325545b2e9f3d95f5b2463e3f5216f22f669d63fc9568376d63e5c7f399
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Name: PKC_无根
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.pkc/depiction.json
+
+Package: com.teslaman3092.popoutbuttons
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: 系统增强
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/PopOutButtons_1.0.1.deb
+Size: 62070
+MD5sum: f960c46d2926408b9e89da24d65ff7e4
+SHA1: 8435a8cb154f5aa9ac203566554eb72820f1fc15
+SHA256: d8e706d585d4b3aa16598a4e2b63a8bf1a265ae7342f7050a1597298f3ca92a6
+SHA512: da3a4802fc986c834c99b2340d5fae6bbd0a12ece3e76d4244182c84af92aa52af1b512a745a2e08a7a7f688c1df87c695f6fe6bbd322c33ab75e5d4293482d0
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Name: PopOutButtons
+Depiction: https://chariz.com/get/popoutbuttons
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
+
+Package: lai28.qqavatarrotation
+Architecture: iphoneos-arm64
+Version: 1.1.0-1
+Section: 应用增强
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/QQAvatarRotation_1.1.0-1.deb
+Size: 3720
+MD5sum: 4bf3aa22da69c9b38bcae23c56e69529
+SHA1: a2f484ed50cc5146ea90748e7d255b4fd1b491f6
+SHA256: 8cae83b49fbc3d21ff7b6ff0424a5f7f5ab8efbcdc21216de27ff568af77eb11
+SHA512: a81bc76528eefa4e89b134f4598cded17d615d5d8bd0101e44771832cfa294f0552e6ee564c8892dc74b7d18ab76ca22d0b75405e39e119043ff9c8129b2e51c
+Description: QQ头像瞎季伯转，仅在9.1.25版本上测试。
+Name: QQAvatarRotation
+Author: SINI
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.qqavatarrotation/depiction.json
+
+Package: lai28.qqhook
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: 应用增强
+Maintainer: x✨
+Installed-Size: 2560
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/QQ·TIM 新版防撤回_1.1.2.deb
+Size: 757544
+MD5sum: 31bcdff5bc2f19c791d11349bebfb17c
+SHA1: bd6dd81e1252e36d5508be5f17f381b574191433
+SHA256: 1127b6f51ea2a71093f16c0df80b4d63c72bfeef3db17c887db31c6a6bf447a0
+SHA512: 82f8ae4176f0477766abb5f839ab16a26fb488e1da76b83e2d7a7a5677bcb6171e39e05539cb737fababea7e227dd157c3cd7c6bea5bb3c1024a8ab17aa59dd1
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
+Name: QQ·TIM 新版防撤回
+Author: x✨
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.qqhook/depiction.json
+
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: 应用增强
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/RateBeGone_0.0.1.deb
+Size: 3286
+MD5sum: 18b7fa2687751b5606be14fec0f38932
+SHA1: 05a4d1cf17c5700283d91254d6d3b413d00bdf01
+SHA256: 99b29df862d7a73ddc4f6f9865da73832ded6f50041163b6b3a943ceb35a0380
+SHA512: c0c7656cfed2427547f015acf6a5fd886ca50ce929764b5b2a04d4df2e65778951783dc118fd7d4489405cde575c5f66bf51f163b825a9052d1808460a99c48d
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.dvntm.ratebegone/depiction.json
+
+Package: lai28.replyactions
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: 剑来
+Installed-Size: 840
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/ReplyActions_1.0.3.deb
+Size: 150234
+MD5sum: 98065dc842c8f27399c4ffc990c07776
+SHA1: c42ff928a6e717c1c828b95e715d5737b3448f34
+SHA256: 70acdf93ff304f13992ccb795197880b646afaf1587a402c30aa2d24f0bf2f72
+SHA512: d7d9f558c09e67deca4abc58997c3a48220eb8435fa4395f436a5e7e1b5ca77d3a18c4c271f0509de1cc270de0f31f47f93ab365ca5d88ec6ce56a196ed511e1
+Description: Send message the easy way
+Depiction: 以弹窗方式来回复信息
+Name: ReplyActions
+Author: sergy
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.replyactions/depiction.json
+
+Package: lai28.replyactions
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: 剑来
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/ReplyActions_2.0.0
+.deb
+Size: 161360
+MD5sum: d8d2b6b584e764619c61f07c62311f07
+SHA1: 1b766d71880bb364aa81705ff989d47e54faadb1
+SHA256: c00eac7a0be4b0f62c20e7cab2381cef5f79f5e6b8f4b9ba6f7690f43a89dcba
+SHA512: 43f74ce844c7c70b21e4c797dec9fb0b4aeef717330a2fd6fba6526e30e334c64a2cd583cd0eb7b403f1932acdc6484cef27a0951088df14ca523df6b4b72539
+Description: Send message the easy way
+Depiction: 以弹窗方式来回复信息
+Name: ReplyActions
+Author: sergy
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.replyactions/depiction.json
+
+Package: lai28.safarixhook
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/SafariXHook_1.0.0.deb
+Size: 11332
+MD5sum: bc100fa8a96587d98336c15650df2a5d
+SHA1: 6b538435bb78c52ef67c0aa93098d5a191c88bce
+SHA256: c1864e810d95121cdf884046abc78b693583d7dc1951cbbc760e33effe34ac87
+SHA512: a571cc03879e0f7b6621987709c80b66beeb473a14044f13b19a5afe3732c918535721d9b928174a8ef97967363e6ac6d7c3580725e6bfcb736799d18f211d8e
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.safarixhook/depiction.json
+
+Package: lai28.Safarix
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Safarix游览器增强_1.9.2.deb
+Size: 301160
+MD5sum: bdf7e8c24e46d632acc8839c4753a880
+SHA1: 557b7fd22716eccad978e97a56b6f32cc655325d
+SHA256: 3c1aae9baa05623a6e8028ff2aefeace0d08728369167b6bc1c7c8eebf3c7835
+SHA512: 33098baeaba9abd4d48438c480129ed195db194d5a31c6d5cdc9cf238902060cb6661e2d69d89b718f0da3687412cde572021281aa648a0bd8321d3cee7cf458
+Description: Safari Essential Features
+Author: 0xkuj
+Name: Safarix游览器增强
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.Safarix/depiction.json
+
+Package: lai28.safarix.cn
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Section: 简体汉化
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Safarix简体中文包_1.9.2.deb
+Size: 9194
+MD5sum: f4f377ec7d0e486f0651d85268fa3a8e
+SHA1: 6e475f693c9cfc7b1451b887a79d3ff6af47815d
+SHA256: 804657109c425c6d28922e7f0d285e000a40c8d9bb41d6abdb2cbebda76c1740
+SHA512: 85cc454d2a5225a5e026132e5fcb188fe04915dccf21b84ea31cc74593542541c72db7f0add2c96e212c19954932d4a0fd696047951e8318d3fab2c8bdd45b7c
+Description: SafariX 简体中文包，刀刀汉化。
+Name: Safarix简体中文包
+Author: 妖刀
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.safarix.cn/depiction.json
+
+Package: lai28.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: 系统增强
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ShowMyTouches_1.2.1.deb
+Size: 85736
+MD5sum: 7ad00167d104cb08a4a029c60129de93
+SHA1: 24a8aa2d02feeee4abd2b9cb0a9cdeba6734aacd
+SHA256: 86f328894af6b83a4aa8666223463d786196196f9b6ee93a3935107c1c9dcc89
+SHA512: 8027dfaa79fcbbaa12a4b33259bd8bc8224750c85d229ced85264c0627aecf476e065bcadf7fc071a671fd5a15cf3faf8cfd66357080d9817929b417d86b5b56
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Name: ShowMyTouches
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.showmytouches/depiction.json
+Author: dvntm & SINI
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.4.9+2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10980
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/SquidExtender(激活码版)_3.4.9+2.deb
+Size: 2530860
+MD5sum: 8b4ac25bf7a23bfd40fbabd54814744f
+SHA1: a7b0e94028564c8e9606051cc747d9a7193e1f9d
+SHA256: d3927b87037d3246e36cb6fb33a667842bba7ff8192c87101959d87e44d0661d
+SHA512: 75a22737793c69d7800fae1e5e76961dea99fec8e2fe15b848a2a3e8c7e0046fa0916b4edeabcb36a2e0e2323164ca606643c1c51c106fe2675b8b0bbfda0ba5
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.4.9+3
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10916
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/SquidExtender(激活码版)_3.4.9+3.deb
+Size: 2519152
+MD5sum: c756cc06619cd026902779f2c3a71c9a
+SHA1: 1121b0dccd7390e0e6b10454ed0eedad9298d204
+SHA256: d6bdd77ac01fc466c0e6549339375d68383bdac006cb05e2fdd4b5a87e2d50af
+SHA512: bd70a2906ced6d79f31132841b555216da782345e7f066e2d0f158ab73363447cd2f0d13cd2ab8d5559e8e5a5aca3a27787f593271c08e57b9be316b480bb356
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.4.9
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10964
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/SquidExtender(激活码版)_3.4.9.deb
+Size: 2552532
+MD5sum: 08ba8c4f79a97df131b667831fdb1274
+SHA1: a0ca8b2d080c9dfb975d057b0de6eedffd34c9e1
+SHA256: cef886574660451fcf6acd596382daf6683c10a159a1e9da6963e7a79c639499
+SHA512: 21d3e91cee139e05d0d57308e61d0bd6e83684ba394b6b5cc4fd0d2c504921fc1100f8d6191c5e8ae94e83d0c044550f9342e763b5f1cb10ef1f8710834856ab
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lai28.988456.xyz/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: lai28.stella
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 系统增强
+Maintainer: yan
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/Stella_1.1.deb
+Size: 350180
+MD5sum: d9f7a2d3f1641d879ed56fdf07f054a5
+SHA1: 83b3fb896e4ab00129971d332d4513a088c2db02
+SHA256: d03350bc21c584fac47f5f2f1c0c41fc3ab431644bbb70d54b679605d7df6adb
+SHA512: a321f95bdb16a29fe76dd8a3e14334c89ed5983420c491e2c8ab16718cac67c7a3f3f837ceff30e604b79253d601536b174bee7e4a7f069521059fa9f9431fce
+Description: Let it snow on your device!
+Name: Stella
+Author: yan
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.stella/depiction.json
+
+Package: com.nahtedetihw.stepup
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./debs/StepUp_1.2.deb
+Size: 45314
+MD5sum: 171fd1a2592f2cc790b533008d962583
+SHA1: c157c6bf9d2b1daf5d885169bad10d6022e7546e
+SHA256: 5f0d9635d506d16ee6705c58a280b7722c76421563a4276e85afdbf22866869e
+SHA512: 671e9bcfa902a2871bdc14bc790917fbe0fabbe5d661d89a26cdf5f2ff8e5c2f0a88778cae9f9462805f86f284a3bf68b593a8522a4aa446f458dfbd3eb34f52
+Homepage: https://nahtedetihw.github.io
+Description: Change the amount of steps for volume!
+Tag: role::enduser
+Name: StepUp
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.stepup-rootless.html
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.nahtedetihw.stepup/depiction.json
+ModernDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.stepup-rootless.json
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.pxx917144686.surge
+Architecture: iphoneos-arm64e
+Version: 0.5
+Section: 应用增强
+Maintainer: Nets
+Installed-Size: 268
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/Surge-RootHide_0.5.deb
+Size: 32402
+MD5sum: 35de4326c1033dbb4a4eeea5868adbba
+SHA1: 5ee9965da75ac48135aa16a7842e8c635066a722
+SHA256: 97f170dbd2e4d53d418f28bd7fd7e217cc1c2282adf962892588d2d7e71ea9c1
+SHA512: cccb2f0aa43284e411907b5170c7628b7a149e71966d43c42917313a4d6ad4f182ebaeb67c4392896c7cd4d389e27a095a13bf37d039ad636746f1a040fa0dea
+Description: 修复 “已知问题” —> Surge 全部版本
+Name: Surge（RootHide）
+Author: pxx917144686
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.pxx917144686.surge/depiction.json
+
+Package: com.pxx917144686.surge
+Architecture: iphoneos-arm64
+Version: 0.5
+Section: 应用增强
+Maintainer: Nets
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/Surge_0.5.deb
+Size: 31640
+MD5sum: db29d47e247b1f94078715b9ef4809c5
+SHA1: f6abf5e97503ed9381dc412f2327729129e78ec3
+SHA256: 89b1688d895ffe72dfc7a990861b86875774b4a5a3f705fdad8d6b3853286c2a
+SHA512: 8e597fb0d662a56e6be38dcd9117c619fc4574c4c6187d3396807cb2ebed5cecde145751edeea3ea6ba8e77c9852591bcfb7ad61db0745641b03d9c21a89cb79
+Description: 修复 “已知问题” —> Surge 全部版本
+Name: Surge++
+Author: pxx917144686
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.pxx917144686.surge/depiction.json
+
+Package: lai28.themepro
+Architecture: iphoneos-arm64
+Version: 3.4.4
+Priority: optional
+Essential: no
+Section: 微信增强
+Maintainer: MustangYM <MustangYM@yeah.net>
+Provides: ThemePro
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/ThemePro-3.4.4-Rootless_3.4.4.deb
+Size: 7139320
+MD5sum: 603cf81811180fb111ec875f9881a329
+SHA1: 3dc7ec1aed2c1f37ab83cccfe758e83790500179
+SHA256: c3d707918eb686f1e62b40e6150e8b69bdaccc26a9cedc68772a8227ce41c9f9
+SHA512: e835bbfdb3ab4184dee6a8a9252ce0d8f6c29485b2b767cd3fe578e268403bc0bd994263e338c7cc2475dbc6db51c2ac6c0cde4ad52b821a24b50ea57144c18a
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Name: ThemePro-3.4.4-Rootless
+Author: MustangYM
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themepro/depiction.json
+
+Package: lai28.themepro
+Architecture: iphoneos-arm64
+Version: 3.5.7
+Section: 微信增强
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: themepro
+Replaces: themepro
+Filename: ./debs/ThemePro-3.5.7-Rootless_3.5.7.deb
+Size: 5683028
+MD5sum: 8777fafb7018863f1f15b7e193807dfc
+SHA1: 762be0eddb327cf859f1f675a239a4da95ecd077
+SHA256: 6687a1e502a19ad10ce395f6497692034b8cfd39001fe2341528e95db31d072e
+SHA512: e193d9859ca9485ff4558f2c99b92dc788b9d1cd161e94b182114229d127019139f765ec53bd3a0fd0d1719f1bdc0f5b77eaebf6cb2676259359cbf153658954
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Name: ThemePro-3.5.7-Rootless
+Author: MustangYM <mm13299079785@gmail.com>
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themepro/depiction.json
+
+Package: lai28.wbnoads
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/WBNoAds_1.0.1.deb
+Size: 3454
+MD5sum: 1e044b67d35b81c3955675cc13a329cb
+SHA1: 9d76fc360c008a8d10f773e8cb784fa3afe9cb01
+SHA256: 1bfc7276a27e0b8d7455aea1ce6d5ebe6edcafd8da5579ebf832a31e5cb351b6
+SHA512: 663d2b5bd96ced10c9f7e19f3a06a62acbe282b510c5816e939c10355c71449024e872c8a566ecb008e33fbcff9f40a96b31e4628ea39fe7cc9bd101a8c5100b
+Description: Give you a pure Weibo
+Name: WBNoAds
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wbnoads/depiction.json
+
+Package: lai28.wcaddborders
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: 微信增强
+Maintainer: TiaoTiao
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/WCAddBorders_1.2.deb
+Size: 8820
+MD5sum: 79761a135983e9a36a2ab271fd542642
+SHA1: 660ce48d7fab3b2112a8c88ec19ab5a965bbb09d
+SHA256: f505a3d1938c79463013172ad657499016ddedab477b72d882c3ed7db428a4e5
+SHA512: e8650e4ee221fcc1b1720613ced0fe567908955b2cc59b25754bb511fd5113cb8cfac86540e30382acf183fa5960b61e108e811374f3baf671af9e0f0a5c6fae
+Description: 为微信长按菜单和输入框添加边框, 自定义边框色值需要在weui_color_new.xml中按对应格式添加MenuBorderColor和InputBorderColor
+Name: WCAddBorders
+Author: TiaoTiao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcaddborders/depiction.json
+
+Package: lai28.WCAtpure
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 微信增强
+Maintainer: huami
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/WCAtPure_1.0.0.deb
+Size: 85524
+MD5sum: dfc12aee37e4fb4fa0ac66c8ab0f9efc
+SHA1: d3fd7f7b6dadc5e1f4594ea945d89b75f658f1e6
+SHA256: 80930a02e497defbbec2dc695244098404e3fc0b08d018397acebfe4eec9b6eb
+SHA512: 8776415e7a8dfe66d521dff2b687e9e3fff07c9e062c43155b5cc84e57242bffe5507d8c9831787bec433fe8aa6a71cd5ac5a0d2ad7e781bee667490f181ebe2
+Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
+Author: huami
+dev: huami
+Name: WCAtPure
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.WCAtpure/depiction.json
+
+Package: lai28.wcenablecleanorigmsg
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Section: 微信增强
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WCEnableCleanOrigMsg_1.0-2.deb
+Size: 3022
+MD5sum: f4637fccfb2341f10c4647f693583034
+SHA1: a61c458f9186571b366a7caa8af108fa5eaecbbb
+SHA256: 2618d075ce677508fb45a015945920df72442750dcd8888cf8666b22d70a2e2c
+SHA512: 400ac4c6946abc079cfe2eee03fcf38b0944eebe61cd2a885c6e420cca1557d76366f0dd8f15582c27f108f634f81a3f8b4c88f781428c1aa636d7767fcc630c
+Description: 强开 原图、原视频14天后自动清理功能，仅在微信8.0.54+生效
+Name: WCEnableCleanOrigMsg
+Author: huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcenablecleanorigmsg/depiction.json
+
+Package: lai28.wcenablemomentslivephoto
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 微信增强
+Maintainer: 怡点日常
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCEnableMomentsLivePhoto_1.1-2.deb
+Size: 14318
+MD5sum: 2ce0962315a2c5ef66a194ac421970b3
+SHA1: f0d8c351f900c8aa00fe3f361bd8a6e508376f20
+SHA256: d0cbb7507622f9f9516d7c8f777aba8c3864e03523c84e9b66319ed0836da2be
+SHA512: 5a5e17baf2ef9aa46a69e430a8f0f051f71a127e90a36daad0f18fe109c6b03c9d0190c9c60f7c06d621c970f15b089decfaf88179327d2b536a098c958e410d
+Description: WeChat Enable Testing Moments Live Photo v8.0.51+
+Name: WCEnableMomentsLivePhoto
+Author: 怡点日常
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcenablemomentslivephoto/depiction.json
+
+Package: lai28.wcenableshowcontactaddcreatetime
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 微信增强
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCEnableShowContactAddCreateTime_1.1-1.deb
+Size: 4028
+MD5sum: e2e3fa6c6c64ed42b00bc3b2cb834cd1
+SHA1: 9802d350f61c2f02216b3b0e4184e707eb380956
+SHA256: d830d13fbc1742ea450575e738e9bc187baf4cbe73cb4f2fbe2d51e1ab25ae84
+SHA512: 31ea7a3685cab746ca54868d2f293d766f2db65933b462820dcdb09ab9182918fa72ff93fc6c14b050ff781c9b14e4d816de5aa85624b86505afcc42084c2e05
+Description: WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Name: WCEnableShowContactAddCreateTime
+Author: INITNIL
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcenableshowcontactaddcreatetime/depiction.json
+
+Package: lai28.wchidechatavatars
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCHideChatAvatars_1.1-1.deb
+Size: 2228
+MD5sum: e4ab95ee992066b1fdf9b9b730e43534
+SHA1: cc93615f491865f24d955a5eea2b5ce06453354f
+SHA256: 199cbc7b3f965ec19954e29b7636b8c07c5b5b3aa3e0c4864d0e5aad937a05f9
+SHA512: ed54c2281a4090e983ae97978582581be3df85fb1bc49eadd0c969ef1d38d8518103c117c8bb12eb535304aacaf1b2c66de26d23daee4ff9634de99ef1a5e0a6
+Description: WeChat Hide Chat Avatars
+Name: WCHideChatAvatars
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wchidechatavatars/depiction.json
+
+Package: lai28.wcisoverseauser
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCIsOverSeaUser_1.1-1.deb
+Size: 2178
+MD5sum: 23e7e10cc37b63e949b7a9c12c574366
+SHA1: ed6ca15f05180738ca478660d867279abf907f65
+SHA256: 377acc0f050de2d428b0278c08edabdf2704e5ba14476c86a614c680c07922bb
+SHA512: 96d335b99db579a28e5f2322751196c9d275188ce9a329beac8a980cbb6e69dec84c56d7ca8117e209f9802ca6d3f5531a891d2077897c6c6e62c383f22f299b
+Description: 强开通行密钥，仅在微信8.0.54+生效
+Name: WCIsOverSeaUser
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcisoverseauser/depiction.json
+
+Package: lai28.wcmypageinfocenter
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCMyPageInfoCenter_1.1-2.deb
+Size: 34172
+MD5sum: e9855273ce05dbcdaeb4f35fed301031
+SHA1: 7f495b04f26c2cfa2c650e361f7177e75245f247
+SHA256: d093b70af6cda006ec22e0c0caa07de6c409d04f121374f877508473ea8f7748
+SHA512: 155de1d7ffea0f43a790f8be651a583fd239505653e292174f7f9bbfa48d954064c113a8edf7bc8260953fa6b4b6cb19a2dae1bbd61ceb8f935de7f3fb246bd6
+Description: 微信我的页面信息居中，仅支持8.0.51及以上版本
+Name: WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcmypageinfocenter/depiction.json
+
+Package: lai28.wcmypageinfocenter
+Architecture: iphoneos-arm64
+Version: 1.1-5
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCMyPageInfoCenter_1.1-5.deb
+Size: 51720
+MD5sum: c8442d05e18102cbe0342ffbe5b74bce
+SHA1: d490ebd07e90fc2b0886a2dac041a0d70ded95e9
+SHA256: b2bd3ab56005d37c3504efe96a9875b7607daa7dc7c703f898efc955de172158
+SHA512: d6d403d850ee8aad526da296776105256a153989f4ec5c3c935eb94b351853b14580eb7e014d8c684a5987349ece2a30fae6bc4217757ec4550754f7c9c791be
+Description: WeChat My Page Info Center, Supported only for version 8.0.51 and above
+Name: WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcmypageinfocenter/depiction.json
+
+Package: lai28.wcmypageinfocenter
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/WCMyPageInfoCenter_1.1-6.deb
+Size: 53100
+MD5sum: 8f6a8103efffc5b4592459c785effe76
+SHA1: b7df99ae680d12cbb36b0a913eeba6180e37f951
+SHA256: b8cc5f539c5a9fc17cb735451400cb3b5ce1b1d3a9b7b5d475c1d8fae119dd76
+SHA512: 36b6db1d80aa4a4921bcfbda62ed08e32d44cb47adb7f3b358b82824055b2e235cb63125d1d1d5a1b69f628265aa0a4c6d8f92166235361daedc175dc7906c48
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Name: WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcmypageinfocenter/depiction.json
+
+Package: lai28.wcmypageinfocenter
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/WCMyPageInfoCenter_1.1-7.deb
+Size: 52640
+MD5sum: 8a67c0285ab76a72e6879414a81c711b
+SHA1: 7adbc4caded2a604a605f52ddd3cfba06c9f10d0
+SHA256: 1993890a3f86ddd6575194c99102610b24cc09fc1041b22ef23c4cf3fb66f413
+SHA512: 88687b10072f437d47466eeb18d9805664dd00b743b5a9fdc100cfaf5b6445ddb1d954e86ffc73252cd710d41368b7f51c269536eef50fabdf5a366aacd0e300
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Name: WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcmypageinfocenter/depiction.json
+
+Package: lai28.wcmypageinfocenter
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/WCMyPageInfoCenter_1.1-8.deb
+Size: 65252
+MD5sum: e5439f4c042cd6a7a0ed266f29a945b8
+SHA1: 6cb2a7a65c4af242cee6d37b2ce7818117fc05ce
+SHA256: fa263d73d484c37d8ae67cadd1a0d60011e219c6f1403f6d8a063d17bf902e0d
+SHA512: e0a04023c95a62e9fd19a5583d76b3c6538f7f32b4b16153806e038fc41c083ea4128aad90f0de351398915f9cc6c124317b9c6f93177183bb5afa0f0287c1da
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Name: WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcmypageinfocenter/depiction.json
+
+Package: lai28.wcnewminiappfloatingwindow
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WCNewMiniAppFloatingWindow_1.1-1.deb
+Size: 2210
+MD5sum: 24206bdcf3977af79e562ef2414d144b
+SHA1: 6394bdecde7068cd48e759fdfe653bac20fba812
+SHA256: 2158a21e8fc7d439bfaa644b04b6153985f33acd54627417876b3550cf6ea591
+SHA512: f9aca3d0d0a63dd2d8cb0f6d30407af8ea5b010a290167d8ac1f650e5e5bb3ec9f8f871a3675c786e8ffee6dccb464879288337c98889f14782bd95d4c8f9304
+Description: 强开小程序悬浮窗，仅在微信8.0.54+生效
+Name: WCNewMiniAppFloatingWindow
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcnewminiappfloatingwindow/depiction.json
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: 微信增强
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WCNicknameAvatarStyle_1.0-5.deb
+Size: 42742
+MD5sum: a6388635ff2338301ff0d967888275c1
+SHA1: a98231b1894616426f3a27fe7a11417b719501dc
+SHA256: d88129b4318b8c7a1dd54cd9d41f42a129f8531f37d22c3fb7aebd9c71d3bb57
+SHA512: fa82d7b7853804778167a1afc53b736fff1fbbef66ee624af08d6fc12c011eed22e8d613d75fbaf445cd6ee94c37721df8c7568b6e329c050de04de88e2d0b38
+Description: 自定义微信聊天界面顶栏元素
+Name: WCNicknameAvatarStyle
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/depiction.json
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-6
+Section: 微信增强
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WCNicknameAvatarStyle_1.0-6.deb
+Size: 45988
+MD5sum: 68841470c3020d6413f375db9796ae5d
+SHA1: 8ccf6d7ec874275015b3bd3ddeee378a50ab6818
+SHA256: e063e9db77154d40ffcb25f8daaf1e3e7f018ecbfdb6d3af5b4987229a16b83c
+SHA512: 23a279670034f09b8e77393b71c8ff8ea6b743513097dc84d9394296de64b6108c591ad08c93458abc6c273c7558919c3d4c4f6305051d09036c1af44d557b3e
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/depiction.json
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-8
+Section: 微信增强
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WCNicknameAvatarStyle_1.0-8.deb
+Size: 52380
+MD5sum: 762289a862bd5cfa2d98bc0c1f34e121
+SHA1: 651ffa760eca3ea34bcc671f3640513855cd8409
+SHA256: e5e06928e6ee98003b23d0d257a10af710bc61fd01fccf0931ad1d6a7291c67b
+SHA512: 3f618d83c240ff3b5ae44995ff2ffdc879b580a0b63017819147a4ea2bf9ffe2c88d55d777e4b0dc6053c59c7d6bce326af80a4f236fcb19a9ced552877a218a
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/depiction.json
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 2.0-1
+Section: 微信增强
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WCNicknameAvatarStyle_2.0-1.deb
+Size: 52540
+MD5sum: b8d69e4c0eb52b245a685917092f66a2
+SHA1: 7beb4630a517d41563e9c92b84ec6d0565900726
+SHA256: dd8f044d78834dba46ba3e9e8e693a9cd1312f7527d7c268a3f513835e1da63d
+SHA512: b6ea630b17393388176bf886c47301b733fca2ab88b88c940ec0e4e58706fa40051c6bc86b08e9832c40a80fc3481c691b623c5093a1b9e631ce391bafe985ad
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/depiction.json
+
+Package: lai28.wechatnotiavatar
+Architecture: iphoneos-arm64
+Version: 1.2-5
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/WeChatNotiAvatar_1.2-5.deb
+Size: 623766
+MD5sum: 3903fd22ddf39ab64b0c38c02d0ace7e
+SHA1: a4b12025e218e45c99f0982fd147e1b3d72ed676
+SHA256: 2b57fe1e3ba34001f4f9b3ac3c3b5ba461382bb0f95b8b29113ececfd7ded74a
+SHA512: cf4cf53269ef7237cf3e4a3d24afa17be796ac190a04efff3fa3a3c07679381037fedfdb1a4d3b3fa7ed3fef5feae154a4af92876992b81855cced7409c2bfd6
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Name: WeChatNotiAvatar
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wechatnotiavatar/depiction.json
+
+Package: lai28.wechatuiswitchloader
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/WeChatUISwitchLoader_1.1-3.deb
+Size: 99698
+MD5sum: 87dcf75a56a7305ea1becb846f5974e8
+SHA1: 2e074a712f3174313a37f84c9dd18fd213cf5474
+SHA256: 833b595c5ffd0159604de2bc5e430751fa9577805394915a299b7e044921788f
+SHA512: 68489d0d477d79529d0dcda9dcee626df84f770af8bcabbcf079c9a057c3099dc3ce6542a394ac92450db4d6614b97f47b4236de7a7568d53bfbffff4adc0282
+Description: 微信开关UI美化
+Name: WeChatUISwitchLoader
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wechatuiswitchloader/depiction.json
+
+Package: lai28.wechatuiswitchloader
+Architecture: iphoneos-arm64
+Version: 1.1-4
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/WeChatUISwitchLoader_1.1-4.deb
+Size: 121028
+MD5sum: 686bdca62b7660501baf8f0dfb3a485f
+SHA1: 13fcb78afcb06b18156deb64519520a371964e9c
+SHA256: 61bc5886bf01259dc7241dd46385002d96da62d5104f741e2d3e23ec2dc0303b
+SHA512: c412f86a7eb4e5bd1ba8143690a59d27312cd4ef2ac0cae896bcd402739908cdc55c6ae758fc11fbd1e883c331cf28decbc2fbf0ced65329031114cc0f93c1d6
+Description: WeChat UISwitch Loader
+Name: WeChatUISwitchLoader
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wechatuiswitchloader/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.5.1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10916
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/cn.octoforce.squidextender_3.5.1_iphoneos-arm64.deb
+Size: 2522390
+MD5sum: 60ae8c20b4b803bb6d23d69896d7f051
+SHA1: b65a93da5a73652bd86be5300c685cd16d285281
+SHA256: 2be1ac9f52d6fa9c0b32f79c4f3c3233e224568d1b657178a6e64a321656943c
+SHA512: 946d491ab29946e60c45ed11d0a98f0e1255316123825f30960053a495b94ba557502a07d104c2b11eed1757b74cce1b7adb18731081d46f23d0f11e3fc18f33
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: lai28.debdse
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: 脚本配置
+Maintainer: 剑来
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/debd-SE便捷脚本_0.1.deb
+Size: 1430
+MD5sum: eaefdd139e7d4109e4de33b21d51a3ad
+SHA1: c397971d8846f815a1e77e53a203e551f0c62c42
+SHA256: d66c224ada67c1daa5026adb63d7f56c9c0b113a10d177d04f4565fbcea7e43d
+SHA512: 68c7922253dddb2c0c502767d8de862609a7a75d38eca94c751b09f45714d341d88aac7321712accb4aa19d2f788d89a68874b65d18b67e3bc575e814da66893
+Description: 下载后自行去目录/var/mobile/Documents/debd.txt 复制脚本内容到乌贼的SE 键盘脚本功能上添加
+Name: debd-SE便捷脚本
+Author: 剑来
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.debdse/depiction.json
+
+Package: lai28.debdse
+Architecture: iphoneos-arm64
+Version: 0.2
+Section: 脚本配置
+Maintainer: 剑来
+Filename: ./debs/debd-SE便捷脚本_0.2.deb
+Size: 1348
+MD5sum: 1c8ced76d09ac6ec30fc6a6e02fed6ce
+SHA1: 9cc1f6dc0f8503d4deb7b06b4743d5e75d1b3346
+SHA256: a05796520e956225391adde552a98f56dff3a27dab97e62b997101df59edb2b5
+SHA512: 5146ec4e1158a0346ae2381b2a1e7f9b341b0af27d20daef7303517801319ec60b82c064a35734dd4244397b63b52c20c2469c974e6c5af9cb2e13ff0fe130b0
+Description: 下载后自行去目录/var/mobile/Documents/debd.txt 复制脚本内容到乌贼的SE 键盘脚本功能上添加
+Name: debd-SE便捷脚本
+Author: 剑来
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.debdse/depiction.json
+
+Package: com.lai.kayoko
+Architecture: iphoneos-arm64
+Version: 2.7
+Section: 系统增强
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/kayoko剪切板_2.7.deb
+Size: 149786
+MD5sum: 02a81ca361d10bd02182517e764912e7
+SHA1: 6d3d671e8904adf4b655931e361df80a1e9510f7
+SHA256: 3e4134ca1a5ead7ab3c18e6ec543902ffc8fc7a64bf426c5e95e583ddea6ff0d
+SHA512: 8065d87d62a3f9b706b6192c6ae9dc94094c6fc28edc407301fe64d9d35f6f964ca38e8e45c492d6fad8a15d4792be81426f6373303296529d7395f7f11d3bd5
+Description: Kayoko，82flex大佬修复支持iOS16。
+Name: kayoko剪切板
+Author: Alexandra Aurora Göttlicher
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.lai.kayoko/depiction.json
+
+Package: lai28.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: 系统增强
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/split-view-pro_1.3.7.deb
+Size: 1775498
+MD5sum: 6a5fd409a83b14daf3d7850db3e6a413
+SHA1: 705154a7758ba6381d90cf664ff3bd29e4e74409
+SHA256: d8e3ea7d68899c6f481be56220e8d0935e7aab4421c41b1aa672c6d1ad613b11
+SHA512: 19e6fc894cd2eae596ea21e828d461c2a6931f2d2af48c5f0910f40fae790f807b5704fd31b0654df8a27bea83b8a8392bbb3336a572af9ee4013af314691bb6
+Description: 分屏，不必太复杂，一切从简即可。
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.split-view-pro/depiction.json
+
+Package: lai28.qmxshook
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: 应用增强
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/七猫小说去广告_1.0.3.deb
+Size: 131482
+MD5sum: 934684df3f99babfb9ba779557ec5303
+SHA1: e66f479cc5a6319b48a97ea7b54182f26572c5cc
+SHA256: 9aee8582d819bc89a45d6175f5b3575f9fa17b3c24a0b64d67a590353709e01c
+SHA512: f86f3aec5d0f411c2f2d0b834dcf839d37b44a8a5626ac9b90451e4265d0b3d4933bbc321bcc77edf659be30ae8728f6468e1bd8a8c75a04c3c2e93119b5bd2e
+Description: 开通免广告权益 仅支持7.63.10版本
+Name: 七猫小说去广告
+Author: x✨
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.qmxshook/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.0-2
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 3188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.0-2.deb
+Size: 1662042
+MD5sum: 36ecb9783fbe4be5b3cf19b305ed1cee
+SHA1: f5418e22fa8f060c7f72e274462f7a07fbeff89a
+SHA256: 309684749feecd06ebb38c7a33f55efcb05bce663ac9f4c1555f01783bbaec08
+SHA512: 9a6189bcf2dc083108c13e30ea4d210fb8f9150503405959dfb6f5e17a5fe6117de99e92eac6f2986a806b94ea32e36a3286654190727a363000c8faaabf285c
+Description: 主题需要授权，自行寻找购买渠道
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.1-1
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.1-1.deb
+Size: 1688300
+MD5sum: ae35b7a54898ffd12f1dfb826be01b17
+SHA1: 98462d48c8630698b79753914cc58a79f59c2810
+SHA256: 94c447702d25889417b8eabc729a19cd87883a72b720e3e09311b9ff99d3fe40
+SHA512: fd28cb8f1efdd56c4b1c4fa064c9f33f0ada8dde5e393b23d11439f5587829f8ae6c2eb6aa3c785d2c7c4ca3c2e8ed6712672f4280a1f112cbf67fc269f6b9d8
+Description: An awesome MobileSubstrate tweak!
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.2-1
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 4000
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.2-1.deb
+Size: 1838040
+MD5sum: 58d41653826660f5fec6a73369473583
+SHA1: dc99733f026ae5ca8320c28f9a8fa1c416be71b7
+SHA256: 388f8ab0319de1416e00e6bac5856e23bab209970075fef8b7f46f733eca6da0
+SHA512: 85525ea43ef697cfd2e1c1dbe3e76b83bc1bd39b4a7c26f6353382594c353cf44e52ffc376b2e504cfbad77738c5ba8331b6a5774da95e0555b341f16c9adbb6
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.3-1
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 4212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.3-1.deb
+Size: 1912752
+MD5sum: 00f0c14a0c86e04c458d3e17708c045c
+SHA1: af8bd96b2317e7e2eca6f679cad711b87b2eb70d
+SHA256: 069a1adde1b338f7c13ab54a962a4ac7aad78ff9a0b0637b6a099a685f40e517
+SHA512: 339cc6c0e91fdfb299264bb110b15fea9bf272f267afe96122c00b731269c43db9f81bb6dc068c3cdd6b83a7e089c8aacb1464dc59b6a72e8e415eaf137b0db7
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.5-1
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 4848
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.5-1.deb
+Size: 2182340
+MD5sum: ecc61f6b56f69470f32215fec5923c2e
+SHA1: 4403413ea5ccb5dd34a2c66ee5030c42b4c9b059
+SHA256: 93e8e0e4bd816703ca547f7a0910af86a356d903e1e7e8a9444c954c87d79eef
+SHA512: 2d802865c1b98e4968fd6f45976341b6732c657f3663d9a7e03e5867fa2d537a9cf620b66eb9d02529c4ccafa0a0a06535b62e720a719bd1f78875aee447f285
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.6-2
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 5172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.0.6-2.deb
+Size: 2341388
+MD5sum: 876d753fc6412fbc31273f43fa66bbd1
+SHA1: 32a7c17fad2792f735eb848e0a0c415594843db0
+SHA256: 9a268e805140b75238620fce5f2fda93ae015cb2a2f92b309dbfba5ff6cb424b
+SHA512: 414f14fc8d5ae95d41e6c58cf2ae6af46e90a862a45bee5aa2da43e9a282ad95ec549c7736cf6de10cc06272de302041cada6c8af720c560b5716fd74dafc0cc
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.2-1
+Section: 微信增强
+Maintainer: WeChat
+Installed-Size: 6148
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.1.2-1.deb
+Size: 3131938
+MD5sum: a0786a8c86a05ed9753214e657f371f0
+SHA1: 72a537caa51ea223a70d806115489f0c74dc39c5
+SHA256: 15105ae4e6033606c4e9bbb6c7eb4beea9c15a092ef6e5f73d282fe636608790
+SHA512: 54ad1a8d962cbcd3214a8c26db211d19044cb4e46b9105eb007214ad66718886d36b29cfc0ae0272e070b205e4a5002fc48288d8f3c2425cb6161e0b3e4a8fbb
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.3-1
+Section: Tweaks
+Maintainer: WeChat
+Installed-Size: 6292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.1.3-1.deb
+Size: 3191462
+MD5sum: 551457768fa4a7a813dd094b5a1ee8fa
+SHA1: 1050f6eb664e0d3d884749b8d71427033854641b
+SHA256: 35449a77cc868d748013c5ddcb2b8f47cfe5ba42f90a3228bf391446411b69b1
+SHA512: d90e69d180cf951808a378d7ad56ad0f529f9a6e7e14692ed91a5f868e8b6cc3173151c19d8a163703d046b9edfa68a7c4ee6d6260f0823e2bc64d57637445ff
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.8-1
+Section: Tweaks
+Maintainer: WeChat
+Installed-Size: 6800
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_1.1.8-1.deb
+Size: 3450560
+MD5sum: fac55224647cea027bad6148c1061d13
+SHA1: 0eff0515ae0245f4244ba1e7ffcdd15637b89828
+SHA256: 0c592a4e84a9d30c54503c2a4d22de31240ecde960164392a9f3dbfc7c140636
+SHA512: f98f2fad28bd8686cc44033190b4e1845974663b5f6eb4e4bb05c0f37e72950075311aa39f5188714cfce12a299e891737a758bad10fd749fc1d4bf7773bac74
+Description: 微信主题盒子
+Name: 主题盒子
+Author: WeChat
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: com.tencent.xin
+Architecture: iphoneos-arm64
+Version: 0.1-1+debug
+Section: 微信增强
+Maintainer: 王富贵
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/匿名艾特Carck_0.1-1+debug.deb
+Size: 5544
+MD5sum: ebf2706338246edf3699f2b15abc42d6
+SHA1: 17abf517f074a2b90f09cca1b2e871970ec79967
+SHA256: 701f65685634edb5c7ea2b53f8037b1bf01dec4ed0d0265ad4f2b8137e2c3d7a
+SHA512: d9ef25218ea829e61d3d5612f2f40e6e0ac306e63906371f6d69e9b86f722d09a9bda6c33567135b820ee0b199910e671533bb16e254ee2b68365f22e54716c4
+Description: 注入即生效，没有任何设置。
+Name: 匿名艾特Carck
+Author: 王富贵
+SileoDepiction: https://JianLai28.github.io/repo/depictions/native/com.tencent.xin/depiction.json
+
+Package: lai28.monkeyyang.pbpmjtlzjc
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: 系统增强
+Maintainer: monkeyyang <xuanhua880@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/屏蔽屏幕截图录制检测_0.0.1.deb
+Size: 2724
+MD5sum: c4671a3e48e8bf8be2c7035896cc85b8
+SHA1: 8c53b4555bb2d2494c3d4ded79b600daa5adf64b
+SHA256: ef3a74dc09354642e94d581ad29ab327324aeef1ec90bb989bedf8c01dcfd4f3
+SHA512: c925c5ffc53585f7b0fd784e63e544ffe0d8abc5627a4441c92cec82a598ba8775977a2331e7fadadc682f45b70f63b56f194cc1bde81ba03b76ee0e2b183b8b
+Description: 1.屏蔽App检测截图2.屏蔽App对屏幕录制的检测，可用于录制一些加密视频
+Name: 屏蔽屏幕截图录制检测
+Author: monkeyyang <xuanhua880@gmail.com>
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.monkeyyang.pbpmjtlzjc/depiction.json
+
+Package: com.25mao.leftpan.rootless
+Architecture: iphoneos-arm64
+Version: 1.0-6
+Priority: optional
+Section: 系统增强
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/左滑返回_1.0-6.deb
+Size: 48390
+MD5sum: 0c627a8763ef605a26594f9445921caa
+SHA1: 09d091ddaadb9e6bd547294f1b20913cf82c71d1
+SHA256: c52f28c9a71fae4c2b63db6015cdffa50ba9a4445afc503d6b065a4e91a8bb14
+SHA512: 421f3cb72e7257ab98da6a3d63c1a702a57e624a29df97587d669c707063023af25927afc5b4cbdb6334ca6675fb20874a20791a32deb1c8a2a65f5efb0935d0
+Description: 左滑返回上一页面
+Name: 左滑返回
+Author: Mao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.25mao.leftpan.rootless/depiction.json
+
+Package: lai28.wxurlexpand
+Architecture: iphoneos-arm64
+Version: 0.2-0
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信URL扩展_0.2-0.deb
+Size: 33988
+MD5sum: e8e2d91f38cfecf4046e9bf8ed329d84
+SHA1: bff54e9f9bbaae6dd99bde5732dd0513756a74ec
+SHA256: b088f8044a0b4bc9696fe2ec3e6220abc839c3d713f532df75734bb745ab4d54
+SHA512: bff72b51bb42011d784a6a5b48fb36763384017b63f021a2f1c8ae062d64ae59f081e655fcddc9246ff20ab2e3360d2e35720bbfd865535c126c3d1d5410b89c
+Description: 扩展微信URLScheme接口，方便从外部调用
+Name: 微信URL扩展
+Author: Mao
+Sponsor: admin@25mao.com
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wxurlexpand/depiction.json
+
+Package: netskao.wechatpurification
+Architecture: iphoneos-arm64
+Version: 4.2-6-END
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 16708
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/微信净化END_4.2-6-END.deb
+Size: 7234014
+MD5sum: 1a40e7e446b8ff3c2647195e1921f171
+SHA1: 922ef7a5b90e28d58fbe044ca69d916175ac3bff
+SHA256: 72038cf302028b6bcdacb348d870b5259e405c707732481e0f70d74ad36ad9d9
+SHA512: 5e5894017ea4b8d83dcd7dfccb1886bcac55de112eeba49c8c8f54de6025aee4de16057750670fd1336c29fa625562ee41d66dee4cf45531cbdae76b055fda4b
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Name: 微信净化END
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/netskao.wechatpurification/depiction.json
+
+Package: lai28.wcpureextension
+Architecture: iphoneos-arm64
+Version: 4.2-6
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 19660
+Provides: netskao.wechatpurification-rootless
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Filename: ./debs/微信净化_4.2-6.deb
+Size: 8188550
+MD5sum: 8db8836ab3c51f589ca3402aca68e78a
+SHA1: b9b4e2392985120378e1f09034b5b356f1969a6b
+SHA256: b70a593eea4980f6c8decda97d817aa0e90399ac4dbfad14c895abdd55f55088
+SHA512: 4921005729d01e715a68b5b4fa0e9b6d34bd1220ea7ecada80f071b23136ab8d84318c4796c7ad0c6faa6fe4a464cdd6657653c1176da96cf82de9a6212b9fc3
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Name: 微信净化
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcpureextension/depiction.json
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-0
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信助手_3.8-0.deb
+Size: 11731938
+MD5sum: 39422ac8c72039dd73df9ca43e6b39ce
+SHA1: ed9a0df053da9492764967e33229db77fe636196
+SHA256: ae64f56beae6a158568dd08351497719084c5b8d19a046ae4b49da9f28d8a2af
+SHA512: 36e62b96b5f260da301d034a94df4821db5a21a68189f01dfdaebe8d5c8ea73dee9ea763925b0ec35d96d32146d7f0e58ddf30d38b0d66bd22cd789f419ad269
+Homepage:
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+dev:
+Depiction:
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-1
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信助手_3.8-1.deb
+Size: 10282252
+MD5sum: a74428e8d7d539858a50240255e8ab31
+SHA1: 146eaab40247496601c7ff3a09e74188982dcb75
+SHA256: 14609c93410a26d9893132ec382c14016f0b8aa91d9c261f912306f3a78377ed
+SHA512: 2922eec6df95f9186cda7a267e98df0f5c53363ec4d8a2786ed4e39971c5ed1cc31927bf71b78beebebb9933f8b052d57db54de34a8e11fb2047156864f860cd
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
+
+Package: com.lxcloud.WCEhance
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/微信增强_1.0-3.deb
+Size: 55642
+MD5sum: 6f040fc379bbc736c1337aa76ca0b7b8
+SHA1: e04339f6b202245c8bbed5256845a6ae652dd8c4
+SHA256: 6620b7c4b85475c51b573687c33b28a7acfaf04803c8ba6c16daecc1bb955b8a
+SHA512: f3042ea701b891d3eea66644017702e2b3cc52345a5181ad72aefd920686c371e8326650ba8829c6bb714f856d8c8004d137850c1fd89bef1face7b6cd7d9a85
+Description: WeChat enhancement, used to optimize some anti human designs and enhance functionality
+Name: 微信增强
+Author: huami&Lxcloud
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.lxcloud.WCEhance/depiction.json
+
+Package: com.lxcloud.WCEhance
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Priority: optional
+Section: 微信增强
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/微信增强_1.0-4.deb
+Size: 60058
+MD5sum: c55efa0caeb18a05f732969ecc741434
+SHA1: 8245afa2cb59f91c422670f1aff7149845449249
+SHA256: 42209871da2866e804992ba0e332ca4e1c73dd04ad3de11bf42cf3401b193b36
+SHA512: 12f2f24f1a61a2c4417136077e0160c8cad8363d74a45c2f8c3813301e682b1db3bd09f1ef4fc20b5fd36e5b996ac4c19558383ff5b5de5c0866f587f5278448
+Description: WeChat enhancement, used to optimize some anti human designs and enhance functionality
+Name: 微信增强
+Author: huami&Lxcloud
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.lxcloud.WCEhance/depiction.json
+
+Package: lai28.xuanzhuan
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: 微信增强
+Maintainer: baiy（qq:961666883）
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/微信头像旋转_1.2.deb
+Size: 4922
+MD5sum: 59bfc132344da921c964c8d3147252bd
+SHA1: 4b7be74acfa8e074c7b766f7de3953a82f7a1e60
+SHA256: 634ac85e389cdc92a45258ec28cc4a81094ea759571aa859c026cccb0140aee3
+SHA512: d70fd24d9f9c0a4d755384a8edb0f1243532e257fc999c93ecd451a23d0d2f9690c58f37201b3602d7f25e771bbdfb5da5df6f24af09264bdef6da74edc430e9
+Description: 看着头都晕，添加一个开关！
+Name: 微信头像旋转
+Author: baiy
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.xuanzhuan/depiction.json
+
+Package: lai28.wxsmalltab
+Architecture: iphoneos-arm64
+Version: 0.0.1-5
+Section: 微信增强
+Maintainer: halo-michael
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: lai28.wxsmalltab
+Filename: ./debs/微信小底栏_0.0.1-5.deb
+Size: 12016
+MD5sum: f571fd10af506b45e021e9ebda669ada
+SHA1: 8349861d2331e60594e495878d988ced81326ba2
+SHA256: 2b4d31ef99584c1ed5ef10065190cd5d0f6e41f3f5d75464d12614c2d1337ff4
+SHA512: ffadd62eac5c85ae42fd265468f78305fbf7533770b1b8a5443a328a0f8d55677a0945126353c6ed67e0775ecf934feb3339d17012d344e9e8999fa3610ebaea
+Description: 微信底栏悬浮显示
+Author: Michael
+Name: 微信小底栏
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wxsmalltab/depiction.json
+
+Package: lai28.wcplugins
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信插件管理Plus-Rootless_0.1-3.deb
+Size: 26770
+MD5sum: 8e3c4406fd195c833fb8374cc6d7f2b6
+SHA1: c2c61c731c88133a495419bffc2cd03580101758
+SHA256: ef6ab136551dfc4781cfc9e73e5b23e3c43f50ba1d187ec35fc7a5d05918e3b5
+SHA512: 893277fd30871ebea5425644c89f22857bdbe1db17cec4c41cdfbce4f7fe92ebbc7a408f4e8eb979ff570df182285643148db7c99fd45c9a774af2b1731f5c64
+Description: 插件管理Plus，长按插件图标可开启密码隐藏！
+Name: 微信插件管理Plus-Rootless
+Author: Mao
+Sponsor: admin@25mao.com
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wcplugins/depiction.json
+
+Package: lai28.wxkeyboarduihook
+Architecture: iphoneos-arm64
+Version: 1.8
+Section: 应用增强
+Maintainer: Doki
+Installed-Size: 416
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/微信输入法自定义_1.8.deb
+Size: 92872
+MD5sum: 0a994503a5bb1c05b7171249f0989694
+SHA1: db72a06cbc10e07580e13b7b60c2f16a02f78d5c
+SHA256: c99ebdef464506fa32433c0dac1cbecc6f2c9659363c02958c83ba57ae76ce98
+SHA512: 12703485dfc1aa2b15f9af2d16bc240c4b8f53904a141be3b0a57b4e462b2eeacabfa1758fce2c993513b0625eabd751596145afe6c2bd5dd676ef31e7e72e7c
+Description: 微信输入法自定义
+Name: 微信输入法自定义
+Author: Doki
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.wxkeyboarduihook/depiction.json
+
+Package: lai28.doutu
+Architecture: iphoneos-arm64
+Version: 3.1-5
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/斗图助手-Rootless_3.1-5.deb
+Size: 1466030
+MD5sum: 8e499b61a659e991ac227f15edd1603d
+SHA1: 102df038562ee5f05d98b5eb6e958efaa6868834
+SHA256: 9c9a39be9b31010f026d670a11e0798383693c3a5fbbd9ecbdbc34c6c4b465f3
+SHA512: 3e9781a8f17b2809216adcf80cf683adbd9c1dbe77067113db2b7f5ebfdea0382d5452c43380c3ffa2162435e6cd74cbe387f95a0634e522e0eee952a9cceb00
+Description: 斗图助手
+Name: 斗图助手-Rootless
+Author: Mao
+Sponsor: admin@25mao.com
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.doutu/depiction.json
+
+Package: lai28.wctimelinemessagetail
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 微信增强
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/朋友圈自定义小尾巴_1.1-1.deb
+Size: 5710
+MD5sum: 7eee3eac69b98fe30dc0e68f47daf9bc
+SHA1: 267424dd6196b86129c5008004a2be1bc2443b77
+SHA256: a233feb45c4d1d0b967adede2cc6465a6639c911e973d42faded8c77bcff1828
+SHA512: 076fc18e6d719f45acadd6b4f99ef8a7b485035b4e35fbe1fe4858f07a0c8be57c5dd8ef671fcd293ed6ecc96939ea1f0b378892f132aace3042ab4e2c9477c3
+Description: WeChat Time Line Message Tail Custom Text
+Name: 朋友圈自定义小尾巴
+Author: Netskao
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.wctimelinemessagetail/depiction.json
+
+Package: lai28.msgfilt
+Architecture: iphoneos-arm64
+Version: 1.0-5.1
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/消息屏蔽助手-Rootless_1.0-5.1.deb
+Size: 140536
+MD5sum: d2045a4e83432a92c24e61a4cbd9879f
+SHA1: ec7dfb7918412454492b7656d8c0efd8c79729ec
+SHA256: c747d883df84e9b6b3d12426b3e650a7cfd4b300f0ff6207fc41a0adbb6e2bbd
+SHA512: bb367cb86e9c8e3fe3b0af4ca44af4318a2f75dd6aced1e981d9e744ad9f7299017f366e98440593a294f454d3f0bc7debea40d0bc6fc6644d7fcb64116b37d0
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手-Rootless
+Author: Mao
+Sponsor: admin@25mao.com
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.msgfilt/depiction.json
+
+Package: lai28.betteruiswitch
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/淫荡开关_1.1.deb
+Size: 63654
+MD5sum: 0f25addd921da1a2d0d981099172ccde
+SHA1: 812e738c7eed7d835e4466f8a69247bd9995a11c
+SHA256: faa855f61353d9a3bf6d475b672cc6c67d303c73806c847c9b769ea5261cfaa9
+SHA512: cc311dddca280c8c7045d90c4f5af111b4ebd9762af97166ad70a3ac690d39cabf3488a85a22938269875ec7cec37f1ee2ee4588bb5f9535a46d39990cd008eb
+Description: 管鲍淫荡开关UI
+Name: 淫荡开关
+Author: TiaoTiao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.betteruiswitch/depiction.json
+
+Package: lai28.ColorfulCube
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: 微信增强
+Maintainer: Seasons && huami
+Depends: mobilesubstrate
+Filename: ./debs/灵动方盒-Rootless_1.0.3.deb
+Size: 1630592
+MD5sum: 4ae9382728fdb7baa4276fa52f89ab57
+SHA1: a71adc8d78dbe82ecec86b0069d034953ba33831
+SHA256: fc3695d37ab89e4e8e7d8c7469802a4b6e8e3c159c4882e43e189feee5e19022
+SHA512: fb6cd2bc24a64e75e15c761b594b19604f6a260fb2491dc035fe16e20e32c8937d86494d165c825e9456286cb8ce385f6eb11ec9c0f5bbec8c0f84b28bef862f
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Name: 灵动方盒-Rootless
+Author: Seasons && huami
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.ColorfulCube/depiction.json
+
+Package: lai28.app.wechat
+Architecture: iphoneos-arm64
+Version: 1.6-3
+Section: 微信增强
+Maintainer: appku
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/爱锋助手_1.6-3.deb
+Size: 2095528
+MD5sum: 8a8c99c54a5ca4ecaa59859846358b64
+SHA1: 4e2ff9f672fe321f01f2db47a622875ded77656d
+SHA256: 0f97c3736e8ad2b5affc81a2a7004d4d49a0c3c7f8e32f832ef8836fa0c816a0
+SHA512: 90f6347ca606ff0da6c6e35f0c2d3628f8b188ab03b483c49ea3dc5ceccc14784ee1e78499b309070437db0d099787b039dba7ba4a7c8dbc050bc0c900143c23
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
+Name: 爱锋助手
+Author:  appku
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.app.wechat/depiction.json
+
+Package: lai28.shortvideodl
+Architecture: iphoneos-arm64
+Version: 1.8.2
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5072
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lly.awe, com.lenglengyu.dyhsb, com.lenglengyu.ksjsb, com.lenglengyu.qmxsp, com.lenglengyu.wsqsy, com.lenglengyu.wxgzh, com.lenglengyu.miaopai, com.lenglengyu.ppdgx, com.lenglengyu.qutoutiao, com.lenglengyu.pddsavevideo
+Filename: ./debs/短视频助手_1.8.2.deb
+Size: 1336430
+MD5sum: 8376216bd13a17d6e5fa6775b1188eca
+SHA1: 5ccb35bf670ce29ac765dda43657bc1063149676
+SHA256: 081b2e9925295a8f27ffc889ccfac04129dcf35d486e404dbbf6f487db5a2214
+SHA512: 3cd98469d234eaa0e21c2a8fc29e79dd986d7595cea581ba9ae731a22389aff62cf4d6436756391a908f451b36ccb2bfb6d108772bc53ef296685422ed90faf2
+Description: 支持抖音、快手、微视等无水印下载。
+Name: 短视频助手
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/shortvideodl.html
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.shortvideodl/depiction.json
+
+Package: com.lenglengyu.shortvideodl
+Architecture: iphoneos-arm64
+Version: 1.8.8
+Section: 应用增强
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5080
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lly.awe, com.lenglengyu.dyhsb, com.lenglengyu.ksjsb, com.lenglengyu.qmxsp, com.lenglengyu.wsqsy, com.lenglengyu.wxgzh, com.lenglengyu.miaopai, com.lenglengyu.ppdgx, com.lenglengyu.qutoutiao, com.lenglengyu.pddsavevideo
+Filename: ./debs/短视频助手_1.8.8.deb
+Size: 1340572
+MD5sum: 26d7d5b4657414fc048f4f1ed201847c
+SHA1: 6aaf013f7067fbe4e0c4d6989f826a093d9e5ea9
+SHA256: f0a6300f8a13daa3e1762b2775e2c8cd357a211f1def188ee900b82a9e9629ad
+SHA512: 5a890aea2975511304ffab271101c61d28a7979a4146365fba2df30f85791512665e8864c9d5f07446b88d3dc84cc5a504da8406531c6bbfb6a6b547b146af4a
+Description: 支持抖音、快手、微视等无水印下载。
+Name: 短视频助手
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/shortvideodl.html
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.lenglengyu.shortvideodl/depiction.json
+
+Package: lai28.checkproxybypass
+Architecture: iphoneos-arm64
+Version: 0.1.1-2
+Section: 系统增强
+Maintainer: 剑来
+Installed-Size: 172
+Depends: mobilesubstrate , preferenceloader,com.opa334.altlist
+Filename: ./debs/禁止代理检测_0.1.1-2.deb
+Size: 4740
+MD5sum: 660801922771cabce99a6206555ad0a8
+SHA1: 8e08ec25411c570137a6688c07ce4bbec79e4d52
+SHA256: 50070f1060a1980d69b03878ff939a2ac1ee3824cd5d8b09e571942c44349f13
+SHA512: 1d51dbce5b3b5ee6ce6c80bebb5c4fd9436652f3aaeee51e0c798850e40435b5585dbd55897b3f0ae7e63db1aca748dceeb549ba1d23a557ec964e17fb7e8155
+Description: 屏蔽 app 代理抓包检测
+Name: 禁止代理检测
+Author: zxc
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.checkproxybypass/depiction.json
+
+Package: lai28.removewidgetbg
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: 系统增强
+Maintainer: 剑来
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/移除小组件背景_1.7.deb
+Size: 29820
+MD5sum: 41a187db2c1075bc6f5ab2be50eb85e7
+SHA1: a887d2593434061bbe7bc90fb4bb1e111055eb1a
+SHA256: 28bd725f85203bc01248c629b1e37b8437910f3be91d6e370052a387d0824292
+SHA512: a94d43bca55a9981fd3aabd4b2935cffcee534be46fadb8efe844340fa63dad873164fd4b2d901b133750970026230619e45f9d5aa994893caa21a307a81daeb
+Description: 移除小组件背景，适配系统自带和第三方应用
+Name: 移除小组件背景
+Author: Lessica
+Sponsor: 剑来
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.removewidgetbg/depiction.json
+
+Package: com.liuf.jpyj
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: 系统增强
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/系统键盘圆角_0.0.1.deb
+Size: 3702
+MD5sum: d77e7563d5fb54838d6a19d5190a892d
+SHA1: b6c1017bee621be9cff83aaf984c3b7ea7ab496b
+SHA256: c9ca895ba5efff5ba299d5f15083b4fce9943624abc087281e486a782e130c0b
+SHA512: 312cdbc572c23b5d4391be94448cae56349ae8a64afd9e1470d75b1a518c638d18fc51da2885d9ecdb6bf8601c6fdf16ed72617d7984c280a485bac55d577ef7
+Description: 系统键盘圆角
+Name: 系统键盘圆角
+Author: liuf <(null)>
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.liuf.jpyj/depiction.json
+
+Package: lai28.pingfan.wechat
+Architecture: iphoneos-arm64
+Version: 2.2-1
+Section: 微信增强
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.2-1.deb
+Size: 2095170
+MD5sum: 10638a544cb1de435c1f86ad91cdc427
+SHA1: 04803c2a7ad84cc9e7ffa7a6d05ff20b281af32a
+SHA256: acd3db2c1bff6e86d2e24d002d5a672a733fb5dd436df79b28ffd709462375f8
+SHA512: 748718ffca4e4982fcec0621993c0812e31cf247cd5dc158628cbbdd7d83b16d55a53d693ea0d2c1b6ca991a36a16b9943506522003aa10f8394616b45f4f91f
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Name: 虚拟视频
+Author:  平凡
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.pingfan.wechat/depiction.json
+
+Package: com.tencent.voices.rootless
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Priority: optional
+Section: 微信增强
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/语音包_1.0-5.deb
+Size: 8630714
+MD5sum: d3a799987f648cbf25ab1233a0f15479
+SHA1: ac145befec27b52a2eadc6341af9d115e78b2540
+SHA256: 4ba89420a112ba4c749ebad31b2c3c03c0f44f00bc5245d489a76b912a1934bd
+SHA512: c910ad76627c13033fc2f72554b29c0beccb5fd6fb5f02d5a1f321da1d91c040d8ddc4d988df621d6b75466590dbe9945f9f1ec02087a43ad4c534548e0cca96
+Homepage:
+Description: 微信本地收藏语音包
+Name: 语音包
+Author: Mao
+dev:
+Depiction: 微信本地收藏语音包
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.tencent.voices.rootless/depiction.json
+
+Package: lai28.DB
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Section: 抖音增强
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/豆包助手_1.0-3.deb
+Size: 542816
+MD5sum: fb04d6251330edf9053dedb1fe24f645
+SHA1: 32bb4d1731168bb83230785cfe433370308f1537
+SHA256: f25e89b951f8f2d9adba3c7646d22813ac648c366c24e6c343e04bf0fdbe4486
+SHA512: caded560d445ac09292f04d11e519108ecea2716a919577957496f210e91ce343e3833c1ee08f3957660a0648f4cd7f2a8ed5b32ee9cd509fc40c1d39b3c0987
+Description: 豆包助手(DouYin)抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能
+Name: 豆包助手
+Author: Beanbuns
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.DB/depiction.json
+
+Package: lai28.nsg
+Architecture: iphoneos-arm64
+Version: 1.0.31
+Section: 系统增强
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: ./debs/通知组计数_1.0.31.deb
+Size: 37080
+MD5sum: 414ae87e57007f6ba50358764854bc80
+SHA1: a604c8e644a22569afeb2056bd61aa401b680d8d
+SHA256: 726cd0ee498f0be0a996742141d9d510e2e3e4d83951929aa9c625b5d45226c5
+SHA512: cea466c24d19d5c63c40359f12803c728fec46aad15fa3a9397564a68c5b67b9a8cb44e4de230b2cb9aa3b43288b42618978f0eda9359be4e2872dde5096a84b
+Description: 仿iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数
+Name: 通知组计数
+Author: 0xkuj
+SileoDepiction: https://JianLai28.github.io/repo/depictions/native/lai28.nsg/depiction.json
+
+Package: lai28.releasefugu15
+Architecture: iphoneos-arm64
+Version: 5.9.2-1
+Section: 微信增强
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1748
+Depends: mobilesubstrate
+Filename: ./debs/酸果_5.9.2-1.deb
+Size: 548206
+MD5sum: fee3b46897bbe94f16c2edc2b7ba8811
+SHA1: 753170a597182e605d6218d61e668b292c29e7ef
+SHA256: f5393e5e78eac9030545a13ba8e71d111d09380f717d9ed593c2edefc0b5739c
+SHA512: b64b09903f9e22bf2229443a6ccf0a3b0930dbd9e8d17e2dc707c716ac6a5fc9f0ebfef02bd1b01a430f983ce3d2102c318fce227434b0f94b685410c7f6f5e5
+Description: 本插件安装包来自苏兔源
+Name: 酸果
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.releasefugu15/depiction.json
+
+Package: com.dumpapp.wechat-rootless
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: 微信增强
+Maintainer: DumpApp
+Installed-Size: 23984
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/锤子助手_2.0.4.deb
+Size: 10682078
+MD5sum: 371e7cc5461d725a98ac735720ed1f06
+SHA1: daa1892dc7ecf99c2c35ad18b1dd7846a792cc8b
+SHA256: a192c08730f0d75e17cfe29ba709efea31786de9b434fa1ae46cb789d6802353
+SHA512: f73644f21ad5fcbca501651b06eeda807a24ba5934ecb1ede086bfc53708e8605388892c7f0ea93b67ed6b4a23830cc07d49cce6e7e84798cfa3307b6da63103
+Name: 锤子助手
+Author: DumpApp
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.dumpapp.wechat-rootless/depiction.json
+
+Package: lai28.wckeyboardhidelogo
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 应用增强
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/隐藏微信输入法logo_1.1-1.deb
+Size: 2278
+MD5sum: 624e880bf489fa14ef7d69c6800f02f7
+SHA1: 66db1cd575c33ed050b24c81fd520b767d2c9a94
+SHA256: 8df109bb6d961732877c108df75d09f2d2d5b2e664e2b6b26fa9252218fd9618
+SHA512: 75effff6c5c5ee3f91fd90275964c160a6ef083240e48c6e246f7581f8e665ff5d9b55a93396e046508102669b5fd9f63b6261cdbc4120a0e61056b5b9946291
+Description: WeChat Keyboard Hide Logo
+Name: 隐藏微信输入法logo
+Author: Netskao
+SileoDepiction: https://lai28.988456.xyz/depictions/native/lai28.wckeyboardhidelogo/depiction.json
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7-8
+Section: 微信增强
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手(微信插件)-Rootless_1.7-8.deb
+Size: 13130456
+MD5sum: 12793bb0785f1c2be8b78ad00b48af7a
+SHA1: 62052fda0f1235a1140813fc5abbe066c3b7ec41
+SHA256: 6ce7ccd4a4df94475b5ba012f178d55b6dac710438667ee5f9923759cbf85d55
+SHA512: 2f3ee7b818d0b35657c3423f2547a2636903cf4669ec5fc4673dc780e320e94f50b1b3706b5bd3b9f69d339a29b8474997bb3e57f548dc99725f221381e14429
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Name: 黄白助手(微信插件)-Rootless
+Author: HuangBai <QQ:1343309363@qq.com>
+SileoDepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7.9
+Section: 微信增强
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手-Rootless_1.7.9.deb
+Size: 12993694
+MD5sum: 58ab722c2294078bd0780299aef5f7c0
+SHA1: bb6026bbe296bce00d7bf1c28d96a490a7fce46f
+SHA256: 7fc869b8b48beaed1315d867ad42e05b4c6607eaa5583a58da0b2f7a898d3bea
+SHA512: 03ccad14e823d3c6bcac7de0d44b83fe4c8f39fda9026aba7ed05eaa90d11915724113b73d7f287aa4539b3139bfc86cbd5ed7f7ba8151dc01e736238e526e33
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Name: 黄白助手(微信插件)-Rootless
+Author: HuangBai <QQ:1343309363@qq.com>
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.0
+Section: 微信增强
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手_1.8.0.deb
+Size: 13120702
+MD5sum: 570310c14c5f9c9d0966c532fc0fd948
+SHA1: 7323d3761e897778afcd03ac6e6c516caf12b936
+SHA256: c2eb663fee53b18d77ddf88ea792dacf4fba58fd8c36cb17f6edf4a4aa24c018
+SHA512: 71db58b08a99ea608040c881558b3b9dc23c9abf857aa747df8ea3c2a6458bd7bfc56127a28f2b489d7e208fd755fb574f9c90a57161df3790740b1c6fedf091
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+

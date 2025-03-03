@@ -1,0 +1,146 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "tabs": [
+        {
+            "tabname": "详情",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "主题需要授权，自行寻找购买渠道"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "版本",
+                    "text": "1.0.6-2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "IOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "WeChat",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2024/12/25",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "点击加入QQ群聊",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新",
+            "views": [
+                {
+                    "title": "12",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 213",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "1.0.6-2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复输入框底栏问题\n- 修复部分版本点开朋友圈闪退问题\n- 资料页局中功能增加头像挂件\n- 修复低版本搜索页暗黑模式问题去222\n- 优化背景动画功能\n- 新增了几个基础动画\n- 增加暗黑模式颜色调整，\n- 可在允许范围内调整一些动画参数\n- 彻底修复悬浮底栏问题\n- 头像旋转增加旋转速度调整\n- 对其它一些收集到的问题进行修复",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "markdown": "- 增加背景动画，主题必需添加背景图片才能生效\n- 优化悬浮底栏，允许自定义大小\n- 悬浮底栏图标新增长按动作",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.3-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复1.0-3-1修改底栏动画闪退问题\n- 修复了1.0.2目前收集到的一些问题\n- 调整底栏样式，将底栏设置移动到了插件首页\n- 修复底栏点击漂移(点不到)问题\n- 修复主题包未上传顶栏时从聊天返回首页顶部透明问题\n- 我的页面居中布局增加头像旋转\n- 自定义名字和微信号显示内容",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.2-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复DIY功能素材加载不上，优化了一些细节，悬浮底栏新增描边和两个动画",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.1-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "公告",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}

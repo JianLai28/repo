@@ -1,0 +1,8 @@
+Label: - 剑来
+Origin: - 剑来
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Codename: JianLai
+Components: main
+Description: 纯属自用备份！
