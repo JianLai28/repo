@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -18,7 +18,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "3.8-1",
+                    "text": "3.8-3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +33,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/02/16",
+                    "text": "2025/03/22",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "9.7 MB",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -55,6 +60,32 @@
         {
             "tabname": "更新",
             "views": [
+                {
+                    "title": "3.8-3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复8.0.57搜索闪退",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "3.8-2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复一些已知问题（如8.0.57微信版本信息+1闪退）",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "3.8-1",
                     "useBoldText": true,

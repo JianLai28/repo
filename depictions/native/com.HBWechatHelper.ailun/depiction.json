@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -33,7 +33,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/02/22",
+                    "text": "2025/03/07",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "12.51 MB",
                     "class": "DepictionTableTextView"
                 },
                 {

@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -18,7 +18,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "1.0-4",
+                    "text": "1.0-7",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +33,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/03/03",
+                    "text": "2025/03/20",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "80.13 KB",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -55,6 +60,45 @@
         {
             "tabname": "更新",
             "views": [
+                {
+                    "title": "1.0-7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 1. 新增头像边框\n- 在启用头像圆角后可选择开启边框\n- 边框效果默认为1.5px浅灰色\n- 后续有空了添加自定义\n- 2. 新增禁用微信热更新\n- 启用后需重启微信生效\n- 可以“修复”部分插件因热更新导致的闪退",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0-6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增表情包圆角设置\n- 修复了部分已知问",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0-5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增长按菜单栏样式自定义功能\n- 支持圆角设置\n- 支持边框效果\n- 支持阴影效果\n- 支持浅色/深色模式颜色配置\n- 优化了企业群聊图标隐藏的实现方式\n- 改进了设置界面的布局和交互体验\n- 重构了人数隐藏逻辑\n- 增强了稳定性和性能\n- 解决了设置界面偶尔崩溃的问题\n- 修复了导致部分用户顶栏元素错位\n- 修复了与其他插件顶栏的兼容性问题\n- 更新了部分界面文字描述\n- 优化了代码结构\n- 提升了整体运行效率\n- 圆角调整 参考值",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "1.0-4",
                     "useBoldText": true,

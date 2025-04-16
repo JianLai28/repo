@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -8,6 +8,17 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "主题需要授权，自行寻找购买渠道"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 14,
+                    "itemSize": "{300,300}",
+                    "screenshots": [
+                        {
+                            "url": "http://lai28.988456.xyz/depictions/native/lai28.themebox/screenshots/screenshot_67db0c12bd7b0.png",
+                            "accessibilityText": "5C39707C-8B8F-4BD4-8C34-5A76EFF74E4B"
+                        }
+                    ]
                 },
                 {
                     "spacing": 0,
@@ -18,7 +29,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "1.1.8-1",
+                    "text": "2.0.0-1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +44,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/02/16",
+                    "text": "2025/03/20",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "3.9 MB",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -55,6 +71,19 @@
         {
             "tabname": "更新",
             "views": [
+                {
+                    "title": "2.0.0-1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复一些已知问题，同时优化大量代码\n- 增加气泡加载功能，可以随意给主题搭配气泡\n- 增加本地字体加载功能\n- 注：气泡需要主题作者上传，从下载中心下载，不支持本地添加",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "1.1.8-1",
                     "useBoldText": true,

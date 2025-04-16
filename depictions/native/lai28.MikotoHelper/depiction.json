@@ -1,13 +1,13 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Misaka新版，新增功能： DeepSeek，转发朋友圈，自动跟圈，行星布局修改，美化功能，日月开关，视频套壳，视频背景，禁用热更新，朋友小尾巴 等…"
+                    "markdown": "Mikoto插件不能与Misaka插件共存，需要卸载Misaka插件使用，但是插件设置可以通用。本插件不允许注入任何修改插件信息的插件。本插件不允许修改插件名字。以上都会有可能使得微信闪退。部分功能也有可能与其它插件冲突，一切问题需要自己解决！！也不会更新！！扩展功能：DeepSeek，转发朋友圈，自动跟圈，行星布局修改，美化功能，日月开关，视频套壳，视频背景，禁用热更新，朋友小尾巴，等等等等...."
                 },
                 {
                     "spacing": 0,
@@ -33,7 +33,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025-02-28",
+                    "text": "2025-03-20",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "22.97 MB",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -63,7 +68,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "- 不出意外的话这个版本也是最终版本。",
+                    "markdown": "- 不出意外就是最后一版本",
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionMarkdownView"

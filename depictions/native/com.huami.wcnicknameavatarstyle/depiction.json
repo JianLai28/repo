@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -15,7 +15,7 @@
                     "itemSize": "{370,456}",
                     "screenshots": [
                         {
-                            "url": "https://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/screenshots/screenshot_67b9da60372c8.png",
+                            "url": "http://lai28.988456.xyz/depictions/native/com.huami.wcnicknameavatarstyle/screenshots/screenshot_67b9da60372c8.png",
                             "accessibilityText": "E89F644E-1207-4B2C-BFB2-1EBC8AD9949C"
                         }
                     ]

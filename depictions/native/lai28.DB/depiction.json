@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://lai28.988456.xyz/img/cover.png",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
     "tabs": [
         {
             "tabname": "详情",
@@ -18,7 +18,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "1.0-3",
+                    "text": "1.0-4",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +33,12 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025-02-16",
+                    "text": "2025/03/09",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "752.25 KB",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -55,6 +60,19 @@
         {
             "tabname": "更新",
             "views": [
+                {
+                    "title": "1.0-4",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增语音包功能，私聊输入框右侧打开，仅支持m4a\n- 新增语音秒数设置\n- 修复部分设备闪退问题\n- 优化高清视频获取逻辑\n- 调整时间标签确保不冲突",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "title": "1.0-3",
                     "useBoldText": true,

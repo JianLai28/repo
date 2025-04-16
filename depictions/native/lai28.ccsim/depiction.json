@@ -1,0 +1,106 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
+    "tabs": [
+        {
+            "tabname": "详情",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "可以通过控制中心快速启用或禁用其中一张SIM卡"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 14,
+                    "itemSize": "{300,300}",
+                    "screenshots": [
+                        {
+                            "url": "http://lai28.988456.xyz/depictions/native/lai28.ccsim/screenshots/screenshot_67db0e2f50f78.png",
+                            "accessibilityText": "AC87A680-18B8-41DC-A9E1-69874FBE612C"
+                        }
+                    ]
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "版本",
+                    "text": "1.1-9",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "IOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "Netskao",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2025-03-12",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "24.21 KB",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "点击加入QQ群聊",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新",
+            "views": [
+                {
+                    "title": "1.1-9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 暂无更新记录",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "公告",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}

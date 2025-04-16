@@ -1,0 +1,225 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "http://lai28.988456.xyz/img/cover.png",
+    "tabs": [
+        {
+            "tabname": "详情",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "微信增强插件，支持聊天按钮布局自定义等功能"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "版本",
+                    "text": "1.1.9",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "兼容性",
+                    "text": "IOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "开发者",
+                    "text": "愫 茶",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "更新时间",
+                    "text": "2025/03/29",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "文件大小",
+                    "text": "276.89 KB",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "点击加入QQ群聊",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Sg18HyL3SI8izCTwOAw6EYIvMTD6gSea&authKey=Iw%2F6fTq7vGRHUU3LTObwGMeGSVyE0TfvA6lWaGmFPUcmGi%2F7vVarn5SuDrM5Zbog&noverify=0&group_code=630615416",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "更新",
+            "views": [
+                {
+                    "title": "1.1.9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 基于愫茶的微信增强开源优化\n- 优化聊天界面 信息弹窗菜单-自动隐藏没有设置的内容",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增输入框支持添加边框\n- 修复占位文本和输入框圆角会被错误应用到微信几乎所有输入框界面\n- 信息弹窗添加点击跳转个人信息入口（临时入口，后期再作修改）\n- 修复一些小的问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 应某位打赏宝子的需求添加更多的自定义文本\n- 添加占位符，输入框圆角",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 1.1.5\n- 新增隐藏聊天界面原生时间标签\n- 1.1.4\n- 新增信息时间显示在头像下方位置\n- 时间显示兼容隐藏头像\n- 添加更多可自定义项\n- 1.1.3\n- 新增信息时间显示\n- 修复一些潜在的问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 2x5布局支持隐藏\n- 布局锁定2x5",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.1",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 1.导航栏标题中的网名显示问题\n- 网名标签的最大宽度限制从150像素到250像素，添加了适当的文本截断模式设置，顶栏应该能全部显示了\n- 2.用户信息弹窗的文本显示问题\n- 标题标签的固定宽度从40像素到60像素\n- 优化了内容布局及UI样式\n- 3.添加了禁用热更新-Plus版🤪\n- 🌟🌟开关列表中阻止加载并执行更新即为Netskao那种禁用热更新\n- 4.注入密友导致搜索闪退的打开阻止加载主更新包即可解决，禁用热更新也可以（原理都差不多）\n- 加了一个打赏🥲🥲🥲",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.1.0",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 需要重新设置自定义图\n- 修复触摸轨迹自定义图片会丢失的问题\n- 修复顶栏分隔符自定义图会丢失的问题\n- 修复微信冷启动时圆头像会由方再变圆的问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增，点击头像显示对方信息弹窗\n- 新增，对方网名可以替换为备注名\n- 新增，8.0.57版本伪装\n- 新增，可以自定伪装版本（需要版本ID）无效就是你找的不对\n- 推翻重写了一次头像圆角（还闪退真没辙了）\n- 头像范围大小调整至5-45\n- 网名范围大小调整至5-24\n- 信息弹窗有一个不完美的地方就是群聊人数会显示为零\n- 技术有限，不会。有点小遗憾\n- 至于小信号和语音这个，遗憾的是，调整失败了，不管我怎么调整就是死皮膏药一样，添加空位符都不行，就是要和拍摄照片贴到一起（气死我了😤）（只能取舍了）",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.8-1+debug",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 新增自定义网名位置\n- 尝试性修复圆角闪退的问题，添加了更多的安全检查（我没办法复现，不要抱太大期望）\n- 修复了2x5布局只在私聊,群聊,公众号生效,在其他界面不生效的问题。例如企业联系人\n- 原本想回来再发的想着修都修了，干脆发了得了😇😇\n- 效果看回复里面（有点难控制多点耐心）\n- 这次是真没了，一滴都没有了👻\n- 1.0.9计划\n- 添加排序空占位符，用来兼容其他插件创建入口时和排序重叠的情况。\n- 支持移除不想显示的底栏附件。",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.4-1+debug",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复bug",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "1.0.3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 修复显示支付与服务时，自定义无效的问题\n- 修复显示订单与卡包时，自定义无效的问题\n- 触摸轨迹新增\n- 轨迹支持自定义图片\n- 新增同时显示对方头像和网名\n- 优化插件设置入口页面的交互\n- 完全重写2x5布局 推翻重写的\n- 解决所有的已知问题 - 更加细致化的排序",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "公告",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 源内插件仅供个人学习研究\n- 严禁用于任何商业利益或其它非法活动\n- 因使用不当而造成一切后果或任何法律纠纷均由个人承担\n- 请于24小时内自行删除"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
