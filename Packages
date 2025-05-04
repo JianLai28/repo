@@ -192,6 +192,39 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手(微信插件)-Rootless_1.8.4.deb
+Size: 11151500
+MD5sum: 37a67b9001e333bcc903612d016d47d0
+SHA1: 4602a7274294fb8dcc3c8b9736e21fc2e6947b77
+SHA256: 147410e9041b7911a281577fa0d45da4e71d5b4b5f68686ef9120ad7d70dbee0
+Section: 微信增强
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.5-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3148
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/floatingView_1.5.5-4.deb
+Size: 601444
+MD5sum: ebfbebcb48be64d4f1b19b94a0f021ea
+SHA1: 47087fef62907cc07a778a5f90981af20f1b648e
+SHA256: 9aa06b11449093c00e17dc0413cfc776e884e48c069d6870e020fa45b06b1d99
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.floating-view/depiction.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
 Architecture: iphoneos-arm64
@@ -1878,6 +1911,24 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.kayoko/depiction.json
 
+Package: lai28.ldd
+Version: 1.0.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2144
+Depends: mobilesubstrate
+Filename: debs/灵动岛自定义_1.0.0.0-1.deb
+Size: 463576
+MD5sum: ee183cf62d0dabeca54ece9bf82b0dc5
+SHA1: 14d88ebf12582f72d4b3aed55e8a36f429b639c3
+SHA256: 486d3687aa4dba7ed744e7c6dbce6fa1bba278c1c460f8cb69b04ba8109e8f55
+Section: 系统增强
+Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
+Author: MoreColor
+Depiction: https://axs66.github.io/repo
+Name: 灵动岛自定义
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.ldd/depiction.json
+
 Package: lai28.lecard.wuyu
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -2512,6 +2563,23 @@ Size: 4087554
 MD5sum: 1edd57ef58696862903cba37fe7daeef
 SHA1: 93fdcae17858d2864c400847e9583104ac979d60
 SHA256: 4939c885810bf87c17cd6e296990d51027adb5612bf3d926957701059597a0c9
+Section: 微信增强
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Version: 2.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 8704
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_2.0.5-1.deb
+Size: 3864408
+MD5sum: 2a3c2f721fb1be2f50ad838951141ceb
+SHA1: 693158e62d3363efe037fb0d5f7f20d903e72261
+SHA256: cb7a5533892912b1cc49d6df62f5ca62c2905d48e2b480a298d1e0d91cc9a39e
 Section: 微信增强
 Description: 微信主题盒子
 Author: WeChat
