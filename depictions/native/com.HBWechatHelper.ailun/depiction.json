@@ -18,7 +18,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "1.8.0",
+                    "text": "1.8.5",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/03/07",
+                    "text": "2025/5/11",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -60,6 +60,19 @@
         {
             "tabname": "更新",
             "views": [
+      {
+        "title": "1.8.5",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "- 新增消息小尾巴功能-【消息类功能-第二个启用消息小尾巴】",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
                 {
                     "title": "1.8.0",
                     "useBoldText": true,

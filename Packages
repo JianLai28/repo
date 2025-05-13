@@ -208,6 +208,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手(微信插件)-Rootless_1.8.5.deb
+Size: 11190780
+MD5sum: 7cc5f7dddc0f3388eccdb2e608cdc5dd
+SHA1: 0311269191454faef1562d9b6f1eb28c00b1c855
+SHA256: 69ea7fe82e3b664e379a64dcd4037fab8511c7bd6a6f981f4c5bd7e95c08ce49
+Section: 微信增强
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
 Package: com.be-huge.floating-view
 Version: 1.5.5-4
 Architecture: iphoneos-arm64
@@ -224,6 +240,23 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.floating-view/depiction.json
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信信息直达_0.0.4.deb
+Size: 23368
+MD5sum: c157b28d4dee980eabf3f299f040e5cf
+SHA1: 5eef855d346d38432c41a67b184348624351ed31
+SHA256: cd24b4a050f49c2eb75abce176aff592f38442d74dad88afa59a8cc6fb168c24
+Section: 微信增强
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Name: 微信信息直达
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
 
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
@@ -2580,6 +2613,23 @@ Size: 3864408
 MD5sum: 2a3c2f721fb1be2f50ad838951141ceb
 SHA1: 693158e62d3363efe037fb0d5f7f20d903e72261
 SHA256: cb7a5533892912b1cc49d6df62f5ca62c2905d48e2b480a298d1e0d91cc9a39e
+Section: 微信增强
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
+
+Package: lai28.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 9108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_2.0.6-1.deb
+Size: 3973692
+MD5sum: c73b00549122d8f0159cc857112833b3
+SHA1: c6af843fc21b6742879d79b458832907e18734ea
+SHA256: d566c9e72db83defc6db55dbc664ece52bae6614c917f7db6b6297c6991fe4c1
 Section: 微信增强
 Description: 微信主题盒子
 Author: WeChat
