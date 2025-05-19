@@ -19,6 +19,40 @@ Author: Misaka
 Name: MisakaHelper
 Sileodepiction: https://lai28.988456.xyz/depictions/native/MisakaHelper/depiction.json
 
+Package: ch.xxtou.xxtouch
+Version: 5.2.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/XXTouch Elite_5.2.2.deb
+Size: 19281308
+MD5sum: d919c3584db9eb72a11ae924ff23333e
+SHA1: 56f927f200e5fa761ac466b8589c947bc8e11074
+SHA256: 5f27236783429fcfd09e0d9ebe7d76101c3642cddc5e7db46cde3e29efda61fc
+Section: 系统增强
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: XXTouch Elite
+Sileodepiction: http://lai28.988456.xyz/depictions/native/ch.xxtou.xxtouch/depiction.json
+
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/SwipeExtenderX汉化_0.0.2.deb
+Size: 10028
+MD5sum: bf58c411351ee7233bc0934d6dec7a24
+SHA1: 36ce15bbd5416830d1f55a7a449ab8f41f253f24
+SHA256: 3b96253647186035ce3b53efa0f511a6c550500b9761b4dcad250b9e9eb19bf6
+Section: 简体汉化
+Description: 如题。
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SwipeExtenderX汉化
+Sileodepiction: http://lai28.988456.xyz/depictions/native/cn.llld.swipeextenderx/depiction.json
+
 Package: cn.octoforce.squidextender
 Version: 3.7.4
 Architecture: iphoneos-arm64e
@@ -38,6 +72,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: SquidExtender(激活码版)
 Sileodepiction: http://lai28.988456.xyz/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.zqbb.helloarea
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Hello Area_0.0.3.deb
+Size: 57396
+MD5sum: c0237ec5c81731efcf6cf5957d28cc4e
+SHA1: 2f6d50ecabc8e8009640580987e1d41d4b375c40
+SHA256: f2fdba98095e6475fc25574122dd54cfc4939a8981c1b16aabe9b9be40e3a6fc
+Section: 系统增强
+Description: 设置底栏高度!
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Hello Area
+Sileodepiction: http://lai28.988456.xyz/depictions/native/cn.zqbb.helloarea/depiction.json
+
+Package: com.25mao.doutu.rootless
+Version: 3.1-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/斗图助手_3.1-6.deb
+Size: 1032732
+MD5sum: 0ac132ac7d51a6ce2885e806d6b5b46a
+SHA1: 5f8735fffe2c54b6a64f1143f6967935504e0b30
+SHA256: f7977cd68026a61762f61b252e8a20ce29180ca2748df340bb405e9b5014f3c5
+Section: 微信增强
+Priority: optional
+Description: 斗图助手-Rootless
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 斗图助手
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.doutu.rootless/depiction.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
@@ -54,6 +125,25 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.25mao.leftpan.rootless/depiction.json
+
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: debs/左滑返回_1.0-6.deb
+Size: 46208
+MD5sum: e438ade3a3a8fddd43519497331f7dc3
+SHA1: 57d4336afebb1de3c6ffc08462a777174717d209
+SHA256: eef47a2b61868aedbd8757d5c9ff9dc139f016a1ecd9b4e85816ef96c22f0f78
+Section: 系统增强
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 左滑返回
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.leftpan.rootless/depiction.json
 
 Package: com.25mao.miyou.rootless
 Version: 3.8-0
@@ -105,6 +195,44 @@ Description: 微信助手
 Author: Mao
 Name: 微信助手
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-4
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信助手_3.8-4.deb
+Size: 9163784
+MD5sum: c207659fd7586408ae1a462849b39126
+SHA1: f4bb9079c33ff9837db852fe5261f04cc6347b44
+SHA256: 8180a255b2577928be30d57fae9c9b5a66b7fc55e506f55b7f67566e231f3abf
+Section: 微信增强
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信助手
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wxurlexpand.rootless
+Version: 0.2-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信URL扩展_0.2-0.deb
+Size: 33316
+MD5sum: 88eb43f1a9c5294d0ad9bbd51af71ea1
+SHA1: c39172d42bb0ced96a9a67f3cadcbcf2b5b54be0
+SHA256: f20d68964b574c5873f839045c062d2ed23afa41dafa56e382eeae1d865ca4f5
+Section: 微信增强
+Priority: optional
+Description: 扩展微信URLScheme接口，方便从外部调用
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信URL扩展
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.wxurlexpand.rootless/depiction.json
+Sponsor: admin@25mao.com
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
@@ -186,6 +314,26 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.anthopak.quickprefs-rootless
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: debs/Quickprefs_1.3.3.deb
+Size: 510096
+MD5sum: a55c867bc7e6abc3d4b6231a84d9badd
+SHA1: a39b3458347eee4c994429a6965c3d1ee58784bc
+SHA256: 7b46603a4c15997ec46ba3789e0f5d8034381479c71024408ff3b7e64d1f03d4
+Section: 系统增强
+Homepage: https://repo.anthopak.dev
+Description: Quickly access settings prefs from 3D Touch Menu
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.quickprefs-rootless.php
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.quickprefs-rootless.json
+Name: Quickprefs
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.anthopak.quickprefs-rootless/depiction.json
+
 Package: com.be-huge.floating-view
 Version: 1.5.5-4
 Architecture: iphoneos-arm64
@@ -205,6 +353,24 @@ Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.floating-
 
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信消息直达_0.0.4.deb
+Size: 24608
+MD5sum: 3fe8375b8c1b77ec3ceff626e834a2ee
+SHA1: ac839db5700d9ef138373016ce8c041ad8d3e4d7
+SHA256: 05629d2223068f566c276f4f4f8d445954fcfcf196879651c9604a409e88e68d
+Section: 微信增强
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信消息直达
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 232
@@ -219,6 +385,24 @@ Description: 弥补微信通知不足，支持点击微信消息通知横幅，�
 Author: be-huge
 Name: 微信信息直达
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
+
+Package: com.doki.wxkeyboarduihook
+Version: 1.8
+Architecture: iphoneos-arm64e
+Maintainer: Doki <qiaozhani000@163.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/微信输入法自定义_1.8.deb
+Size: 83060
+MD5sum: e3b9bfdbb6d730d2cd5d8860d4e588ff
+SHA1: 11a1be8595334e9f5b11e76e7dda64fe226522b6
+SHA256: 9f79e08c57c54247733165cff6ec920b1cb87c692d9d6acf1887eea878f350eb
+Section: 应用增强
+Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。
+Author: Doki <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信输入法自定义
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.doki.wxkeyboarduihook/depiction.json
 
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
@@ -286,6 +470,23 @@ Description: Removes annoying rate app pop-ups
 Author: dvntm
 Name: RateBeGone
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.dvntm.ratebegone/depiction.json
+
+Package: com.hbwechathelper.ailun
+Version: 1.8.5
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手_1.8.5.deb
+Size: 11194372
+MD5sum: 5be78d70aff528aeda4b50e6db250511
+SHA1: 54f34628831ff178d3effc45a51efa39345eb5c0
+SHA256: 21f4f70d6842becc50d6f3b2edc6abf82943b17a9efde7b3e9ad1e7f13c61b22
+Section: 微信增强
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 黄白助手
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.hbwechathelper.ailun/depiction.json
 
 Package: com.huami.bilinoad
 Version: 1.0.1
@@ -688,6 +889,25 @@ Author: sergy
 Name: Immortalizer
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.jianlai82/depiction.json
 
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/Snapper 3_1.2.1.deb
+Size: 1060272
+MD5sum: fd0781e25417aa77b1f9e2f50c6f019e
+SHA1: 97d67e38db11e512a5219cbdeb2db0e5b71de726
+SHA256: c13d2fd9946c8ea70e282fb800958da00cff35f85f5996c787cba975d7fbbd8b
+Section: 系统增强
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Snapper 3
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.jontelang.snapper3/depiction.json
+
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
 Architecture: iphoneos-arm64
@@ -707,6 +927,24 @@ Sileodepiction: https://lai28.988456.xyz/depictions/native/com.ketty.meowtimemac
 
 Package: com.lclrc.hammerit
 Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/Hammer It_1.7.1.deb
+Size: 985400
+MD5sum: 5f37d3e6945fc10abeb8a1dfa487bfb4
+SHA1: 103eef64f6bf258ad61b58b0fbfb44839df42026
+SHA256: 30aec115e64475d1c5f6b374af50f8e6716e46d16b9d1762c3f06f2503559da8
+Section: 系统增强
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Hammer It
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.lclrc.hammerit/depiction.json
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
 Architecture: iphoneos-arm64
 Maintainer: lclrc(SquidForce)
 Installed-Size: 3808
@@ -722,6 +960,24 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.lclrc.hammerit/depiction.json
+
+Package: com.lenglengyu.baidunetdiskoutput-rootless
+Version: 1.0.1K
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: debs/百度网盘文件导出_1.0.1K.deb
+Size: 139504
+MD5sum: dccdb41b3c5df38cc33772eeefec6bed
+SHA1: f628d8f0b7116318711ed93d9f72afa7abf1249d
+SHA256: a051b053851e2599fd0d924c26935da7365b0b69bf81f8693f3fc28dfaeeb12f
+Section: 应用增强
+Description: 缓存文件添加导出按钮，免去每次进入路径寻找文件的繁琐方式。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/baidunetdiskoutput.html
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 百度网盘文件导出
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.lenglengyu.baidunetdiskoutput-rootless/depiction.json
 
 Package: com.lenglengyu.shortvideodl
 Version: 1.8.8
@@ -1025,6 +1281,23 @@ Author: liuf <(null)>
 Name: 系统键盘圆角
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.liuf.jpyj/depiction.json
 
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: liuf <(null)>
+Depends: mobilesubstrate
+Filename: debs/系统键盘圆角_0.0.1.deb
+Size: 3892
+MD5sum: 8dac177022548eab901a3d68844c704e
+SHA1: d01664e183cf937dff485fa62aaeb3c65e88a5ca
+SHA256: 89a8b98b3bbd5bb8158de7a21dd64b1b5ed31996f358b0e9e85a932f8ab2fa73
+Section: 系统增强
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 系统键盘圆角
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.liuf.jpyj/depiction.json
+
 Package: com.lxcloud.WCEhance
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -1166,6 +1439,58 @@ Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.netskao.awemefullscreen/depiction.json
 
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: debs/Filza Crack_1.1-8.deb
+Size: 5168
+MD5sum: 4a9594bd16dbb95430bada00e0f412b4
+SHA1: 82ed382fde0aa4e8711bc243a1a26eacb4a11646
+SHA256: e5af07bf4287e46dd9dc6d647326d791104827a9901b3d2094392cf3781d856f
+Section: 应用增强
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Filza Crack
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.netskao.filzacrack/depiction.json
+
+Package: com.netskao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/StoreSwitchAccounts_1.1-4.deb
+Size: 102604
+MD5sum: 140817a67c8ae1094765eef6f6e1665a
+SHA1: ef1f4e76eca78cb5c6221f24f39fc81a7a65877d
+SHA256: ace13376a8f6fb57532c6a99221605e94936a4c9a5ea220928056cebd1eed990
+Section: 应用增强
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: StoreSwitchAccounts
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.netskao.storeswitchaccounts/depiction.json
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/微信头像_1.2-5.deb
+Size: 522968
+MD5sum: 4fe20cb76facc7c5cc1be1c5f490561b
+SHA1: 6410d9c82e24403b9e618495ec7822239ac1c77b
+SHA256: 1158f25a56460e6a82ffa298b3fb052e6d7007dc5129621c72df29b1175ba226
+Section: 微信增强
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信头像
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.netskao.wechatnotiavatar/depiction.json
+
 Package: com.niceios.mrshi-rootless
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64e
@@ -1259,6 +1584,41 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 灵动岛跳舞动画PLUS
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.simon.dynamicislandanimation/depiction.json
 
+Package: com.spark.ccmusicartwork
+Version: 2.4.0-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/CCMusicArtwork_2.4.0-rootless.deb
+Size: 256664
+MD5sum: 08f0bd110d6379cb86419c5b63f8c68a
+SHA1: c17204dcc4c42aa9be786633fdc2506875abe708
+SHA256: 04e93cca17f0e75d5d44067b229c340f088d45fba449f2bac7abe14a34c4d3d1
+Section: 系统增强
+Description: Shows album artwork behind the music module in the iOS 11-13 control center
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: CCMusicArtwork
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.spark.ccmusicartwork/depiction.json
+
+Package: com.tencent.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_2.0.6-1.deb
+Size: 3932444
+MD5sum: 8e464a11682615c67342815f616fba05
+SHA1: 8074c7ce5c3a79b02cbba077e32dd415370f6c69
+SHA256: a2c9f1f85395565d3868a4e3569dbddd4a21b53065e4b10f6ce049ec6b27d99c
+Section: 微信增强
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 主题盒子
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.tencent.themebox/depiction.json
+
 Package: com.tencent.voices.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -1276,6 +1636,23 @@ Author: Mao
 Depiction: 微信本地收藏语音包
 Name: 语音包
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.tencent.voices.rootless/depiction.json
+
+Package: com.tencent.xin
+Version: 0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 王富贵
+Depends: mobilesubstrate
+Filename: debs/匿名艾特Carck_0.1-1+debug.deb
+Size: 5544
+MD5sum: cbffd63e7711b71fb29002599ab35150
+SHA1: 5e73fbf087bd6f53e38de13230c9cb4239eb3eb4
+SHA256: a9a4c0bd724fb8ebc9ab4ddb4295de1c1853a4837ee2686828af6f8f515b4480
+Section: 微信增强
+Description: 注入即生效，没有任何设置。
+Author: 王富贵
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 匿名艾特Carck
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.tencent.xin/depiction.json
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
@@ -1486,6 +1863,60 @@ Author: 愫 茶
 Name: WeChatEnhance
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.wechat.enhance/depiction.json
 
+Package: com.wechat.enhance
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WeChatEnhance_1.4-2.deb
+Size: 451380
+MD5sum: 6f6356f03777a99ae595ca47fd1e390c
+SHA1: f1c82e0f1ba7820369aed8282c6a2848345adc5e
+SHA256: 0e251de87d73eddde16352ef286bf4f7c1eb3e60f3139b7b8019a5d358205853
+Section: 微信增强
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: WeChatEnhance
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.wechat.enhance/depiction.json
+
+Package: com.xx.ysbrowserhook
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/亚瑟浏览器Pro_1.0.2.deb
+Size: 21532
+MD5sum: 7ac982fd05d3dbe5869756bb5d90fb21
+SHA1: dfc2672e39fbbf7309a350a414c5ddaea858e28d
+SHA256: f2bac962c67805fc0ebc4df6ea81b7606d0712c92b4aba7273a768b9a02c22eb
+Section: 应用增强
+Description: 解锁Pro 屏蔽越狱·黑名单检测
+Author: x✨
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 亚瑟浏览器Pro
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.xx.ysbrowserhook/depiction.json
+
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/Hello Snapper_1.1.deb
+Size: 5452
+MD5sum: 9e8370c9b23cf85b1cfdd92483aefd8a
+SHA1: 290c6b0b5f3566a8732e38cd4e2c69183e872e2f
+SHA256: 718bb7347539e0061804578618277e676d799cf838c97d134613d1d61543274b
+Section: 系统增强
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Hello Snapper
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.zqbb.savephotos/depiction.json
+
 Package: jian.lai.jade
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -1657,6 +2088,23 @@ Author: TiaoTiao
 Name: 淫荡开关
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.betteruiswitch/depiction.json
 
+Package: lai28.bioprotect.hh
+Version: 4.6-31
+Architecture: iphoneos-arm64e
+Maintainer: Sandy0 & Ball
+Depends: mobilesubstrate
+Filename: debs/BioProtect（汉化）_4.6-31.deb
+Size: 12956
+MD5sum: 830562b63bc2cae756fb7ae106c1cb0f
+SHA1: 0c17237bff845af7611712616ab9cb1bc6ae4904
+SHA256: f2627727e81b17c2a962aeb91c9ecb1f38bf90567c9cf88eefed3cada0cea8d6
+Section: 简体汉化
+Description: BioProtect 简体中文包(RootHide)。
+Author: Sandy0 & Ball
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: BioProtect（汉化）
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.bioprotect.hh/depiction.json
+
 Package: lai28.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64e
@@ -1674,6 +2122,24 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: CCCellularRate
 Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.cccellularrate/depiction.json
+
+Package: lai28.ccsim
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: 剑来
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/CCSIM_1.1-9.deb
+Size: 24928
+MD5sum: d7a250add6eb7c77f6fb6d5a6199735c
+SHA1: ca2ec153242c797f60c70c7d3ed0742086de3e3e
+SHA256: 6c5777ae8a4c3f7521d135a50e8b799b0140de36cc9bd372dd89416e72668fb2
+Section: 系统增强
+Description: 可以通过控制中心快速启用或禁用其中一张SIM卡
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: CCSIM
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.ccsim/depiction.json
 
 Package: lai28.ccsim
 Version: 1.1-9
@@ -1893,6 +2359,24 @@ Sponsor: admin@25mao.com
 
 Package: lai28.dumpdecrypter
 Version: 1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/DumpDecrypter_1.5-1.deb
+Size: 394772
+MD5sum: 04a7fbd47ea40ff8f87c107369bef78e
+SHA1: fe442e7f6d2d054ee849b718e7e500b34cbde032
+SHA256: 98f462b040e53fd667d33ce512d4582ae403786851fcd7b4fbb4e798a8bde608
+Section: 系统增强
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: DumpDecrypter
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.dumpdecrypter/depiction.json
+
+Package: lai28.dumpdecrypter
+Version: 1.5-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 952
@@ -1957,6 +2441,24 @@ Author: 剑来
 Name: 抖音_SE脚本
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.dyse/depiction.json
 
+Package: lai28.fixsets
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.bswbw.fixset
+Filename: debs/FixSet_1.1.deb
+Size: 36808
+MD5sum: 045751fa906c309844855085331bd15e
+SHA1: a7b66dfc93da5d02750e2fb9d044cb4549485496
+SHA256: fb9d0fbfdc707db2bafa1e95ce725b7d6f52d189cfeb817d747914a44eb6751f
+Section: 系统增强
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: FixSet
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.fixsets/depiction.json
+
 Package: lai28.griddy
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -1990,6 +2492,25 @@ Description: 基于DYYY定制，仅更换插件面板UI！仅供学习交流，�
 Author: huami
 Name: 抖音魔术师
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.huami.dyyy/depiction.json
+
+Package: lai28.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: debs/iCleaner Pro_7.10.0.deb
+Size: 1100196
+MD5sum: 910a37b7c85dda3beb4c8f4590ba308b
+SHA1: 10fc323618a37c06c68e40d95143a2f9717a1bff
+SHA256: 4ce33337fb8baa6b52f88e488d310a07851caced470b4e80ec2a9fc87c77641a
+Section: 系统增强
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
+Author: Ivano Bilenchi
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: iCleaner Pro
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.icleanerpro/depiction.json
 
 Package: lai28.kayoko
 Version: 2.7
@@ -2113,6 +2634,27 @@ Description: MikotoHelper
 Author: Mikoto
 Name: MikotoHelper
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.mikotohelper/depiction.json
+
+Package: lai28.mikotohelper
+Version: 1.3.7
+Architecture: iphoneos-arm64e
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Replaces: mikotohelper
+Provides: mikotohelper
+Filename: debs/MikotoHelper_1.3.7.deb
+Size: 20720572
+MD5sum: 2945c2ef5304ae87bbe66c4c9da34d6b
+SHA1: bb6776e2e5a280884d3dacc769e72a84916a9560
+SHA256: 49e9de39c26da70f6862372f1b28377075ef36cbd0c46fedb8ee0a6db1e32849
+Section: 微信增强
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: MikotoHelper
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.mikotohelper/depiction.json
 
 Package: lai28.monkeyyang.pbpmjtlzjc
 Version: 0.0.1
@@ -2461,6 +3003,41 @@ Author: x✨
 Name: SafariXHook
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.safarixhook/depiction.json
 
+Package: lai28.settingsrevamp
+Version: 3.0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), com.hk.settingsrevamp.cn.rl
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: debs/SettingsRevamp_3.0.1.1.deb
+Size: 407704
+MD5sum: bb084ebbfc06c82e4f1b4e615ec750c1
+SHA1: 407d04904905f6c7b16afd47f3e789fb9afd8e03
+SHA256: 3e4cf9af1965c0172b06e2d4273a30045262483823a885fadf2d7d4bad8cf672
+Section: 系统增强
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SettingsRevamp
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.settingsrevamp/depiction.json
+
+Package: lai28.settingsrevamp.hh
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/SettingsRevamp（汉化）_3.0.1.deb
+Size: 8760
+MD5sum: 899cc3b1278058a447953b580a1dc15a
+SHA1: 0fc4d3b531e724d9b3fd7b9952563d0ddebee64c
+SHA256: 911be3057f71426d81304e59e41170ac1a7f7ac57ede72af7aafa824de32a3cc
+Section: 简体汉化
+Description: SettingsRevamp 简体中文包(RootHide)。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SettingsRevamp（汉化）
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.settingsrevamp.hh/depiction.json
+
 Package: lai28.showmytouches
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -2511,6 +3088,26 @@ Description: Let it snow on your device!
 Author: yan
 Name: Stella
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.stella/depiction.json
+
+Package: lai28.swipeextenderx
+Version: 1.6.1~2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/SwipeExtenderX_1.6.1~2.deb
+Size: 91560
+MD5sum: b470640c3320d7372e676db0a1ec950e
+SHA1: 3c47790c4a106a8d6f64efb4c89f54e7705558a5
+SHA256: 82811faddee373669d9ad456733ba058bd0ba6f0d0127963d4b12bf9a555bb0f
+Section: 系统增强
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SwipeExtenderX
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.swipeextenderx/depiction.json
 
 Package: lai28.themebox
 Version: 1.0.0-2
@@ -2693,23 +3290,6 @@ Size: 3864408
 MD5sum: 2a3c2f721fb1be2f50ad838951141ceb
 SHA1: 693158e62d3363efe037fb0d5f7f20d903e72261
 SHA256: cb7a5533892912b1cc49d6df62f5ca62c2905d48e2b480a298d1e0d91cc9a39e
-Section: 微信增强
-Description: 微信主题盒子
-Author: WeChat
-Name: 主题盒子
-Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.themebox/depiction.json
-
-Package: lai28.themebox
-Version: 2.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 9108
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/主题盒子_2.0.6-1.deb
-Size: 3973692
-MD5sum: c73b00549122d8f0159cc857112833b3
-SHA1: c6af843fc21b6742879d79b458832907e18734ea
-SHA256: d566c9e72db83defc6db55dbc664ece52bae6614c917f7db6b6297c6991fe4c1
 Section: 微信增强
 Description: 微信主题盒子
 Author: WeChat
@@ -3028,6 +3608,25 @@ Name: 微信插件管理Plus-Rootless
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.wcplugins/depiction.json
 Sponsor: admin@25mao.com
 
+Package: lai28.wcplugins
+Version: 0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信插件收纳_0.1-3.deb
+Size: 22840
+MD5sum: e65189336d9404bd3ec7a0441adb4bc3
+SHA1: 6b00e7588f3ff71f8a36ce3bbecb0c9ce62d229b
+SHA256: 3a9e035cfda911ea149abb627dca11cde8a269683eb4703100f42308022b5bf4
+Section: 微信增强
+Priority: optional
+Description: 插件管理Plus，长按插件图标可开启密码隐藏！
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信插件收纳
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.wcplugins/depiction.json
+Sponsor: admin@25mao.com
+
 Package: lai28.wcpureextension
 Version: 4.2-6
 Architecture: iphoneos-arm64
@@ -3047,6 +3646,23 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Name: 微信净化
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.wcpureextension/depiction.json
+
+Package: lai28.wctimelinemessagetail
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/朋友圈自定义小尾巴_1.1-1.deb
+Size: 5632
+MD5sum: c5c03eecde8278a0ee9e8f48732c90cc
+SHA1: c1edd734b95412048855ad8a59fd6820e8e9ad7c
+SHA256: 10fd9f86d13b57ded04aaca93e992cd09437dfc30a254ac5fb977c03b826de31
+Section: 微信增强
+Description: WeChat Time Line Message Tail Custom Text
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 朋友圈自定义小尾巴
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.wctimelinemessagetail/depiction.json
 
 Package: lai28.wctimelinemessagetail
 Version: 1.1-1
@@ -3186,6 +3802,25 @@ Author: baiy
 Name: 微信头像旋转
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.xuanzhuan/depiction.json
 
+Package: net.limneos.bioprotectxs
+Version: 4.6-222+debug
+Architecture: iphoneos-arm64e
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: debs/BioProtect_4.6-222+debug.deb
+Size: 666240
+MD5sum: 522c17881c00ddfd3bb8018d11e091f6
+SHA1: 6f929d4feb6b803d47cf6d1003c74ca89bca2c6e
+SHA256: 1fbbde02eec5557af66f89daf2e7e095bca887c67d646400cd092d7802605775
+Section: 系统增强
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/bioprotectxs
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: BioProtect
+Sileodepiction: http://lai28.988456.xyz/depictions/native/net.limneos.bioprotectxs/depiction.json
+
 Package: netskao.wechatpurification
 Version: 4.2-6-END
 Architecture: iphoneos-arm64
@@ -3202,4 +3837,21 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Name: 微信净化
 Sileodepiction: https://lai28.988456.xyz/depictions/native/netskao.wechatpurification/depiction.json
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化END_4.2-6-END.deb
+Size: 6273976
+MD5sum: 6aef920edbf36a65e715f7f203f9a502
+SHA1: 69d49aa6e90ec72cf4818894ec7a613949a684c0
+SHA256: 49008a68058fc29a629a465d6e5f5c9f97ea6e4b85e90903a5ce8e9a88e0419d
+Section: 微信增强
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信净化END
+Sileodepiction: http://lai28.988456.xyz/depictions/native/netskao.wechatpurification/depiction.json
 
