@@ -620,6 +620,25 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
+Package: com.huami.dyyy
+Version: 2.2-7-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2396
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/DYYY_2.2-7-1.deb
+Size: 514344
+MD5sum: 608d696c42648adcd63e39004198cd7f
+SHA1: 2e7011c159e7c86efdf7258819cc47388d795134
+SHA256: 4d73b5e3140743aed2ae9c02951a939ab46c7dfd7316862d47524cb40f473ccf
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
+
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -1184,6 +1203,25 @@ Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.netskao.awemefullscreen/depiction.json
 
+Package: com.niceios.mrshi-rootless
+Version: 1.0.0.2-235
+Architecture: iphoneos-arm64e
+Maintainer: MrShi
+Installed-Size: 2352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/MrShi（灵动岛自定义）_1.0.0.2-235.deb
+Size: 547964
+MD5sum: f04657b6303856bc00ee38ba0478e74f
+SHA1: f469bc138b0740bfabce2877902212a0cd91a6fb
+SHA256: d93a32cf9adf7e669d9429b19ee8049fba8bc0393ba819210b8fdc6d50b00fc1
+Section: 系统增强
+Description: 全局系统颜色自定义
+Author: MrShi
+Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
+Name: MrShi（灵动岛自定义）
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.niceios.mrshi-rootless/depiction.json
+
 Package: com.pxx917144686.surge
 Version: 0.5
 Architecture: iphoneos-arm64
@@ -1200,6 +1238,42 @@ Description: 修复 “已知问题” —> Surge 全部版本
 Author: pxx917144686
 Name: Surge++
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.pxx917144686.surge/depiction.json
+
+Package: com.simon.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/控制中心音乐模块动画_1.0.5.deb
+Size: 29912
+MD5sum: bcef8eccf66b3d234fe0b4bb3d194c3a
+SHA1: 2ac97f227c3a4cb8832bbbc15dbd61619075a89c
+SHA256: 17ab76926810ba86f30f712866d882d5acb403d883572799287273121b5284da
+Section: 系统增强
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Name: 控制中心音乐模块动画
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.simon.ccmusic/depiction.json
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/灵动岛跳舞动画PLUS_1.1.8.deb
+Size: 30544
+MD5sum: 5856dfc1c5ee46eb0a680a22153487fa
+SHA1: 2fd95816a1cc529356d5728f4731766b45540ec9
+SHA256: 71d97ab6b998f5cc8355503d07f7d3816bb3040738290b59078b5b41f0a77658
+Section: 系统增强
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Name: 灵动岛跳舞动画PLUS
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.simon.dynamicislandanimation/depiction.json
 
 Package: com.tencent.voices.rootless
 Version: 1.0-5
@@ -1237,6 +1311,25 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Depiction: https://chariz.com/get/popoutbuttons
 Name: PopOutButtons
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
+
+Package: com.vita.yuki
+Version: 0.0-1-1
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 204
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/抖音防撤回_0.0-1-1.deb
+Size: 17148
+MD5sum: e6f160d3a2aa08acc9a921bc223cce5d
+SHA1: 93935350d318b9887fcfcdb3f6eebc09dcade3ad
+SHA256: 69a39228f550c991f7ae7e3b7588f62006156b79535ec6e60a4652af55bd645c
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: 抖音防撤回
+Sileodepiction: https://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
 
 Package: com.wechat.enhance
 Version: 1.0.4-1+debug
@@ -1876,25 +1969,6 @@ Description: 下载后自行去目录/var/mobile/Documents/DYSE.txt 复制脚本
 Author: 剑来
 Name: 抖音_SE脚本
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.dyse/depiction.json
-
-Package: lai28.dyyy
-Version: 2.2-7-13
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2044
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_2.2-7-13.deb
-Size: 396300
-MD5sum: 5789c86fd34cdd4e62419d216a0e5e39
-SHA1: c0518ce38e12a65c0109e3b9d118d84655d92941
-SHA256: d70e36f8590043677e271d9dd2b64cbd41b34bf62192a7c5d991e9107fee87a0
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.dyyy/depiction.json
 
 Package: lai28.griddy
 Version: 1.0.5
