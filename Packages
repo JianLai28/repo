@@ -20,61 +20,23 @@ Name: MisakaHelper
 Sileodepiction: https://lai28.988456.xyz/depictions/native/MisakaHelper/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.0
+Version: 3.7.4
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce, Backup
-Installed-Size: 9908
-Pre-Depends: rootless-compat(>= 0.9)
+Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: debs/SquidExtender-激活码版-隐根_3.7.0.deb
-Size: 5009012
-MD5sum: 0ee065e6489eb712fa20f620ca6543f2
-SHA1: 168af15ca05f19ea83b101b8bc237f0edae7d753
-SHA256: 300c78cbf1c607d5982e32e594a2d1343ca39cd8ce105277cf5f8c91e9732e44
+Filename: debs/SquidExtender(激活码版)_3.7.4.deb
+Size: 4400044
+MD5sum: dc1d78e02b1bdf9b79f905ad6348a0fb
+SHA1: 62bb4dceb1091162b4ee14b5f3a644a1771762bd
+SHA256: 3faade4b2ba752e301b117ce5f8fb62e18fb9016a562c8424d82edbdb72ba3e6
 Section: 系统增强
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: SquidExtender(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
-Version: 3.7.2
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Installed-Size: 9972
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: com.squidforce.squidextender
-Filename: debs/SquidExtender-激活码版-隐根_3.7.2.deb
-Size: 5111382
-MD5sum: 17a1e0876f7800dc360f7b55ffb8d596
-SHA1: be70e8a114efead035995ce9216b049b12fc07b4
-SHA256: c75acf4578ae501c6ca4f4d1651659e68e6443522f6c5745eec65ff74a48cd70
-Section: 系统增强
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Author: SquidForce, Backup
-Name: SquidExtender(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
-Version: 3.7.3
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Installed-Size: 9972
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: com.squidforce.squidextender
-Filename: debs/SquidExtender-激活码版-隐根_3.7.3.deb
-Size: 5109078
-MD5sum: b792466a4fa3a111a26e8201a4f1f01a
-SHA1: 759be59116ad18ecd00f4bb25529bbdb916b559d
-SHA256: b9069cd455bd60beb048a178d86ea0ecda087be7aff191cb28ce381f1af66c65
-Section: 系统增强
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Author: SquidForce, Backup
-Name: SquidExtender(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
@@ -627,17 +589,18 @@ Maintainer: huami
 Installed-Size: 2396
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/DYYY_2.2-7-1.deb
-Size: 514344
-MD5sum: 608d696c42648adcd63e39004198cd7f
-SHA1: 2e7011c159e7c86efdf7258819cc47388d795134
-SHA256: 4d73b5e3140743aed2ae9c02951a939ab46c7dfd7316862d47524cb40f473ccf
+Size: 514616
+MD5sum: a25f87bb76e2ef965aba2c22a01b7370
+SHA1: 8a43dcc12f7cb9215a613159dc037b63d50f19ac
+SHA256: 4701dd366ed1a8cc69901403c036f97f86db14b08026abb7a09e5bfc15945f53
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: DYYY
-Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-5
@@ -1211,16 +1174,17 @@ Installed-Size: 2352
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/MrShi（灵动岛自定义）_1.0.0.2-235.deb
-Size: 547964
-MD5sum: f04657b6303856bc00ee38ba0478e74f
-SHA1: f469bc138b0740bfabce2877902212a0cd91a6fb
-SHA256: d93a32cf9adf7e669d9429b19ee8049fba8bc0393ba819210b8fdc6d50b00fc1
+Size: 550120
+MD5sum: d4b7ffc29f3bc0770f8d7f38e19ef5c7
+SHA1: 33e21e58977901357d0dc0901071fe47ad765652
+SHA256: 7909da65262a9ca2195234e15df332f1192b572c152dec50fedda109e9073c77
 Section: 系统增强
 Description: 全局系统颜色自定义
 Author: MrShi
 Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: MrShi（灵动岛自定义）
-Sileodepiction: https://lai28.988456.xyz/depictions/native/com.niceios.mrshi-rootless/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.niceios.mrshi-rootless/depiction.json
 
 Package: com.pxx917144686.surge
 Version: 0.5
@@ -1239,6 +1203,24 @@ Author: pxx917144686
 Name: Surge++
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.pxx917144686.surge/depiction.json
 
+Package: com.pxx917144686.surge
+Version: 0.6.1
+Architecture: iphoneos-arm64e
+Maintainer: pxx917144686
+Installed-Size: 13820
+Depends: firmware (>= 14.0)
+Filename: debs/Surge++_0.6.1.deb
+Size: 2664336
+MD5sum: 0b5025a23d518ea934878e2162671e6f
+SHA1: 5bebfba290292fcccfed8f7c278076ec3b21e798
+SHA256: bc7e392e3a437d56ad612c3bab0a63faad8ef0ca15ef59938b53b80736e66f1c
+Section: 应用增强
+Description: 修复 “已知问题”
+Author: pxx917144686
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Surge++
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.pxx917144686.surge/depiction.json
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -1247,15 +1229,16 @@ Installed-Size: 428
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: debs/控制中心音乐模块动画_1.0.5.deb
-Size: 29912
-MD5sum: bcef8eccf66b3d234fe0b4bb3d194c3a
-SHA1: 2ac97f227c3a4cb8832bbbc15dbd61619075a89c
-SHA256: 17ab76926810ba86f30f712866d882d5acb403d883572799287273121b5284da
+Size: 29940
+MD5sum: b079fd461ed64fd07922007a8a75d59b
+SHA1: 71a40b7a10dd062cef4aec4125b9dff841308cc8
+SHA256: a8aa77f0a27f45fff1c8e254328ae5cd79d5c4cc2d18d5d1de2dc999348029f9
 Section: 系统增强
 Description: 为控制中心的音乐模块添加动画
 Author: simon
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 控制中心音乐模块动画
-Sileodepiction: https://lai28.988456.xyz/depictions/native/com.simon.ccmusic/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.simon.ccmusic/depiction.json
 
 Package: com.simon.dynamicislandanimation
 Version: 1.1.8
@@ -1265,15 +1248,16 @@ Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/灵动岛跳舞动画PLUS_1.1.8.deb
-Size: 30544
-MD5sum: 5856dfc1c5ee46eb0a680a22153487fa
-SHA1: 2fd95816a1cc529356d5728f4731766b45540ec9
-SHA256: 71d97ab6b998f5cc8355503d07f7d3816bb3040738290b59078b5b41f0a77658
+Size: 30692
+MD5sum: e18ba9b655256468017739217450d868
+SHA1: 3e8db79ccede5a103cc07295d2b010a34130892b
+SHA256: a887e9aeb58abde300231c3c761ce9192dd914abf80b2f61a85ff4ff1c54fd8c
 Section: 系统增强
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
 Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 灵动岛跳舞动画PLUS
-Sileodepiction: https://lai28.988456.xyz/depictions/native/com.simon.dynamicislandanimation/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.simon.dynamicislandanimation/depiction.json
 
 Package: com.tencent.voices.rootless
 Version: 1.0-5
@@ -1319,17 +1303,18 @@ Maintainer: vita
 Installed-Size: 204
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/抖音防撤回_0.0-1-1.deb
-Size: 17148
-MD5sum: e6f160d3a2aa08acc9a921bc223cce5d
-SHA1: 93935350d318b9887fcfcdb3f6eebc09dcade3ad
-SHA256: 69a39228f550c991f7ae7e3b7588f62006156b79535ec6e60a4652af55bd645c
+Size: 17192
+MD5sum: 254d581055cab953247bc734dd5e5839
+SHA1: b667b6f02dfe969ee7642ca894afdbb6e758a364
+SHA256: 478649b41d1376c77e06f1f1e4dba0e189add80eee1659e94ebe11f7f480397c
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/wtrwx
 Description: 免费插件，随缘更新。
 Author: vita
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 抖音防撤回
-Sileodepiction: https://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
 
 Package: com.wechat.enhance
 Version: 1.0.4-1+debug
@@ -1678,16 +1663,17 @@ Architecture: iphoneos-arm64e
 Maintainer: Netskao
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: debs/CCCellularRate-隐根_1.1-1.deb
-Size: 103464
-MD5sum: 9aa19e2a01e968e4c1ff3ceec7541217
-SHA1: 94088c8d7aaf1eb03fa63577674aff57f3cb9f7e
-SHA256: 36d1434cd10687d4bfc0fa3a581b9902511f413cd2d39e68877ce2b1acf07ff2
+Filename: debs/CCCellularRate_1.1-1.deb
+Size: 91452
+MD5sum: 1e7a93ed3ebbf935090cd7f02a385941
+SHA1: 0e3d408666de130ec73f67572a795ef9124bd714
+SHA256: f74088cccec0f86e5087ce98448f98a9d3268edf81e2b9369a94e0dc5e1d2d38
 Section: 系统增强
 Description: 在控制中心快速切换2/3/4/5G 网络
 Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: CCCellularRate
-Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.cccellularrate/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.cccellularrate/depiction.json
 
 Package: lai28.ccsim
 Version: 1.1-9
@@ -1824,16 +1810,17 @@ Architecture: iphoneos-arm64e
 Maintainer: NoisyFlake
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
-Filename: debs/CozyBadges-隐根_2.1.deb
-Size: 68908
-MD5sum: 2a48a53ee8bbc8b67dd2815da06e1baa
-SHA1: 908f653d23f7df37a2d189be202a1fe8bde09946
-SHA256: 29b1092ca8ef45c6747d93e43ae92ec10aee342827a94801d4488708f3bb95be
+Filename: debs/CozyBadges_2.1.deb
+Size: 61444
+MD5sum: 89071206e03259fa1e3ce496def01b29
+SHA1: 3fcbea5eafbe3005c22890d9081016cf54f52161
+SHA256: 63536ce7dbf00d4aff0cebd16c0d23e65b2ac1cf42858c24a0c8f9e99e390b96
 Section: 系统增强
 Description: 彩色角标通知，显示在APP下面，
 Author: NoisyFlake
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: CozyBadges
-Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.cozybadges/depiction.json
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.cozybadges/depiction.json
 
 Package: lai28.debdse
 Version: 0.2
