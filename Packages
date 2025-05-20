@@ -787,13 +787,13 @@ Package: com.huami.dyyy
 Version: 2.2-7-1
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2396
+Installed-Size: 2412
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/DYYY_2.2-7-1.deb
-Size: 514616
-MD5sum: a25f87bb76e2ef965aba2c22a01b7370
-SHA1: 8a43dcc12f7cb9215a613159dc037b63d50f19ac
-SHA256: 4701dd366ed1a8cc69901403c036f97f86db14b08026abb7a09e5bfc15945f53
+Size: 514100
+MD5sum: de860bbdb35d757f992715b3543d5d71
+SHA1: 61ad4438183ce97ef2e41bf9462b996053676e39
+SHA256: cd095cef9a5b0b2ee872d2e635af73f19d5ce1f4c9b819e4bb7de176b9668965
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1691,6 +1691,26 @@ Description: 免费插件，随缘更新。
 Author: vita
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 抖音防撤回
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
+
+Package: com.vita.yuki
+Version: 0.0-2
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 220
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Yuki_0.0-2.deb
+Size: 22388
+MD5sum: c510dfa96bf418b37662e5046309abd0
+SHA1: dbd635754edc160c6d2b4ff298aabd21b96cc604
+SHA256: 1d42588f70736774f50335997a2b622d5bdcfa2fc59d71870790b3216119efd6
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Yuki
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
 
 Package: com.wechat.enhance

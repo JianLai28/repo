@@ -18,7 +18,7 @@
                 },
                 {
                     "title": "版本",
-                    "text": "1.0-4",
+                    "text": "1.0-5",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "title": "更新时间",
-                    "text": "2025/03/09",
+                    "text": "2025/5/20",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -60,6 +60,19 @@
         {
             "tabname": "更新",
             "views": [
+      {
+        "title": "1.0-5",
+        "useBoldText": true,
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "- -",
+        "useSpacing": false,
+        "useBottomMargin": false,
+        "class": "DepictionMarkdownView"
+      }, 
                 {
                     "title": "1.0-4",
                     "useBoldText": true,
