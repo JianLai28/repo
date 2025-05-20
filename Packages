@@ -784,16 +784,16 @@ Name: DYYY
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
 Package: com.huami.dyyy
-Version: 2.2-7-1
+Version: 2.2-7-519
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2412
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_2.2-7-1.deb
-Size: 514100
-MD5sum: de860bbdb35d757f992715b3543d5d71
-SHA1: 61ad4438183ce97ef2e41bf9462b996053676e39
-SHA256: cd095cef9a5b0b2ee872d2e635af73f19d5ce1f4c9b819e4bb7de176b9668965
+Filename: debs/DYYY_2.2-7-519.deb
+Size: 515032
+MD5sum: 175cec5d5fcb014b4bf0f7bc42571236
+SHA1: d2ed014e4f5351f0369d405bd488d247b5f9639b
+SHA256: 341f8f476eb47cbbd989258b677ad4e667c652f72244805c61f6a53d9837e479
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1672,26 +1672,6 @@ Author: tesla_man <computerman939+POBsupport@gmail.com>
 Depiction: https://chariz.com/get/popoutbuttons
 Name: PopOutButtons
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.teslaman3092.popoutbuttons/depiction.json
-
-Package: com.vita.yuki
-Version: 0.0-1-1
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 204
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/抖音防撤回_0.0-1-1.deb
-Size: 17192
-MD5sum: 254d581055cab953247bc734dd5e5839
-SHA1: b667b6f02dfe969ee7642ca894afdbb6e758a364
-SHA256: 478649b41d1376c77e06f1f1e4dba0e189add80eee1659e94ebe11f7f480397c
-Section: 抖音增强
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 抖音防撤回
-Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
 
 Package: com.vita.yuki
 Version: 0.0-2
