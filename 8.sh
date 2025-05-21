@@ -3,8 +3,8 @@
 # 定义本地仓库路径
 LOCAL_REPO_PATH="/var/mobile/Containers/Shared/AppGroup/.jbroot-198A866B09619086/var/mobile/repo"
 
-# 定义远程仓库地址
-REMOTE_REPO_URL="https://github.com/JianLai28/repo.git"  # 替换为你的远程仓库地址
+# 定义远程仓库地址（SSH格式）
+REMOTE_REPO_URL="git@github.com:JianLai28/repo.git"  # 替换为你的远程仓库地址
 
 # 切换到本地仓库目录
 cd "$LOCAL_REPO_PATH" || { echo "本地仓库路径不存在"; exit 1; }
