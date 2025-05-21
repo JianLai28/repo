@@ -27,7 +27,7 @@ git remote add origin "$REMOTE_REPO_URL" 2>/dev/null || git remote set-url origi
 
 # 推送到远程仓库
 echo "正在推送到远程仓库..."
-git push -u origin master
+git push -u origin main  # 修改为推送 main 分支
 
 # 检查是否成功
 if [ $? -eq 0 ]; then
