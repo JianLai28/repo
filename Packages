@@ -331,6 +331,23 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 黄白助手
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.7
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手(微信插件)-Rootless_1.8.7.deb
+Size: 11340524
+MD5sum: 33e011e145c9cf807ea455b25b199179
+SHA1: cb614ec8cf118483851cc6ddecad5ca78091bbd8
+SHA256: 7a2a7d41ee9b683ef2292ca29517cf35186b41b285b4f50a8a07f62f9d57dac5
+Section: 微信增强
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
 Architecture: iphoneos-arm64e
@@ -402,6 +419,25 @@ Description: 弥补微信通知不足，支持点击微信消息通知横幅，�
 Author: be-huge
 Name: 微信信息直达
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.7-6
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.7-6.deb
+Size: 856184
+MD5sum: 781e1595df1745371bd99b2d59e57665
+SHA1: 8bc928dbe8e7ffa4dc694691fea8db814a38425a
+SHA256: 0ae45ee3d02d14e34f70ee0e3ea66054cca63a119e3e77ee4d89167c8729000b
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: PKC
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.curtin.pkc.rootless/depiction.json
 
 Package: com.doki.wxkeyboarduihook
 Version: 1.8
@@ -831,6 +867,26 @@ Size: 515848
 MD5sum: a60e1dfa494e20ff5911a351b475c1e9
 SHA1: 7933fcb39a97b586b8e5c0fbbff20f706138f8bc
 SHA256: 4f437cbb67aeea1526a57c470f1a5244e8e00f190cac3b6f0589ee6154a8a6bf
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: DYYY
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
+
+Package: com.huami.dyyy
+Version: 2.2-7-526
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2396
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/DYYY_2.2-7-526.deb
+Size: 515668
+MD5sum: 52cca8178e6ee09a6cac7514b37280ea
+SHA1: 32e5b865ced02711fcb4e616e58f82d1adc9efc2
+SHA256: dc1d0dbcf9ee9f3c605a3c101146a3a8bc4fd1d146faa50fb75cc9241500c246
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1420,6 +1476,24 @@ Author: huami&Lxcloud
 Name: 微信增强
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.lxcloud.WCEhance/depiction.json
 
+Package: com.mumu.hanhuaggs
+Version: 1.1-9+debug
+Architecture: iphoneos-arm64e
+Maintainer: mumu
+Installed-Size: 488
+Filename: debs/HanhuaGGs_1.1-9+debug.deb
+Size: 68248
+MD5sum: de8e733591a622a44106241dea11009d
+SHA1: 6af8b764fa832ed98eea3002d6c1f059bc0d2516
+SHA256: 953bdebf6852557a83d0d7a08f3d0e2ae7a1176dce974e51bfe5b31414833f05
+Section: 系统增强
+Description: 汉化插件 - 支持长按高亮、文本替换、百度翻译
+Tag: role::tweaks
+Author: mumu
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: HanhuaGGs
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.mumu.hanhuaggs/depiction.json
+
 Package: com.nahtedetihw.stepup
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -1741,6 +1815,26 @@ Size: 24768
 MD5sum: f326882ff150a3197fa202d73b803a9e
 SHA1: 0ab8c95fec1484b6b108cf301a89accfeabddbb1
 SHA256: 23199250fafe7084dfe06df8729effcd4dee269c7f89068a900eba53801a4b1c
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Yuki
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
+
+Package: com.vita.yuki
+Version: 0.0-5
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Yuki_0.0-5.deb
+Size: 31652
+MD5sum: 14560fbddc914215bd8da343cf28ef38
+SHA1: ed21de6c35e35681918a57fdb279bbf799a85ac4
+SHA256: f746b8d9a129f92e8110e87ddf2e1785a2fa0114195746850d2f8ca09ba010dd
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/wtrwx
