@@ -479,6 +479,30 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: PKC
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.curtin.pkc.rootless/depiction.json
 
+Package: com.cydiageek.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 718
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: debs/SpringAnimations_1.1.1.deb
+Size: 53312
+MD5sum: 3c124ff55901b61bd59ca8dd0f124b76
+SHA1: ca6dbc9cf1652762b5353e5bdc8c62d4d16ad17d
+SHA256: cc42b7c0e98a9895b0a699f0960dd3cf2a180e0832981fb96da104592dd8278c
+Section: 系统增强
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Description: Nice SpringBoard Animations Effects on
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SpringAnimations
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.cydiageek.springanimations/depiction.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.doki.wxkeyboarduihook
 Version: 1.8
 Architecture: iphoneos-arm64e
@@ -2261,6 +2285,24 @@ Author: appku
 Name: 爱锋助手
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.app.wechat/depiction.json
 
+Package: lai28.autoscroll
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: pxcex
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
+Filename: debs/AutoScroll_1.0.0.deb
+Size: 5260
+MD5sum: ac88a81bdc923545d8858bf5f78d090c
+SHA1: 4b2edbf3283d29c3ab55ca06b145b70dce5da404
+SHA256: 52758bd9486e1b8a62f62dd8dc5d80ad558db264971d9ee76daee4ae333756b6
+Section: 系统增强
+Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Author: pxcex
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: AutoScroll
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.autoscroll/depiction.json
+
 Package: lai28.awemealwaysshowtime
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -2699,6 +2741,23 @@ Author: mikifp
 Depiction: https://repo.cypwn.xyz/depiction/2928
 Name: Griddy
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.griddy/depiction.json
+
+Package: lai28.griddy
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 剑来
+Depends: mobilesubstrate
+Filename: debs/Griddy_1.0.5.deb
+Size: 19448
+MD5sum: e096f9fbaaf5ca67ca8e1f0212e14f04
+SHA1: 7c8b58433223ad1917d3377df268b50d568fdffd
+SHA256: 2284d7d855258d2f1afdff0455c8cfafc7fb3eb0773d366a1048035180f11049
+Section: 系统增强
+Description: 桌面图标小部件随意摆放
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Griddy
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.griddy/depiction.json
 
 Package: lai28.huami.dyyy
 Version: 2.1-8
