@@ -358,16 +358,16 @@ Version: 1.8.7
 Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debs/黄白助手(微信插件)-Rootless_1.8.7.deb
-Size: 11340524
-MD5sum: 33e011e145c9cf807ea455b25b199179
-SHA1: cb614ec8cf118483851cc6ddecad5ca78091bbd8
-SHA256: 7a2a7d41ee9b683ef2292ca29517cf35186b41b285b4f50a8a07f62f9d57dac5
+Filename: debs/黄白助手_1.8.7.deb
+Size: 11347552
+MD5sum: c4809fdb260dc30345f523587c373f0e
+SHA1: 2df1f7eda03cb5efbf9ad7e186c0013892fe80fa
+SHA256: ce6d7f8afa0cf5630a24c7ec4cb3050e775be63d2a05473317d9b755ec92f249
 Section: 微信增强
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 黄白助手(微信插件)-Rootless
+Name: 黄白助手
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.HBWechatHelper.ailun/depiction.json
 
 Package: com.anthopak.quickprefs-rootless
@@ -441,6 +441,24 @@ Description: 弥补微信通知不足，支持点击微信消息通知横幅，�
 Author: be-huge
 Name: 微信信息直达
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/WechatPushMsgPage_0.0.5.deb
+Size: 22796
+MD5sum: 581435ee5f8e44d28c33e5814f595b4a
+SHA1: 53fe81fdd32a53ff4eb2bed5ffeb864c7f71bb25
+SHA256: 452037e3ad09adcaad2e5fa97b8fea4a226a014f468534eba47591fe0b46d65e
+Section: 微信增强
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: WechatPushMsgPage
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
 
 Package: com.curtin.pkc.rootless
 Version: 0.7-6
@@ -875,66 +893,6 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
-
-Package: com.huami.dyyy
-Version: 2.2-7-519
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2412
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_2.2-7-519.deb
-Size: 515032
-MD5sum: 175cec5d5fcb014b4bf0f7bc42571236
-SHA1: d2ed014e4f5351f0369d405bd488d247b5f9639b
-SHA256: 341f8f476eb47cbbd989258b677ad4e667c652f72244805c61f6a53d9837e479
-Section: 抖音增强
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: DYYY
-Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
-
-Package: com.huami.dyyy
-Version: 2.2-7-521
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2412
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_2.2-7-521.deb
-Size: 515848
-MD5sum: a60e1dfa494e20ff5911a351b475c1e9
-SHA1: 7933fcb39a97b586b8e5c0fbbff20f706138f8bc
-SHA256: 4f437cbb67aeea1526a57c470f1a5244e8e00f190cac3b6f0589ee6154a8a6bf
-Section: 抖音增强
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: DYYY
-Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
-
-Package: com.huami.dyyy
-Version: 2.2-7-526
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2396
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/DYYY_2.2-7-526.deb
-Size: 515668
-MD5sum: 52cca8178e6ee09a6cac7514b37280ea
-SHA1: 32e5b865ced02711fcb4e616e58f82d1adc9efc2
-SHA256: dc1d0dbcf9ee9f3c605a3c101146a3a8bc4fd1d146faa50fb75cc9241500c246
-Section: 抖音增强
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: DYYY
-Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-5
@@ -1754,17 +1712,35 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 灵动岛跳舞动画PLUS
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.simon.dynamicislandanimation/depiction.json
 
+Package: com.sini921.zoomanimation
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/ZoomAnimation_0.0.1-2.deb
+Size: 42000
+MD5sum: b50af7ad437bcaf3f8bd4dadad37796f
+SHA1: 52d5cc5ccca5c636dbe1941a3d9614fc3e97807f
+SHA256: a6393a473072d3c890f4d128fd31101a942ce867be6cb140882fd182ac0c74de
+Section: 系统增强
+Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
+Author: SINI
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: ZoomAnimation
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.sini921.zoomanimation/depiction.json
+
 Package: com.spark.ccmusicartwork
-Version: 2.4.0-rootless
+Version: 2.4.0
 Architecture: iphoneos-arm64e
 Maintainer: Spark
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/CCMusicArtwork_2.4.0-rootless.deb
+Filename: debs/CCMusicArtwork_2.4.0.deb
 Size: 256664
-MD5sum: 08f0bd110d6379cb86419c5b63f8c68a
-SHA1: c17204dcc4c42aa9be786633fdc2506875abe708
-SHA256: 04e93cca17f0e75d5d44067b229c340f088d45fba449f2bac7abe14a34c4d3d1
+MD5sum: ec5deaa97632ab3547664789d8cce954
+SHA1: 5053a52861faa9eccfeb619612d48f94e0f32726
+SHA256: 0fbb9ee42137a0b9051d9debc4bf730042e1c91c0a9f1e3c22b1d50be7e76096
 Section: 系统增强
 Description: Shows album artwork behind the music module in the iOS 11-13 control center
 Author: Spark
@@ -1904,16 +1880,16 @@ Name: Yuki
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
 
 Package: com.vita.yuki
-Version: 0.0-5-10
+Version: 0.0-6
 Architecture: iphoneos-arm64e
 Maintainer: vita
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/Yuki_0.0-5-10.deb
-Size: 36532
-MD5sum: c27bfa28c62648977383213d570378d6
-SHA1: e10bb0fd87584b29db17da2fac3010f769651781
-SHA256: 5c084973b3d026eae0542358eb9dcc7e7d722c05f7e87a46c71e83fe51b8331e
+Filename: debs/Yuki_0.0-6.deb
+Size: 39132
+MD5sum: ee019952da1d19b0eb09b15212990fb4
+SHA1: b304c1b13050e3e1de4d704422a1bd8f5547f03f
+SHA256: 590c8eb9e534550e54dac223e686fa74af870ff1ec7a25a14f34a19044285ea9
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/wtrwx
