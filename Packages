@@ -407,6 +407,25 @@ Author: be-huge
 Name: floatingView
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.be-huge.floating-view/depiction.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.5-9
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/floatingView_1.5.5-9.deb
+Size: 615964
+MD5sum: 3354ef5c7921d163cc1bb7a70f6e803a
+SHA1: ac8fec58dbd5e3c18cb92d0e0ae42f1ea6a78b5f
+SHA256: 47c11621c991a1b0565bc3197e9fef447d7da747b9a0b680cb46372b58a6b627
+Section: 系统增强
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: floatingView
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.be-huge.floating-view/depiction.json
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.4
 Architecture: iphoneos-arm64e
