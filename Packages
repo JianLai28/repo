@@ -112,6 +112,24 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: Hello Area
 Sileodepiction: http://lai28.988456.xyz/depictions/native/cn.zqbb.helloarea/depiction.json
 
+Package: codes.aurora.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/Kayoko_2.9.deb
+Size: 129412
+MD5sum: 3fd924ca4142cdec5f2eeb850a7fb342
+SHA1: 53f6dcad4b0251b780980f2d3caa2796acd674f6
+SHA256: 086563702c88902f4aad679cb27e6ca281fa92e1860e2858dbf45ee497330abc
+Section: 系统增强
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Kayoko
+Sileodepiction: http://lai28.988456.xyz/depictions/native/codes.aurora.kayoko/depiction.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64e
@@ -478,6 +496,23 @@ Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: WechatPushMsgPage
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.be-huge.wechat-push-msg-page/depiction.json
+
+Package: com.choco.tg
+Version: 1.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: waruhachi
+Installed-Size: 28284
+Filename: debs/TGExtra_1.2-1+debug.deb
+Size: 4653488
+MD5sum: 64dc0ea305f3779181d7e2f2775348b8
+SHA1: 0a44539e9ab32d7da4dd34251d40c4da1487266a
+SHA256: 8e22ad8b37f7a321eb0ae99c61770feb3272da30f188ad0bde524b474968cb90
+Section: 应用增强
+Description: A simple Tweak For Telegram iOS
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: TGExtra
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.choco.tg/depiction.json
 
 Package: com.curtin.pkc.rootless
 Version: 0.7-6
