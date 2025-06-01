@@ -972,6 +972,24 @@ Author: huami
 Name: DYYY
 Sileodepiction: https://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
+Package: com.huami.dyyy
+Version: 2.2-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2356
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/抖音魔术师_2.2-7.deb
+Size: 459668
+MD5sum: 092e0d628780ab8019d0d1e56b50d69f
+SHA1: 61747fd1f10d5bb878cbd236594e73dc607fdfc4
+SHA256: 16ed7b52ca61e207e05134812acf83d1688d0ceb5e1858b164f01bd5d2cdf16a
+Section: 抖音增强
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 抖音魔术师
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
+
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -1752,6 +1770,25 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: FlexibleExpression
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.shtm.flexibleexpression/depiction.json
 
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 4324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/FlexibleExpression_1.2.0.deb
+Size: 3645148
+MD5sum: 88b442b705d30be8011ffe8cfd143edf
+SHA1: 7b82c2a82b726ae0b053d4fa6df65f1379e473f4
+SHA256: f1e693850f31956fca21e889a1c08419022c11490b63aa8b511e209eafc1cb16
+Section: 系统增强
+Description: 灵动空间，灵动岛不再枯燥！1.2.0 更新内容：1. 新增锁屏动画
+Author: SHTM
+Depiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: FlexibleExpression
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.shtm.flexibleexpression/depiction.json
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -1968,6 +2005,26 @@ Size: 39132
 MD5sum: ee019952da1d19b0eb09b15212990fb4
 SHA1: b304c1b13050e3e1de4d704422a1bd8f5547f03f
 SHA256: 590c8eb9e534550e54dac223e686fa74af870ff1ec7a25a14f34a19044285ea9
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: Yuki
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.vita.yuki/depiction.json
+
+Package: com.vita.yuki
+Version: 0.0-7
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 320
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Yuki_0.0-7.deb
+Size: 50112
+MD5sum: 8e2a40d1323d483ae88c153b78e73c0c
+SHA1: 53e52a7c9d8ddf147532f46251d07773d19e7bde
+SHA256: fe08af432648d7c8840e9880e3455bbc7f79f7f364aab6fe7ff3b8df52881d57
 Section: 抖音增强
 Priority: optional
 Homepage: https://github.com/wtrwx
