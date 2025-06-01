@@ -3410,6 +3410,24 @@ Name: split-view-pro
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.split-view-pro/depiction.json
 Ts: sp-sss
 
+Package: lai28.springanimation
+Version: 0.1-3+debug
+Architecture: iphoneos-arm64e
+Maintainer: 剑来
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/SpringAnimation_0.1-3+debug.deb
+Size: 3500
+MD5sum: f73a23446ebf6ba4591b2feb871208c3
+SHA1: 90fa381e7fa6243803ed7545b2d18daf78353c60
+SHA256: d21cb844b63c657c1845b204859f0545746d687b6c536d76dea352577948faab
+Section: 系统增强
+Description: 桌面交互动画
+Author: 剑来
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: SpringAnimation
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.springanimation/depiction.json
+
 Package: lai28.stella
 Version: 1.1
 Architecture: iphoneos-arm64
