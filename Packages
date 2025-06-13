@@ -255,6 +255,24 @@ Name: 微信助手
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信助手_3.8-5.deb
+Size: 8872116
+MD5sum: a085c8e7263f2bc27add8263f73c4c03
+SHA1: f67e18090411cf3acb2fbd4eebaa23e84076def6
+SHA256: 66f4648266fd48358f6f81db55f3fa0931c8c4fe34bd90862ccd022e7538a5e9
+Section: 微信增强
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 微信助手
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.25mao.miyou.rootless/depiction.json
+
 Package: com.25mao.wxurlexpand.rootless
 Version: 0.2-0
 Architecture: iphoneos-arm64e
@@ -969,6 +987,26 @@ Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；�
 Author: huami
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 抖音魔术师
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
+
+Package: com.huami.dyyy
+Version: 2.2-8-613
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2340
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/DYYY_2.2-8-613.deb
+Size: 458348
+MD5sum: c3335e41f1f6389f13272c528a588c7c
+SHA1: 6e1812cde4426257093f5ab8650f95a5966dbe94
+SHA256: b933e840a12f8b8ea527ae9551074572942c544f5462c4c59793e3a1a5043e7f
+Section: 抖音增强
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: DYYY
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.huami.dyyy/depiction.json
 
 Package: com.huami.wcnicknameavatarstyle
@@ -2221,6 +2259,24 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: WeChatEnhance
 Sileodepiction: http://lai28.988456.xyz/depictions/native/com.wechat.enhance/depiction.json
 
+Package: com.wechat.enhance
+Version: 1.4-6
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WeChatEnhance_1.4-6.deb
+Size: 456688
+MD5sum: 75f4a63e19b432fa53197c5eb7f6299d
+SHA1: d85bf6af8bfdd259377fd8284dad7a62888256b9
+SHA256: 25dc0cb879f2dea07528f0ee1facf499d283a36a5d0d8f99c82fc2ff08816536
+Section: 微信增强
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: WeChatEnhance
+Sileodepiction: http://lai28.988456.xyz/depictions/native/com.wechat.enhance/depiction.json
+
 Package: com.xx.ysbrowserhook
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -3190,6 +3246,44 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC
 Sileodepiction: https://lai28.988456.xyz/depictions/native/lai28.pkc/depiction.json
+
+Package: lai28.pkc
+Version: 0.7-7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_无根_0.7-7.deb
+Size: 919504
+MD5sum: 940bdda4eda9c1ce6ff4ca498b86a3e8
+SHA1: 6bcc8c38c71ada3baf22e3725583c6a3ee65df28
+SHA256: bbf1f952fa67f56aa5492151ee104b03900a22127fe3cb3b110382b5b94a9308
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: PKC_无根
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.pkc/depiction.json
+
+Package: lai28.pkc
+Version: 0.7-7
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/PKC_0.7-7.deb
+Size: 902436
+MD5sum: 073afd6edbab3aeb35888ff64eef2958
+SHA1: 2db13d9b54907d0357da61ef5cf6730d2249037f
+SHA256: 1d5941052cc0836d86345aba3073bd983060765ecb5de13df750881ae3e24920
+Section: 微信增强
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: PKC
+Sileodepiction: http://lai28.988456.xyz/depictions/native/lai28.pkc/depiction.json
 
 Package: lai28.qmxshook
 Version: 1.0.3

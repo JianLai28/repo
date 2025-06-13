@@ -63,7 +63,7 @@
                 "class": "DepictionSubheaderView"
               },
               {
-                "markdown": "- -暂无更新记录",
+                "markdown": "- 暂无更新记录",
                 "useSpacing": false,
                 "useBottomMargin": false,
                 "class": "DepictionMarkdownView"
