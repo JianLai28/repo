@@ -50,24 +50,6 @@
                     "spacing": 0,
                     "class": "DepictionSpacerView"
                 }
-                {
-                    "text": "硅基流动AI注册：免费2000万Tokens",
-                    "action": "https://cloud.siliconflow.cn/i/iFLl1Eje",
-                    "class": "DepictionButtonView"
-                },
-                {
-                    "spacing": 0,
-                    "class": "DepictionSpacerView"
-                }
-                {
-                    "text": "云雾AI注册：免费$0.4额度",
-                    "action": "https://yunwu.ai/register?aff=ymTh",
-                    "class": "DepictionButtonView"
-                },
-                {
-                    "spacing": 0,
-                    "class": "DepictionSpacerView"
-                }
             ],
             "class": "DepictionStackView"
         },
